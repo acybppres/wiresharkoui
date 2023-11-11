@@ -1,0 +1,2849 @@
+prefix_28	short_name_28	name_28
+00:55:DA:00:00:00/28	ShinkoTe	Shinko Technos co.,ltd.
+00:55:DA:10:00:00/28	Koolpos	KoolPOS Inc.
+00:55:DA:20:00:00/28	BeijingC	Beijing Connected Information Technology Co.,Ltd.
+00:55:DA:30:00:00/28	NovexxSo	Novexx Solutions GmbH
+00:55:DA:40:00:00/28	Datapath	Datapath Limited
+00:55:DA:50:00:00/28	Nanoleaf
+00:55:DA:60:00:00/28	Ooo"Deka	Ooo "Dekatron"
+00:55:DA:70:00:00/28	Lucistec	Lucistechnologies（Shanghai）Co.,Ltd
+00:55:DA:80:00:00/28	Broadsof	BroadSoft, Inc.
+00:55:DA:90:00:00/28	QuantumC	Quantum Communication Technology Co., Ltd.,Anhui
+00:55:DA:A0:00:00/28	Speechla	Speechlab
+00:55:DA:B0:00:00/28	Interaxo	Interaxon Inc
+00:55:DA:C0:00:00/28	DonguanW	Donguan WideLink Communication Technology Co.,Ltd.
+00:55:DA:D0:00:00/28	ArrowEle	Arrow Electronics,Inc.
+00:55:DA:E0:00:00/28	Victorsu	Victorsure Limited
+00:55:DA:F0:00:00/28	Private
+00:69:67:00:00:00/28	Annapurn	Annapurna labs
+00:69:67:10:00:00/28	Miliwave
+00:69:67:20:00:00/28	NingboSh	Ningbo Shen Link Communication Technology Co.,Ltd
+00:69:67:30:00:00/28	SuzhouRa	Suzhou Radiant Lighting Technology Co.,Ltd
+00:69:67:40:00:00/28	CommandA	Command Alkon, Inc
+00:69:67:50:00:00/28	Shenzhen	Shenzhen Xiao Bi En Culture Education Technology Co.,Ltd.
+00:69:67:60:00:00/28	Comcast-	Comcast-SRL
+00:69:67:70:00:00/28	PangaeaS	Pangaea Solution Inc
+00:69:67:80:00:00/28	Ambient-	Ambient-System sp. z o.o.
+00:69:67:90:00:00/28	Hangzhou	Hangzhou Wise IOT Technology Co.,Ltd
+00:69:67:A0:00:00/28	Zhejiang	Zhejiang Holip Electronic Technology Co.,Ltd
+00:69:67:B0:00:00/28	DatapanD	Datapan d.o.o.
+00:69:67:C0:00:00/28	DesirdDe	Desird Design R&D
+00:69:67:D0:00:00/28	Aversix
+00:69:67:E0:00:00/28	TianjinL	Tianjin Lianwu Technology Co., Ltd.
+04:71:4B:00:00:00/28	NeurioTe	Neurio Technology Inc.
+04:71:4B:10:00:00/28	Uavionix	uAvionix Corporation
+04:71:4B:20:00:00/28	Shenzhen	Shenzhen WayOS Technology Crop., Ltd.
+04:71:4B:30:00:00/28	Griesser	Griesser Electronic AG
+04:71:4B:40:00:00/28	Apparate	Apparatebau Gauting GmbH
+04:71:4B:50:00:00/28	BureauEl	Bureau Electronique Appliquee
+04:71:4B:60:00:00/28	Armstron	Armstrong Fluid Technology
+04:71:4B:70:00:00/28	OmylisPt	Omylis Pte Ltd
+04:71:4B:80:00:00/28	Energpor	Energport Inc
+04:71:4B:90:00:00/28	Lighthou	Lighthouse AI, Inc
+04:71:4B:A0:00:00/28	Observab	Observables, Inc.
+04:71:4B:B0:00:00/28	Digibest	Digibest Technology Co., Ltd.
+04:71:4B:C0:00:00/28	Kittyhaw	KittyHawk Corporation
+04:71:4B:D0:00:00/28	Shenzhen	Shenzhen BoClouds Technology Co.,Ltd.
+04:71:4B:E0:00:00/28	GimsoMob	Gimso Mobile Ltd
+04:C3:E6:00:00:00/28	Dreamkas	Dreamkas Llc
+04:C3:E6:10:00:00/28	Guangdon	Guangdong New Pulse Electric Co., Ltd.
+04:C3:E6:20:00:00/28	SisTechn	SiS Technology
+04:C3:E6:30:00:00/28	ExtechEl	Extech Electronics Co., LTD.
+04:C3:E6:40:00:00/28	Innovusi	Innovusion Inc.
+04:C3:E6:50:00:00/28	Invasys
+04:C3:E6:60:00:00/28	Shenzhen	Shenzhen Shuotian Information Technology Co., LTD
+04:C3:E6:70:00:00/28	Advanced	Advanced Digital Technologies, s.r.o.
+04:C3:E6:80:00:00/28	Sloc	SLOC GmbH
+04:C3:E6:90:00:00/28	EkinTekn	Ekin Teknoloji San ve Tic A.S.
+04:C3:E6:A0:00:00/28	SealedUn	Sealed Unit Parts Co., Inc.
+04:C3:E6:B0:00:00/28	FlintecU	Flintec UK Ltd.
+04:C3:E6:C0:00:00/28	ShantouY	Shantou Yingsheng Import & Export Trading Co.,Ltd.
+04:C3:E6:D0:00:00/28	Amiosec	Amiosec Ltd
+04:C3:E6:E0:00:00/28	Teleepoc	Teleepoch Ltd
+04:D1:6E:00:00:00/28	Intriple	INTRIPLE, a.s.
+04:D1:6E:10:00:00/28	LaunchTe	Launch Tech Co., Ltd.
+04:D1:6E:20:00:00/28	SDISPA	s.d.i. s.p.a.
+04:D1:6E:30:00:00/28	BeijingH	Beijing Huaxia Qixin Technology Co., Ltd.
+04:D1:6E:40:00:00/28	Shenzhen	ShenZhen Huafu Information technology Co.?Ltd
+04:D1:6E:50:00:00/28	DspreadT	Dspread Technology (Beijing) Inc.
+04:D1:6E:60:00:00/28	EtlElekt	ETL Elektrotechnik Lauter GmbH
+04:D1:6E:70:00:00/28	Envision	Envision Energy
+04:D1:6E:80:00:00/28	ChengduI	Chengdu Interlink Science And Technology Co.,Ltd
+04:D1:6E:90:00:00/28	FuzhouZh	Fuzhou Zhuoyi Electronic Co.,Ltd
+04:D1:6E:A0:00:00/28	MetraEle	Metra Electronics
+04:D1:6E:B0:00:00/28	National	National Radio & Telecommunication Corporation - NRTC
+04:D1:6E:C0:00:00/28	Pacport	PacPort Corporation
+04:D1:6E:D0:00:00/28	ElotecFi	Elotec Fischer Elektronik GmbH
+04:D1:6E:E0:00:00/28	EvoluteP	Evolute Systems Private Limited
+08:ED:02:00:00:00/28	D2Slink	D2SLink Systems
+08:ED:02:10:00:00/28	Imperx	Imperx, Inc
+08:ED:02:20:00:00/28	TesTouch	TES Touch Embedded Solutions Inc.
+08:ED:02:30:00:00/28	JiangsuL	Jiangsu Logread Network Technology Co., LTD.
+08:ED:02:40:00:00/28	Fio	Fio Corporation
+08:ED:02:50:00:00/28	Vigitron	Vigitron Inc.
+08:ED:02:60:00:00/28	SangoEle	Sango Electronics Co
+08:ED:02:70:00:00/28	ElevenEn	Eleven Engineering Incorporated
+08:ED:02:80:00:00/28	Hantas	Hantas Co., Ltd.
+08:ED:02:90:00:00/28	SavoxCom	Savox Communications
+08:ED:02:A0:00:00/28	Victiana	Victiana SRL
+08:ED:02:B0:00:00/28	SzokEner	Szok Energy and Communication Co., Ltd.
+08:ED:02:C0:00:00/28	GuardRfi	Guard RFID Solutions
+08:ED:02:D0:00:00/28	OrigamiE	Origami Energy Ltd
+08:ED:02:E0:00:00/28	Telstra	Telstra Corporation Limited
+0C:73:EB:00:00:00/28	GeminiDa	Gemini Data Loggers (UK) Limited
+0C:73:EB:10:00:00/28	EversecT	Eversec Technology Corporation
+0C:73:EB:20:00:00/28	Deltapat	Deltapath, Inc.
+0C:73:EB:30:00:00/28	TiinlabA	Tiinlab Acoustic Technology (Shenzhen) Co., Ltd.
+0C:73:EB:40:00:00/28	U-Pass	U-Pass.Co.,Ltd
+0C:73:EB:50:00:00/28	HustyMSt	Husty M.Styczen J.Hupert Sp.J.
+0C:73:EB:60:00:00/28	GreenFox	Green Fox Electro AS
+0C:73:EB:70:00:00/28	DinkleEn	Dinkle Enterprise Co., Ltd.
+0C:73:EB:80:00:00/28	BeijingM	Beijing Miiiw Technology Co., Ltd
+0C:73:EB:90:00:00/28	BeijingL	Beijing L&S Lancom Platform Tech. Co., Ltd.
+0C:73:EB:A0:00:00/28	PiInnovo	Pi Innovo LLC
+0C:73:EB:B0:00:00/28	Synacces	Synaccess Networks
+0C:73:EB:C0:00:00/28	Shenzhen	Shenzhen Samchung Video Technology Co., Ltd.
+0C:73:EB:D0:00:00/28	D-Link（S	D-Link （Shanghai）Limited Corp.
+0C:73:EB:E0:00:00/28	TaiwanPu	Taiwan Pulse Motion Co., Ltd.
+0C:EF:AF:00:00:00/28	Kenmore
+0C:EF:AF:10:00:00/28	Goerlitz	Goerlitz AG
+0C:EF:AF:20:00:00/28	LumelSA	Lumel S.A.
+0C:EF:AF:30:00:00/28	Engineer	Engineering Center ENERGOSERVICE
+0C:EF:AF:40:00:00/28	Sentry36	Sentry360
+0C:EF:AF:50:00:00/28	PremiumS	Premium Sa
+0C:EF:AF:60:00:00/28	Firmware	Firmware Design AS
+0C:EF:AF:70:00:00/28	Syntrans	Syntrans AB
+0C:EF:AF:80:00:00/28	BsxAthle	BSX Athletics
+0C:EF:AF:90:00:00/28	Rotel
+0C:EF:AF:A0:00:00/28	ChengduJ	chengdu joyotime Technology Co., Ltd.
+0C:EF:AF:B0:00:00/28	HubeiCen	Hubei Century Network Technology Co., Ltd
+0C:EF:AF:C0:00:00/28	Gainstro	GainStrong Industry Co.,Ltd
+0C:EF:AF:D0:00:00/28	Cjsc«Svy	CJSC «Svyaz Engineering»
+0C:EF:AF:E0:00:00/28	Infiniso	Infinisource Inc.
+0C:EF:AF:F0:00:00/28	Private
+0C:FE:5D:00:00:00/28	ChengduL	Chengdu Ledong Information & Technology Co., Ltd.
+0C:FE:5D:10:00:00/28	FenderMu	Fender Musical Instrument
+0C:FE:5D:20:00:00/28	DspreadI	Dspread International Co.,Limited
+0C:FE:5D:30:00:00/28	BeijingW	Beijing WayClouds Technology Co., Ltd.
+0C:FE:5D:40:00:00/28	YantaiDo	Yantai Dongfang Wisdom Electic Co.,Ltd.
+0C:FE:5D:50:00:00/28	Selectri	SELECTRIC Nachrichten-Systeme GmbH
+0C:FE:5D:60:00:00/28	Antailiy	Antailiye Technology Co.,Ltd
+0C:FE:5D:70:00:00/28	VermesMi	Vermes Microdispensing GmbH
+0C:FE:5D:80:00:00/28	CtkConta	CTK Contact Electronics co., Ltd.
+0C:FE:5D:90:00:00/28	Celerway	Celerway Communication AS
+0C:FE:5D:A0:00:00/28	FujianJi	Fujian Jieyu Computer Technology Co., Ltd.
+0C:FE:5D:B0:00:00/28	Yinuo-Li	Yinuo-Link Limited
+0C:FE:5D:C0:00:00/28	BepalTec	Bepal Technology Co.,Ltd.
+0C:FE:5D:D0:00:00/28	MaksatTe	Maksat Technologies P Ltd
+0C:FE:5D:E0:00:00/28	Newgreen	Newgreen Tech Co., Ltd.
+10:07:23:00:00:00/28	Ripplete	RippleTek Tech Ltd
+10:07:23:10:00:00/28	BeijingA	Beijing Assem Technology Co., ltd
+10:07:23:20:00:00/28	DiginetC	Diginet Control Systems Pty Ltd
+10:07:23:30:00:00/28	Tongfang	Tongfang computer co.Ltd.
+10:07:23:40:00:00/28	AudioEng	Audio Engineering Ltd.
+10:07:23:50:00:00/28	BeijingS	Beijing Sooall Information Technology Co.,Ltd
+10:07:23:60:00:00/28	EstoneTe	Estone Technology Inc
+10:07:23:70:00:00/28	Nanotech	nanoTech Co., Ltd.
+10:07:23:80:00:00/28	IonProfe	Ion Professional Solutions
+10:07:23:90:00:00/28	Wireless	Wireless input technology Inc.
+10:07:23:A0:00:00/28	TesseraT	Tessera Technology Inc.
+10:07:23:B0:00:00/28	FujianQu	Fujian Quanzhou Dong Ang Electronics Co., Ltd.
+10:07:23:C0:00:00/28	Shenzhen	Shenzhen Xinfa Electronic Co.,ltd
+10:07:23:E0:00:00/28	FirstCha	First Chair Acoustics Co., Ltd.
+10:07:23:F0:00:00/28	Private
+10:DC:B6:00:00:00/28	Private
+10:DC:B6:10:00:00/28	AbbSwitz	ABB Switzerland Ltd.
+10:DC:B6:20:00:00/28	Cal-Comp	Cal-Comp Industria E Comercio De Eletronicos E Informatica Ltda
+10:DC:B6:30:00:00/28	Hanacns
+10:DC:B6:40:00:00/28	Annapurn	Annapurna labs
+10:DC:B6:50:00:00/28	Milesigh	Milesight Taiwan
+10:DC:B6:60:00:00/28	ProlanZr	Prolan Zrt.
+10:DC:B6:70:00:00/28	MoyaComm	Moya Commumication Technology (Shenzhen) Co.,Ltd.
+10:DC:B6:80:00:00/28	SanofiBe	Sanofi (Beijing) Pharmaceutical Co., Ltd.
+10:DC:B6:90:00:00/28	FuzhouRo	Fuzhou Rockchip Electronics Co.,Ltd
+10:DC:B6:A0:00:00/28	Pickerin	Pickering Interfaces Ltd
+10:DC:B6:B0:00:00/28	EyeballF	Eyeball Fintech Company
+10:DC:B6:C0:00:00/28	BbposInt	BBPOS International Limited
+10:DC:B6:D0:00:00/28	Leolabs
+10:DC:B6:E0:00:00/28	Shenzhen	Shenzhen Sunwoda intelligent hardware Co.,Ltd
+14:1F:BA:00:00:00/28	Shenzhen	Shenzhen Mining Technology Co.,Ltd.
+14:1F:BA:10:00:00/28	Gloquad
+14:1F:BA:20:00:00/28	Deutsche	Deutsche Energieversorgung GmbH
+14:1F:BA:30:00:00/28	Private
+14:1F:BA:40:00:00/28	Byzero
+14:1F:BA:50:00:00/28	Inttelix	Inttelix Brasil Tecnologia e Sistemas Ltda
+14:1F:BA:60:00:00/28	ThalesCo	Thales Communications & Security SAS
+14:1F:BA:70:00:00/28	Wisnetwo	Wisnetworks Technologies Co., Ltd.
+14:1F:BA:80:00:00/28	Shenzhen	Shenzhen CATIC Information Technology Industry Co.,Ltd
+14:1F:BA:90:00:00/28	BlackMot	Black Moth Technologies
+14:1F:BA:A0:00:00/28	Winsonic	Winsonic Electronics Co., Ltd.
+14:1F:BA:B0:00:00/28	NewingsC	Newings Communication CO., LTD.
+14:1F:BA:C0:00:00/28	SwissEle	Swiss Electronic (Shenzhen) Co., Ltd
+14:1F:BA:D0:00:00/28	AjisDali	AJIS(DALIAN)co.,LTD
+14:1F:BA:E0:00:00/28	PosSyste	POS Systema LLC
+14:1F:BA:F0:00:00/28	Private
+14:4F:D7:00:00:00/28	Annapurn	Annapurna labs
+14:4F:D7:10:00:00/28	ZehnderG	Zehnder Group AG
+14:4F:D7:20:00:00/28	FedexSer	FedEx Services OTI
+14:4F:D7:30:00:00/28	QingdaoW	Qingdao Wodatong Electronics Co., Ltd.
+14:4F:D7:40:00:00/28	RedTechn	Red Technology Limited
+14:4F:D7:50:00:00/28	FlsFinla	Fls Finland Oy
+14:4F:D7:60:00:00/28	I-Sens	i-SENS, Inc.
+14:4F:D7:70:00:00/28	Shenzhen	Shenzhen V-Streaming Technology Co., Ltd.
+14:4F:D7:80:00:00/28	NportNet	NPort Networks Inc.,
+14:4F:D7:90:00:00/28	EmersonN	Emerson Network Power (India) Pvt. Ltd.
+14:4F:D7:A0:00:00/28	Unirobot	Unirobot Corporation
+14:4F:D7:B0:00:00/28	Arkus-St	Arkus-ST Ltd
+14:4F:D7:C0:00:00/28	D&SCable	D&S Cable Industries (HK) Limited
+14:4F:D7:D0:00:00/28	Shanghai	Shanghai B&A Technology Co., Ltd
+14:4F:D7:E0:00:00/28	EdanInst	Edan Instruments, Inc.
+18:9B:A5:00:00:00/28	Dectris	Dectris Ltd.
+18:9B:A5:10:00:00/28	ChengduV	ChengDu Vantron Technology, Ltd.
+18:9B:A5:20:00:00/28	Airprote	Airprotec
+18:9B:A5:30:00:00/28	Phinetwo	Phinetworks
+18:9B:A5:40:00:00/28	Innomind	Innominds Software Inc
+18:9B:A5:50:00:00/28	Starfire	Starfire Industries LLC
+18:9B:A5:60:00:00/28	MantraSo	Mantra Softech India Pvt Ltd
+18:9B:A5:70:00:00/28	BeijingX	Beijing Xinertel Technology Co., Ltd.
+18:9B:A5:80:00:00/28	Shenzhen	Shenzhen Tong Tai Yi information Technology Co.,Ltd
+18:9B:A5:90:00:00/28	Apana	APANA Inc.
+18:9B:A5:A0:00:00/28	Shenzhen	Shenzhen Fionexx Technologies Ltd.
+18:9B:A5:B0:00:00/28	Eutron	Eutron SPA
+18:9B:A5:C0:00:00/28	ChristEl	Christ Electronic System GmbH
+18:9B:A5:D0:00:00/28	Legendsk	legendsky tech
+18:9B:A5:E0:00:00/28	TaiwanNa	Taiwan Name Plate Co.,LTD
+1C:21:D1:00:00:00/28	ToyoSyst	Toyo System CO.,LTD.
+1C:21:D1:10:00:00/28	Ognios	Ognios GmbH
+1C:21:D1:20:00:00/28	VaraaniW	Varaani Works Oy
+1C:21:D1:30:00:00/28	Microvie	Microview Science and Technology Co.,Ltd
+1C:21:D1:40:00:00/28	Scientif	Scientific-Production Enterprise Dynamics
+1C:21:D1:50:00:00/28	B-Scada	B-Scada Inc.
+1C:21:D1:60:00:00/28	WuhanTie	Wuhan TieChi Detection Technology Co., Ltd.
+1C:21:D1:70:00:00/28	Soundtra	Soundtrack Your Brand Sweden AB
+1C:21:D1:80:00:00/28	Reliatro	Reliatronics Inc.
+1C:21:D1:90:00:00/28	DynojetR	Dynojet Research
+1C:21:D1:A0:00:00/28	LgCns	Lg Cns
+1C:21:D1:B0:00:00/28	GlobalDe	Global Design Solutions Ltd
+1C:21:D1:C0:00:00/28	Private
+1C:21:D1:D0:00:00/28	Liscotec	Liscotech System Co., Ltd.
+1C:21:D1:E0:00:00/28	P2-Plus	p2-plus inc.
+1C:21:D1:F0:00:00/28	Private
+1C:82:59:00:00:00/28	Shandong	Shandong Luneng Intelligence Technology CO., Ltd
+1C:82:59:10:00:00/28	3Xlogic	3xLOGIC Inc.
+1C:82:59:20:00:00/28	Diatrend	Diatrend Corporation
+1C:82:59:30:00:00/28	C&AMarke	C&A Marketing, INC.
+1C:82:59:40:00:00/28	Winsun	winsun AG
+1C:82:59:50:00:00/28	Fagus-Gr	Fagus-GreCon Greten GmbH & Co. KG
+1C:82:59:60:00:00/28	CgiItUk	Cgi It Uk Limited
+1C:82:59:70:00:00/28	JumpTrad	Jump Trading
+1C:82:59:80:00:00/28	Shenzhen	Shenzhen Aoa Technology Co.,Ltd
+1C:82:59:90:00:00/28	Shanghai	Shanghai Xiaoyan Technology Co., Ltd.
+1C:82:59:A0:00:00/28	Estec	ESTec Corporation
+1C:82:59:B0:00:00/28	KeywestN	KeyWest Networks, Inc
+1C:82:59:C0:00:00/28	EvondosO	Evondos Oy
+1C:82:59:D0:00:00/28	AppliedC	Applied Concepts, Inc.
+1C:82:59:E0:00:00/28	Microtro	Microtronics Engineering GmbH
+1C:87:74:00:00:00/28	PhilipsP	Philips Personal Health Solutions
+1C:87:74:10:00:00/28	Sigfox
+1C:87:74:20:00:00/28	Nichigak	Nichigaku
+1C:87:74:30:00:00/28	SiloraR&	Silora R&D
+1C:87:74:40:00:00/28	WeberMar	Weber Marking Systems GmbH
+1C:87:74:50:00:00/28	Xiaoxing	Xiaoxinge (Tangshan) Electronic Technology Co., Ltd.
+1C:87:74:60:00:00/28	Schawbel	Schawbel Technologies LLC
+1C:87:74:70:00:00/28	IngBuero	Ing Buero Ziegler
+1C:87:74:80:00:00/28	SurtecIn	Surtec Industries, Inc
+1C:87:74:90:00:00/28	WideWorl	Wide World Trade HK ltd.
+1C:87:74:A0:00:00/28	Nebbiolo	Nebbiolo Technologies
+1C:87:74:B0:00:00/28	HabeyUsa	HABEY USA Inc.
+1C:87:74:C0:00:00/28	NewNordi	New Nordic Engineering
+1C:87:74:D0:00:00/28	Claber	Claber Spa
+1C:87:74:E0:00:00/28	QuestInt	Quest Integrity
+1C:87:76:00:00:00/28	DspreadT	Dspread Technology (Beijing) Inc.
+1C:87:76:10:00:00/28	EbsSpZOO	EBS Sp. z o.o.
+1C:87:76:20:00:00/28	IbeoAuto	Ibeo Automotive Systems GmbH
+1C:87:76:30:00:00/28	Unjo	Unjo AB
+1C:87:76:40:00:00/28	RdpRu	Rdp.Ru
+1C:87:76:50:00:00/28	ZhuhaiMy	Zhuhai MYZR Technology Co.,Ltd
+1C:87:76:60:00:00/28	Philandr	philandro Software GmbH
+1C:87:76:70:00:00/28	Corporat	Corporate Systems Engineering
+1C:87:76:80:00:00/28	Guangzho	Guangzhou Video-Star Electronics Co.,Ltd.
+1C:87:76:90:00:00/28	TokyoDra	Tokyo Drawing Ltd.
+1C:87:76:A0:00:00/28	JiangsuE	Jiangsu ETERN COMMUNICATION Co.,ltd
+1C:87:76:B0:00:00/28	Hekatron	Hekatron Vertriebs GmbH
+1C:87:76:C0:00:00/28	StroneTe	Strone Technology
+1C:87:76:D0:00:00/28	Qivivo
+1C:87:76:E0:00:00/28	Artis	Artis GmbH
+1C:87:79:00:00:00/28	WurmElek	Wurm GmbH & Co. KG Elektronische Systeme
+1C:87:79:10:00:00/28	A-Gear	A-Gear Company Limited
+1C:87:79:20:00:00/28	Smartmov	SMARTMOVT TECHNOLOGY Co.， LTD
+1C:87:79:30:00:00/28	VisualLa	Visual Land Inc.
+1C:87:79:40:00:00/28	Novetta
+1C:87:79:50:00:00/28	BeidianG	Beidian Group
+1C:87:79:60:00:00/28	Shenzhen	Shenzhen Shouxin Tongda Technology Co.,Ltd
+1C:87:79:70:00:00/28	Tasc	TASC Systems Inc.
+1C:87:79:80:00:00/28	Zhejiang	Zhejiang Itenal Technology Co.,Ltd
+1C:87:79:90:00:00/28	IstriaSo	Istria soluciones de criptografia, S. A.
+1C:87:79:A0:00:00/28	Hangzhou	Hangzhou Xiaowen Intelligent Technology Co., Ltd.
+1C:87:79:B0:00:00/28	BeijingG	Beijing Geedeen Technology Co., Ltd
+1C:87:79:C0:00:00/28	Allthing	AllThingsTalk
+1C:87:79:D0:00:00/28	Shenzhen	Shenzhen Innovaconn Systems Co.,Ltd
+1C:87:79:E0:00:00/28	Assystem	ASSYSTEM France
+1C:88:79:00:00:00/28	Newps	Newps co.,ltd
+1C:88:79:10:00:00/28	AndraSpZ	ANDRA Sp. z o.o.
+1C:88:79:20:00:00/28	Airsmart	Airsmart System Co.,Ltd
+1C:88:79:30:00:00/28	Shenzhen	Shenzhen Xiaoxi Technology Co., Ltd.
+1C:88:79:40:00:00/28	Ultraflu	Ultraflux
+1C:88:79:50:00:00/28	Shenzhen	Shenzhenfreelink Electronic Co.,Ltd
+1C:88:79:60:00:00/28	EolosIt	Eolos IT Corp
+1C:88:79:70:00:00/28	SensysNe	Sensys Networks, Inc.
+1C:88:79:80:00:00/28	ToshibaT	Toshiba Toko Meter Systems Co., LTD.
+1C:88:79:90:00:00/28	Xingtera	Xingtera China Ltd
+1C:88:79:A0:00:00/28	Itw-Feg
+1C:88:79:B0:00:00/28	Gekartel	gekartel AG
+1C:88:79:C0:00:00/28	Accriva
+1C:88:79:D0:00:00/28	BeijingR	Beijing Raycores Technology Co.,Ltd
+1C:88:79:E0:00:00/28	OrionLab	Orion Labs inc
+1C:A0:D3:00:00:00/28	OooTekhn	OOO Tekhnotronika
+1C:A0:D3:10:00:00/28	JabilCir	Jabil circuit italia srl
+1C:A0:D3:20:00:00/28	Novtech	NovTech, Inc.
+1C:A0:D3:30:00:00/28	Savelec
+1C:A0:D3:40:00:00/28	NpoTelec	Npo Telecom Jsc
+1C:A0:D3:50:00:00/28	DynamicC	Dynamic Connect (Suzhou) Hi-Tech Electronic Co.,Ltd.
+1C:A0:D3:60:00:00/28	Intertec	Intertecno SRL "NISUTA"
+1C:A0:D3:70:00:00/28	Private
+1C:A0:D3:80:00:00/28	Desarrol	Desarrollos y Soluciones Guinea I+D S.L.
+1C:A0:D3:90:00:00/28	CirqueAu	Cirque Audio Technology Co., Ltd
+1C:A0:D3:A0:00:00/28	DsmMesst	DSM Messtechnik GmbH
+1C:A0:D3:B0:00:00/28	GuangDon	Guang Dong He Zheng Network Technology Co.,Ltd
+1C:A0:D3:C0:00:00/28	Lyt	LYT inc.
+1C:A0:D3:D0:00:00/28	EratoHk	ERATO (HK) Corporation Limited
+1C:A0:D3:E0:00:00/28	ExicomTe	Exicom Tele-Systems Ltd.
+1C:C0:E1:00:00:00/28	Shenzhen	Shenzhen Highsharp Electronics Ltd.
+1C:C0:E1:10:00:00/28	Hangzhou	Hangzhou Kaierda Electric Welding Machine Co.,Ltd
+1C:C0:E1:20:00:00/28	AbbottMe	Abbott Medical Optics Inc.
+1C:C0:E1:30:00:00/28	Hangzhou	Hangzhou Softel Optic Co., Ltd
+1C:C0:E1:40:00:00/28	Videri	Videri Inc.
+1C:C0:E1:50:00:00/28	KidsWire	Kids Wireless Inc
+1C:C0:E1:60:00:00/28	Monument	Monument Labs, Inc.
+1C:C0:E1:70:00:00/28	Shenzhen	Shenzhen Kinstone D&T Develop Co.,Ltd
+1C:C0:E1:80:00:00/28	LxPty	LX Corporation Pty Ltd
+1C:C0:E1:90:00:00/28	Ospicon	Ospicon Company Limited
+1C:C0:E1:A0:00:00/28	Secheron	Secheron Sa
+1C:C0:E1:B0:00:00/28	ExigentS	Exigent Sensors
+1C:C0:E1:C0:00:00/28	NittoSei	Nitto Seiko
+1C:C0:E1:D0:00:00/28	NewlandN	NewLand (NZ) Communication Tech Limited
+1C:C0:E1:E0:00:00/28	YunYangF	Yun Yang Fire Safety Equipment Co.,Ltd.
+1C:CA:E3:00:00:00/28	Private
+1C:CA:E3:10:00:00/28	PgaElect	Pga Electronic
+1C:CA:E3:20:00:00/28	Insigma	Insigma Inc
+1C:CA:E3:30:00:00/28	Shenzhen	Shenzhen Smart Device Technology Co.,LTD
+1C:CA:E3:40:00:00/28	SunrayMe	Sunray Medical Apparatus Co.,Ltd.
+1C:CA:E3:50:00:00/28	Tengfeng
+1C:CA:E3:60:00:00/28	TokaiRik	Tokai Rika Co., Ltd.
+1C:CA:E3:70:00:00/28	BirdHome	Bird Home Automation GmbH
+1C:CA:E3:80:00:00/28	OxysecSR	OxySec S.r.l.
+1C:CA:E3:90:00:00/28	Shin-Yos	Shin-Yosha Corporation
+1C:CA:E3:A0:00:00/28	Sirea
+1C:CA:E3:B0:00:00/28	DreamVis	Dream Visions Co., LTD
+1C:CA:E3:C0:00:00/28	Gahdeung	Gahdeung Elecom
+1C:CA:E3:D0:00:00/28	Esight	eSight Corporation
+1C:CA:E3:E0:00:00/28	DabiAtla	Dabi Atlante S/A Industrias Medico Odontológicas
+1C:CA:E3:F0:00:00/28	Private
+1C:FD:08:00:00:00/28	InseatSo	InSeat Solutions, LLC
+1C:FD:08:10:00:00/28	Shenzhen	Shenzhen SEWO Technology Co.,Ltd.
+1C:FD:08:20:00:00/28	Hihi	HiHi Ltd
+1C:FD:08:30:00:00/28	UmeoxInn	Umeox Innovations Co.,Ltd
+1C:FD:08:40:00:00/28	SabikOff	SABIK Offshore GmbH
+1C:FD:08:50:00:00/28	BeijingH	Beijing Hengxin Rainbow Information Technology Co.,Ltd
+1C:FD:08:60:00:00/28	A&BTechn	A&B Technology
+1C:FD:08:70:00:00/28	SunweitI	sunweit industrial limited
+1C:FD:08:80:00:00/28	Shenzhen	ShenZhen DeLippo Technology Co., LTD
+1C:FD:08:90:00:00/28	CobhamSl	Cobham Slip Rings
+1C:FD:08:A0:00:00/28	BanmakTe	Banmak Technogies Co.,Ltd
+1C:FD:08:B0:00:00/28	Guangzho	guangzhou huiqun intelligent technology co. LTD
+1C:FD:08:C0:00:00/28	Shanghai	Shanghai YottaTech Co Ltd (上海尧它科技有限公司）
+1C:FD:08:D0:00:00/28	TianjinK	Tianjin Keyvia Electric Co.,Ltd
+1C:FD:08:E0:00:00/28	MeshboxF	Meshbox Foundation Pte. Ltd.
+20:0A:0D:20:00:00/28	Netinovo	Netinovo Technologies(Shenzhen) Ltd
+20:0A:0D:30:00:00/28	ClearlyI	Clearly IP Inc
+20:0A:0D:60:00:00/28	AustinHu	Austin Hughes Electronics Ltd.
+20:0A:0D:70:00:00/28	TecnintH	Tecnint HTE SRL
+20:0A:0D:B0:00:00/28	AmazonTe	Amazon Technologies Inc.
+20:85:93:00:00:00/28	Hemina	Hemina Spa
+20:85:93:10:00:00/28	Networki	Networking Services Corp
+20:85:93:20:00:00/28	MidConti	Mid Continent Controls, Inc.
+20:85:93:30:00:00/28	Unilumin	Unilumin Group Co.,Ltd
+20:85:93:40:00:00/28	Kloudspo	Kloudspot Inc
+20:85:93:50:00:00/28	Wave-InC	Wave-In Communication
+20:85:93:60:00:00/28	Eilersen	Eilersen Electric A/S
+20:85:93:70:00:00/28	GreatLit	Great Lite International
+20:85:93:80:00:00/28	AassetSe	Aasset Security
+20:85:93:90:00:00/28	Private
+20:85:93:A0:00:00/28	H3Indust	H3 Industries, Inc.
+20:85:93:B0:00:00/28	IogProdu	IOG Products LLC
+20:85:93:C0:00:00/28	Reglopla	Regloplas AG
+20:85:93:D0:00:00/28	Shanghai	Shanghai Kenmyond Industrial Network Equipment Co.,Ltd
+20:85:93:E0:00:00/28	Dynaudio
+24:15:10:00:00:00/28	Safetrus	Safetrust Inc
+24:15:10:10:00:00/28	Smabit	SMaBiT GmbH
+24:15:10:20:00:00/28	NileGlob	Nile Global Inc
+24:15:10:30:00:00/28	Kaiyun
+24:15:10:40:00:00/28	Annapurn	Annapurna labs
+24:15:10:50:00:00/28	GanzhouD	Ganzhou Dehuida Technology Co., Ltd
+24:15:10:60:00:00/28	Shandong	Shandong Kehui Power Automation Co. Ltd.
+24:15:10:70:00:00/28	SuzhouA-	SuZhou A-rack Information Technology Co.,Ltd
+24:15:10:80:00:00/28	Private
+24:15:10:90:00:00/28	TopgolfS	Topgolf Sweden AB
+24:15:10:A0:00:00/28	Unitronu	Unitronux(Shenzhen) Intelligence Technology Co.,Ltd
+24:15:10:B0:00:00/28	Teknic	Teknic, Inc.
+24:15:10:C0:00:00/28	Shenzhen	Shenzhen Xtooltech Co., Ltd
+24:15:10:D0:00:00/28	HelenOfT	Helen of Troy
+24:15:10:E0:00:00/28	Satellit	Satellite Link Technology CO.,LTD
+24:4E:7B:00:00:00/28	TekelekE	Tekelek Europe Ltd
+24:4E:7B:10:00:00/28	Sonoscap	sonoscape
+24:4E:7B:20:00:00/28	RccTime	Rcc Time Co.,Limited
+24:4E:7B:30:00:00/28	Shenzhen	Shenzhen Ruixunyun Technology Co.,Ltd.
+24:4E:7B:40:00:00/28	LeshiInt	Leshi Internet Information & Technology (Beijing) Corp.
+24:4E:7B:50:00:00/28	JiangsuX	Jiangsu Xuanbo Electronic Technologies Co.,Ltd
+24:4E:7B:60:00:00/28	OwasysAd	Owasys Advanced Wireless Devices
+24:4E:7B:70:00:00/28	NanjingW	Nanjing Wanlida Technology Co., Ltd.
+24:4E:7B:80:00:00/28	Cyber1St
+24:4E:7B:90:00:00/28	UnimatAu	UniMAT Automation Technology Co., Ltd.
+24:4E:7B:A0:00:00/28	Shenzhen	Shenzhen AWT science & technology limited
+24:4E:7B:B0:00:00/28	MightyAu	Mighty Audio, Inc.
+24:4E:7B:C0:00:00/28	Chunghsi	Chunghsin Technology Group Co.,Ltd
+24:4E:7B:D0:00:00/28	ChurchDw	Church & Dwight Co., Inc.
+24:4E:7B:E0:00:00/28	WithwinT	WithWin Technology ShenZhen CO.,LTD
+28:2C:02:00:00:00/28	SakataDe	SAKATA DENKI Co., Ltd.
+28:2C:02:10:00:00/28	Astronic	Astronics AES
+28:2C:02:20:00:00/28	Shenzhen	Shenzhen emb-star technology co. LTD
+28:2C:02:30:00:00/28	DexinDig	Dexin Digital Technology Corp. Ltd.
+28:2C:02:40:00:00/28	EfentoTP	Efento T P Szydłowski K Zaręba Spółka Jawna
+28:2C:02:50:00:00/28	Llc"Micr	Llc "Microteh"
+28:2C:02:60:00:00/28	LookmanE	Lookman Electroplast Industries Ltd
+28:2C:02:70:00:00/28	TelecomA	Telecom and Microelectonic Industries
+28:2C:02:80:00:00/28	Shenzhen	Shenzhen Neoway Technology Co.,Ltd.
+28:2C:02:90:00:00/28	SystecIn	Systec Intelligent Building Technology (Tianjin) Co.,Ltd.
+28:2C:02:A0:00:00/28	Tokin	Tokin Limited
+28:2C:02:B0:00:00/28	Thirdrea	ThirdReality, Inc
+28:2C:02:C0:00:00/28	EpochInt	Epoch International Enterprises, Inc.
+28:2C:02:D0:00:00/28	Shenzhen	Shenzhen Domenor Technology Llc
+28:2C:02:E0:00:00/28	Capintec	Capintec, Inc.
+28:36:38:00:00:00/28	KnowlesE	Knowles Electronics LLC
+28:36:38:10:00:00/28	Panasoni	Panasonic System Solutions Europe
+28:36:38:20:00:00/28	Shenzhen	Shenzhen Gospell Smarthome Electronic Co., Ltd.
+28:36:38:30:00:00/28	Sabinete	Sabinetek
+28:36:38:40:00:00/28	DspreadT	Dspread Technology (Beijing) Inc.
+28:36:38:50:00:00/28	Chargeli	Chargelib
+28:36:38:60:00:00/28	GeorgNeu	Georg Neumann GmbH
+28:36:38:70:00:00/28	Innovati	Innovative Technology Ltd
+28:36:38:80:00:00/28	HavellsI	Havells India Limited
+28:36:38:90:00:00/28	Shenzhen	Shenzhen Zhi Hua Creative Technology Co., Ltd.
+28:36:38:A0:00:00/28	BluekeyP	Bluekey Pty Ltd
+28:36:38:B0:00:00/28	Shanghai	ShangHai Canall Information Technology Co.,Ltd
+28:36:38:C0:00:00/28	Swisson	Swisson AG
+28:36:38:D0:00:00/28	AppeakTe	APPEAK Technology System Co.Ltd.
+28:36:38:E0:00:00/28	ScaHygie	SCA Hygiene Products AB
+28:F5:37:00:00:00/28	ValeoSie	Valeo Siemens eAutomotive Norway
+28:F5:37:10:00:00/28	Umojo
+28:F5:37:20:00:00/28	UnicairC	Unicair Communication Tec Co., Ltd.
+28:F5:37:30:00:00/28	Primetec	Primetech Engineering Corp.
+28:F5:37:40:00:00/28	PhynLlc	Phyn LLC
+28:F5:37:50:00:00/28	Atomrock	Atomrock LLC
+28:F5:37:60:00:00/28	Myomega	MyOmega Systems GmbH
+28:F5:37:70:00:00/28	Shenzhen	Shenzhen Modern Cowboy Technology Co.,Ltd.
+28:F5:37:80:00:00/28	1More
+28:F5:37:90:00:00/28	HerbertW	Herbert Waldmann GmbH & Co. KG
+28:F5:37:A0:00:00/28	Honeywel	Honeywell Safety Products USA, Inc
+28:F5:37:B0:00:00/28	LogimSof	LogiM GmbH Software und Entwicklung
+28:F5:37:C0:00:00/28	MatricxS	Matricx Singapore Pte Ltd
+28:F5:37:D0:00:00/28	Skyrocke	Skyrockettoys LLC
+28:F5:37:E0:00:00/28	Performa	Performance Motion Devices
+28:FD:80:00:00:00/28	Millcode
+28:FD:80:10:00:00/28	Galileo	Galileo, Inc.
+28:FD:80:20:00:00/28	Zhixiang	Zhixiang Technology Co., Ltd.
+28:FD:80:30:00:00/28	Nuuo	NUUO, Inc.
+28:FD:80:40:00:00/28	DigitalS	Digital Signal Corp
+28:FD:80:50:00:00/28	Xiaocong	Xiaocong Network Limited
+28:FD:80:60:00:00/28	VigilMon	Vigil Monitoring
+28:FD:80:70:00:00/28	Universi	University of York
+28:FD:80:80:00:00/28	JascoPro	Jasco Products Company
+28:FD:80:90:00:00/28	Jinliton	Jinlitong International Co.,Ltd
+28:FD:80:A0:00:00/28	ApolloDi	Apollo Digital (Taiwan) Ltd.
+28:FD:80:B0:00:00/28	PoketHar	Poket Hardware GmbH
+28:FD:80:C0:00:00/28	AirbusDe	Airbus Defence and Space Oy
+28:FD:80:D0:00:00/28	Grandway	Grandway Technology (Shenzhen) Limited
+28:FD:80:E0:00:00/28	T-RadioA	T-Radio AS
+28:FD:80:F0:00:00/28	Private
+2C:16:BD:00:00:00/28	BeijingJ	Beijing Jishi Huitong Technology Co., Ltd.
+2C:16:BD:10:00:00/28	Curtiss-	Curtiss-Wright Drive Technology
+2C:16:BD:20:00:00/28	Aimco
+2C:16:BD:30:00:00/28	Saft	Saft AB
+2C:16:BD:40:00:00/28	SunitOy	Sunit Oy
+2C:16:BD:50:00:00/28	BeijingZ	Beijing Zhijian Link Technology Co., Ltd.
+2C:16:BD:60:00:00/28	Cloudwal	Cloudwalk Technology Co.,Ltd
+2C:16:BD:70:00:00/28	SctOptro	Sct Optronics Co., Ltd
+2C:16:BD:80:00:00/28	Shenzhen	Shenzhen elink smart Co., ltd
+2C:16:BD:90:00:00/28	Shanghai	Shanghai Walktech Information Technology Co.,Ltd.
+2C:16:BD:A0:00:00/28	Shenzhen	Shenzhen Haiying Wire Tech Co., Ltd.
+2C:16:BD:B0:00:00/28	Lingdong	Lingdong Technology (Beijing) Co. Ltd
+2C:16:BD:C0:00:00/28	BeijingC	Beijing CHJ Automotive Co., Ltd.
+2C:16:BD:D0:00:00/28	Hangzhou	Hangzhou Yanzhi Technology Co.,Ltd.
+2C:16:BD:E0:00:00/28	Molex	Molex Incorporated
+2C:26:5F:00:00:00/28	XiamenVo	Xiamen Vorlink Iot Technology Co.,Ltd.
+2C:26:5F:10:00:00/28	Griessba	Griessbach
+2C:26:5F:20:00:00/28	JiangsuJ	Jiangsu JARI Technology Group Co., LTD
+2C:26:5F:30:00:00/28	Shenzhen	shenzhen Clever Electronic Co., Ltd.
+2C:26:5F:40:00:00/28	GtaElect	GTA Electronics Co., Ltd.
+2C:26:5F:50:00:00/28	Motec	Motec GmbH
+2C:26:5F:60:00:00/28	Appostar	Appostar Technology Co. Ltd
+2C:26:5F:70:00:00/28	Coremate	Coremate Technical Co., Ltd
+2C:26:5F:80:00:00/28	ItusNetw	Itus Networks, LLC
+2C:26:5F:90:00:00/28	BrüelKja	Brüel & Kjaer Vibro GmbH
+2C:26:5F:A0:00:00/28	PolaraEn	Polara Engineering
+2C:26:5F:B0:00:00/28	Rexgen	Rexgen Inc.
+2C:26:5F:C0:00:00/28	AatonDig	Aaton Digital
+2C:26:5F:D0:00:00/28	ECore	E Core Corporation
+2C:26:5F:E0:00:00/28	Hysentel	Hysentel Technology Co., Ltd
+2C:26:5F:F0:00:00/28	Private
+2C:27:9E:00:00:00/28	Changzho	Changzhou WEBO Weighing Device & System CO.,LTD
+2C:27:9E:10:00:00/28	Electron	Electronique Bluewave Inc.
+2C:27:9E:20:00:00/28	KunyiEle	Kunyi electronic technology (Shanghai) Co., Ltd.
+2C:27:9E:30:00:00/28	Private
+2C:27:9E:40:00:00/28	Shijiazh	Shijiazhuang King Transportation Equipment Co.,Ltd
+2C:27:9E:50:00:00/28	Audionor	AudioNord Distribution A/S
+2C:27:9E:60:00:00/28	Rutledge	Rutledge Omni Services Pte Ltd
+2C:27:9E:70:00:00/28	Focal-Jm	FOCAL-JMLab
+2C:27:9E:80:00:00/28	Institut	Institut Dr. Foerster GmbH & Co. KG
+2C:27:9E:90:00:00/28	Octoscop	octoScope, Inc.
+2C:27:9E:A0:00:00/28	Exegy	Exegy Inc
+2C:27:9E:B0:00:00/28	Forties	Forties Inc.
+2C:27:9E:C0:00:00/28	WaycomTe	WAYCOM Technology Co.,Ltd
+2C:27:9E:D0:00:00/28	JiangsuJ	Jiangsu JianHu Science & Technology Co., Ltd.
+2C:27:9E:E0:00:00/28	Amaryllo	Amaryllo International Inc.
+2C:48:35:00:00:00/28	Progress	Progress Rail Services, Inspection and Information Systems
+2C:48:35:10:00:00/28	Advanced	Advanced Electronics Company Ltd
+2C:48:35:20:00:00/28	RheonikM	Rheonik Messtechnik GmbH
+2C:48:35:30:00:00/28	NewtraxT	Newtrax Technologies Inc
+2C:48:35:40:00:00/28	Geartech	Geartech Ltd
+2C:48:35:50:00:00/28	ScoutSec	Scout Security, Inc.
+2C:48:35:60:00:00/28	ExertusO	Exertus Oy
+2C:48:35:70:00:00/28	Fast
+2C:48:35:80:00:00/28	DpsElect	DPS Electronics
+2C:48:35:90:00:00/28	Sureflap	SureFlap Ltd
+2C:48:35:A0:00:00/28	Collatz+	Collatz+Trojan GmbH
+2C:48:35:B0:00:00/28	Shanghai	Shanghai Visteon Automotive Electronics System CO. Ltd.
+2C:48:35:C0:00:00/28	Santec	Santec Corporation
+2C:48:35:D0:00:00/28	PhasorSo	Phasor Solutions Ltd
+2C:48:35:E0:00:00/28	Irootech	Irootech Technology Co.,Ltd
+2C:6A:6F:00:00:00/28	Shanghai	Shanghai Shuncom Electronic Technology Co.,Ltd
+2C:6A:6F:10:00:00/28	ElkoEpSR	ELKO EP, s.r.o.
+2C:6A:6F:20:00:00/28	Nanchang	NanChang LangJie Technology Co.,Ltd
+2C:6A:6F:30:00:00/28	Cloudpro	Cloudproject Generation Srl
+2C:6A:6F:40:00:00/28	Tinyco
+2C:6A:6F:50:00:00/28	ShenZhen	Shen Zhen Sis Science & Technology Ltd.
+2C:6A:6F:60:00:00/28	Beep	Beep, Inc.
+2C:6A:6F:70:00:00/28	SmDsp	Sm Dsp Co.,Ltd.
+2C:6A:6F:80:00:00/28	MilbankM	Milbank Manufacturing Co.
+2C:6A:6F:90:00:00/28	LogicIoA	Logic IO Aps
+2C:6A:6F:A0:00:00/28	Wellntel	Wellntel, Inc.
+2C:6A:6F:B0:00:00/28	Schneide	Schneider Electric Korea
+2C:6A:6F:C0:00:00/28	Sensity	Sensity Systems
+2C:6A:6F:D0:00:00/28	Holjeron
+2C:6A:6F:E0:00:00/28	EatonFhf	EATON FHF Funke + Huster Fernsig GmbH
+2C:6A:6F:F0:00:00/28	Private
+2C:D1:41:00:00:00/28	Icirroun	iCIRROUND Inc
+2C:D1:41:10:00:00/28	Ezee	Ezee Systems Limited
+2C:D1:41:20:00:00/28	Intellil	IntelliLUM
+2C:D1:41:30:00:00/28	AoptixTe	AOptix Technologies, Inc
+2C:D1:41:40:00:00/28	Shanghai	Shanghai RW ELE&TEC CO.,LTD
+2C:D1:41:50:00:00/28	Zenic	Zenic Inc.
+2C:D1:41:60:00:00/28	BoweiTec	Bowei Technology Company Limited
+2C:D1:41:70:00:00/28	Xiamen35	XiaMen 35.com Technology Co,.Ltd.
+2C:D1:41:80:00:00/28	MinnoLlc	Minno LLC
+2C:D1:41:90:00:00/28	BeijingH	Beijing Hexing Chuangxiang Technology Co., Ltd.
+2C:D1:41:A0:00:00/28	Fiberroa	Fiberroad Technology Co., Ltd.
+2C:D1:41:B0:00:00/28	ResusInd	Resus Industries
+2C:D1:41:C0:00:00/28	PinShang	PIN SHANG LED Co., LTD.
+2C:D1:41:D0:00:00/28	Private
+2C:D1:41:E0:00:00/28	CitaSmar	Cita Smart Solutions Ltd
+2C:D1:41:F0:00:00/28	Private
+30:09:F9:00:00:00/28	HurrayCl	Hurray Cloud Technology Co., Ltd.
+30:09:F9:10:00:00/28	Shenzhen	Shenzhen Sunvell Electronics Co., Ltd.
+30:09:F9:20:00:00/28	BeijingN	Beijing Netswift Technology Co.,Ltd.
+30:09:F9:30:00:00/28	Ooo"Micr	OOO "Microlink-Svyaz"
+30:09:F9:40:00:00/28	PunktTro	Punkt Tronics AG
+30:09:F9:50:00:00/28	Velsitec	Velsitec-Clibase
+30:09:F9:60:00:00/28	BeijingM	Beijing Mydreamplus Information Technology Co., Ltd.
+30:09:F9:70:00:00/28	Maytroni	Maytronics Ltd.
+30:09:F9:80:00:00/28	EssenceS	essence security
+30:09:F9:90:00:00/28	Bonraybi	Bonraybio
+30:09:F9:A0:00:00/28	Shenzhen	Shenzhen Tencent Computer System Co., Ltd.
+30:09:F9:B0:00:00/28	SichuanN	Sichuan Nebula Networks Co.,LTD.
+30:09:F9:C0:00:00/28	Honeywel	Honeywell
+30:09:F9:D0:00:00/28	Technolo	Technology for Humankind
+30:09:F9:E0:00:00/28	ZhongliH	ZhongLi HengFeng (Shenzhen) Technology co.,Ltd.
+30:0A:60:00:00:00/28	Kazutech	KAZUtechnica Co.,Ltd.
+30:0A:60:10:00:00/28	BeijingR	Beijing Ruiteng Zhongtian TECH Ltd.,Co
+30:0A:60:20:00:00/28	Advanced	Advanced Electronic Designs, Inc.
+30:0A:60:30:00:00/28	Private
+30:0A:60:40:00:00/28	AvicJonh	Avic Jonhon Optronic Technology Co., Ltd.
+30:0A:60:50:00:00/28	A9
+30:0A:60:60:00:00/28	Realtime	Realtime biometrics India pvt ltd
+30:0A:60:70:00:00/28	Newtons4	Newtons4th Ltd
+30:0A:60:80:00:00/28	Bronkhor	Bronkhorst High-Tech BV
+30:0A:60:90:00:00/28	WintekSy	WINTEK System Co., Ltd
+30:0A:60:A0:00:00/28	Ampetron	Ampetronic Ltd
+30:0A:60:B0:00:00/28	Giax	Giax GmbH
+30:0A:60:C0:00:00/28	ThermoPr	Thermo Process Instruments, LP
+30:0A:60:D0:00:00/28	SixthEne	Sixth Energy Technologies Private Limited
+30:0A:60:E0:00:00/28	ImageoSR	Imageo s.r.o.
+30:1F:9A:00:00:00/28	IlsanEle	Ilsan Electronics
+30:1F:9A:10:00:00/28	Dewesoft	Dewesoft d.o.o.
+30:1F:9A:20:00:00/28	ChisonMe	CHISON Medical Technologies Co., Ltd.
+30:1F:9A:30:00:00/28	Micomsof	Micomsoft Co.,Ltd.
+30:1F:9A:40:00:00/28	NcmSuppl	NCM Supplies, Inc.
+30:1F:9A:50:00:00/28	BeijingS	Beijing Surestar Technology Co. Ltd,
+30:1F:9A:60:00:00/28	YishengT	YiSheng technology co.,LTD
+30:1F:9A:70:00:00/28	Triax	Triax A/S
+30:1F:9A:80:00:00/28	FineTriu	Fine Triumph Technology Corp.,Ltd.
+30:1F:9A:90:00:00/28	Private
+30:1F:9A:A0:00:00/28	HunanCha	Hunan Changsha Hengjian Technoldgy Develpment Co.,Ltd.
+30:1F:9A:B0:00:00/28	SmartCom	Smart Component Technologies LTD
+30:1F:9A:C0:00:00/28	OrigamiG	Origami Group Limited
+30:1F:9A:D0:00:00/28	Olimex	OLIMEX Ltd
+30:1F:9A:E0:00:00/28	Shenzhen	Shenzhen Fengliyuan Energy Conservating Technology Co. Ltd
+34:00:8A:00:00:00/28	AngeeTec	Angee Technologies Ltd.
+34:00:8A:10:00:00/28	ZqamComm	ZQAM Communications
+34:00:8A:20:00:00/28	Rpe"Moni	RPE "Monitor"
+34:00:8A:30:00:00/28	Globex99	Globex 99 LTD
+34:00:8A:40:00:00/28	FotonicI	Fotonic i Norden AB
+34:00:8A:50:00:00/28	FederalA	Federal Aviation Administration
+34:00:8A:60:00:00/28	SithonTe	Sithon Technologies SAS
+34:00:8A:70:00:00/28	Ubergard	uberGARD Pte. Ltd.
+34:00:8A:80:00:00/28	Shenzhen	Shenzhen Andakai Technologies Co., Ltd.
+34:00:8A:90:00:00/28	KeruyunT	Keruyun Technoligies(Beijing) Corporation Limited
+34:00:8A:A0:00:00/28	Hibertek	Hibertek International Limited
+34:00:8A:B0:00:00/28	ProjectE	Project Engineering srl
+34:00:8A:C0:00:00/28	Shenzhen	Shenzhen Eternal Idea Tech Co.,Ltd
+34:00:8A:D0:00:00/28	ChengduH	ChengDu HuiZhong Cloud Information Technology Co., Ltd.
+34:00:8A:E0:00:00/28	Shenzhen	Shenzhen Wxl Electronics Co., Ltd.
+34:04:9E:00:00:00/28	Gochip	GoChip Inc.
+34:04:9E:10:00:00/28	Connecte	Connected IO
+34:04:9E:20:00:00/28	EfdInduc	EFD Induction
+34:04:9E:30:00:00/28	NanjingM	Nanjing Mythware Information Technology Co., Ltd.
+34:04:9E:40:00:00/28	HarbinYa	Harbin Yantuo Science and Technology Development Co., Ltd
+34:04:9E:50:00:00/28	SeeinerT	Seeiner Technology Co.,LTD
+34:04:9E:60:00:00/28	LifeInte	Life Interface Co., Ltd.
+34:04:9E:70:00:00/28	PebbleTe	Pebble Technology
+34:04:9E:80:00:00/28	EclipseI	Eclipse Information Technologies
+34:04:9E:90:00:00/28	Private
+34:04:9E:A0:00:00/28	I3Intern	i3 International Inc.
+34:04:9E:B0:00:00/28	Eginity	Eginity, Inc.
+34:04:9E:C0:00:00/28	Private
+34:04:9E:D0:00:00/28	Uikismar	uikismart
+34:04:9E:E0:00:00/28	NdSatcom	ND SatCom GmbH
+34:29:8F:00:00:00/28	Blackedg	BlackEdge Capital
+34:29:8F:10:00:00/28	ChengduM	Chengdu Meross Technology Co., Ltd.
+34:29:8F:20:00:00/28	Shenzhen	Shenzhen Advance River System Technology Co., Ltd
+34:29:8F:30:00:00/28	BeijingV	Beijing Vorx Telecommunications Co., Ltd.
+34:29:8F:40:00:00/28	IsraVisi	ISRA Vision AG
+34:29:8F:50:00:00/28	Highlite	Highlite International B.V.
+34:29:8F:60:00:00/28	BellmanS	Bellman & Symfon
+34:29:8F:70:00:00/28	Dongguan	Dongguan Kingtron Electronics Tech Co., Ltd
+34:29:8F:80:00:00/28	NanjingS	Nanjing Sandemarine Electric Co.,Ltd
+34:29:8F:90:00:00/28	Wiesheu	Wiesheu GmbH
+34:29:8F:A0:00:00/28	VirtualT	Virtual Trunk Pte Ltd
+34:29:8F:B0:00:00/28	Schnick-	Schnick-Schnack-Systems GmbH
+34:29:8F:C0:00:00/28	AlbertHa	Albert Handtmann Maschinenfabrik GmbH&Co.KG
+34:29:8F:D0:00:00/28	Keystone	Keystone Electronic Solutions
+34:29:8F:E0:00:00/28	ArcTechn	ARC Technology Co., Ltd
+34:D0:B8:00:00:00/28	Captec	Captec Ltd
+34:D0:B8:10:00:00/28	Shenzhen	Shenzhen Bao Lai Wei Intelligent Technology Co., L
+34:D0:B8:20:00:00/28	Blustrea	Blustream Pty Ltd
+34:D0:B8:30:00:00/28	Tascent	Tascent, Inc.
+34:D0:B8:40:00:00/28	EqplayIn	EQPlay Intelligent Technology(Kunshan) Co,Ltd.
+34:D0:B8:50:00:00/28	Eesy-Inn	eesy-innovation GmbH
+34:D0:B8:60:00:00/28	Numberfo	NumberFour AG
+34:D0:B8:70:00:00/28	Shenzhen	Shenzhen Rikomagic Tech Corp.,Ltd
+34:D0:B8:80:00:00/28	VtrekGro	Vtrek Group International Ltd.
+34:D0:B8:90:00:00/28	SkytechC	Skytech Creations Limited
+34:D0:B8:A0:00:00/28	MeatestS	Meatest sro
+34:D0:B8:B0:00:00/28	Orosound	Orosound Sas
+34:D0:B8:C0:00:00/28	GloryMar	Glory Mark Electronic Ltd. Taiwan Branch (B.V.I.)
+34:D0:B8:D0:00:00/28	NtxEmbed	NTX Embedded
+34:D0:B8:E0:00:00/28	Kongqigu	Kongqiguanjia (Beijing)Technology co.，ltd
+34:E1:D1:00:00:00/28	TianjinS	Tianjin Sublue Ocean Science & Technology Co., Ltd
+34:E1:D1:10:00:00/28	SamaNext	SAMA NextGen PTE Limited
+34:E1:D1:20:00:00/28	TetonCam	Teton Camera LLC
+34:E1:D1:30:00:00/28	RincoUlt	Rinco Ultrasonics AG
+34:E1:D1:40:00:00/28	AsaInnov	ASA Innovation & Technology Ltd.
+34:E1:D1:50:00:00/28	DokiTech	Doki Technologies Limited
+34:E1:D1:60:00:00/28	NingboHu	Ningbo Hua Gao Mdt Info Tech Ltd
+34:E1:D1:70:00:00/28	GeniusPr	Genius Pros
+34:E1:D1:80:00:00/28	Hubitat	Hubitat Inc.
+34:E1:D1:90:00:00/28	ApartAud	Apart Audio NV
+34:E1:D1:A0:00:00/28	OrcamTec	OrCam Technologies
+34:E1:D1:B0:00:00/28	ApgCashD	APG Cash Drawer, LLC
+34:E1:D1:C0:00:00/28	CrewByTr	CREW by True Rowing, Inc.
+34:E1:D1:D0:00:00/28	Hi-TechO	Hi-Tech.Org
+34:E1:D1:E0:00:00/28	Annapurn	Annapurna labs
+38:3A:21:00:00:00/28	R3CInfor	R3C Information(Shenzhen) Co.，Ltd.
+38:3A:21:10:00:00/28	Hobart	HOBART GmbH
+38:3A:21:20:00:00/28	Shenzhen	Shenzhen HS Fiber Communication Equipment CO., LTD
+38:3A:21:30:00:00/28	Shanghai	Shanghai Greatwall Safety System Co.,Ltd
+38:3A:21:40:00:00/28	Dongguan	Dongguan Innovation Technology Co Ltd
+38:3A:21:50:00:00/28	OooNppUr	OOO NPP Uraltechnologiya
+38:3A:21:60:00:00/28	Shenzhen	Shenzhen Smart-core Technology co., Ltd.
+38:3A:21:70:00:00/28	ChengduK	Chengdu Krosslan Technology Inc.
+38:3A:21:80:00:00/28	AlicatSc	Alicat Scientific
+38:3A:21:90:00:00/28	SkylarkW	Skylark Wireless LLC
+38:3A:21:A0:00:00/28	Foresigh	Foresight Sports
+38:3A:21:B0:00:00/28	Pactron
+38:3A:21:C0:00:00/28	MissionE	Mission Embedded GmbH
+38:3A:21:D0:00:00/28	Colooc	Colooc AB
+38:3A:21:E0:00:00/28	SdnwareT	SDNware technology co.,LTD
+38:73:EA:00:00:00/28	L-3Commu	L-3 Communications Mobile-Vision, Inc.
+38:73:EA:10:00:00/28	KingwayI	KingWay Information Co.,Ltd.
+38:73:EA:20:00:00/28	Eyesight	Eyesight(Shanghai)Communication Technology Co.,Ltd.
+38:73:EA:30:00:00/28	ProchPla	Proch plastic Co., Ltd.
+38:73:EA:40:00:00/28	LightBlu	Light Blue Optics Ltd.
+38:73:EA:50:00:00/28	Istcontr	Istcontrol
+38:73:EA:60:00:00/28	LiveSent	Live Sentinel
+38:73:EA:70:00:00/28	Pinggps	PingGPS Inc
+38:73:EA:80:00:00/28	RockElec	Rock Electronic Co., Ltd.
+38:73:EA:90:00:00/28	Lightfor	Lightform, Inc.
+38:73:EA:A0:00:00/28	Shenzhen	Shenzhen Cse Technology Co., Ltd
+38:73:EA:B0:00:00/28	Shanghai	Shanghai ZoomSmart Technology Co., Ltd.
+38:73:EA:C0:00:00/28	LgElectr	LG Electronics
+38:73:EA:D0:00:00/28	Annapurn	Annapurna labs
+38:73:EA:E0:00:00/28	Shenzhen	Shenzhen Jixian Technology Co., Ltd.
+38:B1:9E:00:00:00/28	TripleJu	Triple Jump Medical
+38:B1:9E:10:00:00/28	Freedomp	Freedompro Srl
+38:B1:9E:20:00:00/28	Hdanywhe	Hdanywhere
+38:B1:9E:30:00:00/28	AvoDevel	Avo Development Ltd
+38:B1:9E:40:00:00/28	BasalteB	Basalte BVBA
+38:B1:9E:50:00:00/28	StarElec	Star Electronics GmbH & CoKG
+38:B1:9E:60:00:00/28	ThrustNe	Thrust Networks
+38:B1:9E:70:00:00/28	BeijingM	Beijing Memblaze Technology Co Ltd
+38:B1:9E:80:00:00/28	Boco	BoCo Inc.
+38:B1:9E:90:00:00/28	DoepkeSc	Doepke Schaltgeräte GmbH
+38:B1:9E:A0:00:00/28	Aeroespa	Aeroespacial Guosheng Technology Co., Ltd
+38:B1:9E:B0:00:00/28	SystemQ	System Q Ltd
+38:B1:9E:C0:00:00/28	Gesellsc	Gesellschaft industrieller Technologien
+38:B1:9E:D0:00:00/28	DallasDe	Dallas Delta Corporation
+38:B1:9E:E0:00:00/28	Shenzhen	ShenZhen ShuaiXian Electronic Equipment Co.Ltd
+38:B8:EB:00:00:00/28	BumjinC&	Bumjin C&L Co., Ltd.
+38:B8:EB:10:00:00/28	1AConnec	1.A Connect GmbH
+38:B8:EB:20:00:00/28	BaroxKom	barox Kommunikation GmbH
+38:B8:EB:30:00:00/28	AinaWire	Aina Wireless Inc
+38:B8:EB:40:00:00/28	Umlogics
+38:B8:EB:50:00:00/28	Dojo-Lab	Dojo-Labs Ltd
+38:B8:EB:60:00:00/28	Matrixst	Matrixstream Technologies, Inc.
+38:B8:EB:70:00:00/28	Private
+38:B8:EB:80:00:00/28	Ceenex	CeeNex Inc
+38:B8:EB:90:00:00/28	NhsSiste	NHS Sistemas de Energia
+38:B8:EB:A0:00:00/28	SecadSa	Secad Sa
+38:B8:EB:B0:00:00/28	Exascale	ExaScaler Inc.
+38:B8:EB:C0:00:00/28	Ajax	Ajax Systems Inc
+38:B8:EB:D0:00:00/28	Yellowbr	Yellowbrick Data, Inc.
+38:B8:EB:E0:00:00/28	WyresSas	Wyres SAS
+38:FD:FE:00:00:00/28	EdgeI&D	Edge I&D Co., Ltd.
+38:FD:FE:10:00:00/28	WaytoneB	Waytone (Beiijng) Communications Co.,Ltd
+38:FD:FE:20:00:00/28	SmartSol	Smart Solution Technology, Inc
+38:FD:FE:30:00:00/28	SiemensP	Siemens AG, PG IE R&D
+38:FD:FE:40:00:00/28	NewTelec	New Telecom Solutions LLC
+38:FD:FE:50:00:00/28	Captivea	CaptiveAire Systems Inc.
+38:FD:FE:60:00:00/28	Inspero	Inspero Inc
+38:FD:FE:70:00:00/28	Rademach	Rademacher Geraete-Elektronik GmbH
+38:FD:FE:80:00:00/28	IndraNav	Indra Navia AS
+38:FD:FE:90:00:00/28	OooGroup	OOO Group of Industrial Technologies
+38:FD:FE:A0:00:00/28	Manageme	Management Service Corporation
+38:FD:FE:B0:00:00/28	SwedishA	Swedish Adrenaline AB
+38:FD:FE:C0:00:00/28	NewGarde	New Garden Co., Ltd.
+38:FD:FE:D0:00:00/28	FubaAuto	FUBA Automotive Electronics GmbH
+38:FD:FE:E0:00:00/28	IsmartEl	iSmart electronic technology co.,LTD
+3C:24:F0:00:00:00/28	Shenzhen	Shenzhen Pinsida Technology Co.,Ltd.
+3C:24:F0:10:00:00/28	Abrites	Abrites Ltd.
+3C:24:F0:20:00:00/28	LaipacTe	Laipac Technology Inc.
+3C:24:F0:30:00:00/28	Wisycom
+3C:24:F0:40:00:00/28	Inter-Co	Inter-Coastal Electronics
+3C:24:F0:50:00:00/28	CaskyEte	CASKY eTech Co., Ltd.
+3C:24:F0:60:00:00/28	InterAct	Inter Action Corporation
+3C:24:F0:70:00:00/28	Swissdot	Swissdotnet SA
+3C:24:F0:80:00:00/28	SivatTec	Sivat Technology Co.,Ltd.
+3C:24:F0:90:00:00/28	Siemens-	Siemens AG - Siemens Deutschland Mobility
+3C:24:F0:A0:00:00/28	Shenzhen	Shenzhen Bestway Technology Co., Ltd
+3C:24:F0:B0:00:00/28	Comatis
+3C:24:F0:C0:00:00/28	Authenti	Authentico Technologies
+3C:24:F0:D0:00:00/28	TravisBV	Travis Holding B.V.
+3C:24:F0:E0:00:00/28	Getmobit	Getmobit Llc
+3C:39:E7:00:00:00/28	Hannstar	Hannstar Display Corp
+3C:39:E7:10:00:00/28	BewatecK	BEWATEC Kommunikationstechnik GmbH
+3C:39:E7:20:00:00/28	Homewiza	HomeWizard B.V.
+3C:39:E7:30:00:00/28	ElsaJapa	ELSA Japan Inc.
+3C:39:E7:40:00:00/28	Universi	University of British Columbia
+3C:39:E7:50:00:00/28	Attrackt	Attrackting AG
+3C:39:E7:60:00:00/28	RoVeRLab	RO.VE.R. Laboratories S.p.A
+3C:39:E7:70:00:00/28	SensorTo	Sensor to Image GmbH
+3C:39:E7:80:00:00/28	MartemAs	Martem AS
+3C:39:E7:90:00:00/28	ZoneCont	Zone Controls AB
+3C:39:E7:A0:00:00/28	Iim	iiM AG
+3C:39:E7:B0:00:00/28	Chipsgui	chipsguide technology Co.,LTD
+3C:39:E7:C0:00:00/28	Vanstone	Vanstone Electronic (Beijing)Co,. Ltd.
+3C:39:E7:E0:00:00/28	Marposs	Marposs Spa
+3C:39:E7:F0:00:00/28	Private
+3C:42:7E:00:00:00/28	Grandway	Grandway Technology (Shenzhen) Limited
+3C:42:7E:10:00:00/28	Dongguan	Dongguan Taide Industrial Co.,Ltd.
+3C:42:7E:20:00:00/28	Starloop	Starloop Tech Co., Ltd.
+3C:42:7E:30:00:00/28	Shenzhen	Shenzhen VETAS Communication Technology Co , Ltd.
+3C:42:7E:40:00:00/28	Teknowar	Teknoware Oy
+3C:42:7E:50:00:00/28	GeoplanK	Geoplan Korea
+3C:42:7E:60:00:00/28	EditSrl	Edit Srl
+3C:42:7E:70:00:00/28	Gjs	GJS Co., Ltd.
+3C:42:7E:80:00:00/28	UbtechRo	Ubtech Robotics Corp
+3C:42:7E:90:00:00/28	Taitex	Taitex Corporation
+3C:42:7E:A0:00:00/28	Snap40	snap40 Ltd
+3C:42:7E:B0:00:00/28	CompalEl	Compal Electronics INC.
+3C:42:7E:C0:00:00/28	PrivacyL	Privacy Labs
+3C:42:7E:D0:00:00/28	RoboxSma	Robox Smart Motion (Wuhu) Co.,Ltd
+3C:42:7E:E0:00:00/28	XiaoniuN	Xiaoniu network technology (Shanghai) Co., Ltd.
+3C:6A:2C:00:00:00/28	RioLagoT	Rio Lago Technologies LLC
+3C:6A:2C:10:00:00/28	OlibraLl	Olibra LLC
+3C:6A:2C:20:00:00/28	BoschAut	Bosch Automotive Products (Suzhou) Co., Ltd.
+3C:6A:2C:30:00:00/28	Figur8	figur8, Inc.
+3C:6A:2C:40:00:00/28	XiAnYepT	Xi'An Yep Telecom Technology Co.,Ltd
+3C:6A:2C:50:00:00/28	QingdaoI	Qingdao iGuan Technology Co., Ltd.
+3C:6A:2C:60:00:00/28	LaBarriè	La Barrière Automatique
+3C:6A:2C:70:00:00/28	Homegear	Homegear GmbH
+3C:6A:2C:80:00:00/28	TpRadio	TP Radio
+3C:6A:2C:90:00:00/28	Wicks	WICKS Co., Ltd.
+3C:6A:2C:A0:00:00/28	Metro
+3C:6A:2C:B0:00:00/28	PhytiumT	Phytium Technology Co., Ltd.
+3C:6A:2C:C0:00:00/28	EltovSys	Eltov System
+3C:6A:2C:D0:00:00/28	XiamenSm	Xiamen Smarttek CO., Ltd.
+3C:6A:2C:E0:00:00/28	BeijingD	Beijing Donghua Hongtai Polytron Technologies Inc
+40:11:75:00:00:00/28	LexiDevi	Lexi Devices, Inc.
+40:11:75:10:00:00/28	FujianKu	Fujian Kuke3D Technology Co.,LTD
+40:11:75:20:00:00/28	KandaKog	Kanda Kogyo
+40:11:75:30:00:00/28	BeijingH	Beijing Hexinruitong Electric Power Technology Co., Ltd.
+40:11:75:40:00:00/28	TableTra	Table Trac Inc
+40:11:75:50:00:00/28	MircElec	Mirc Electronics Ltd
+40:11:75:60:00:00/28	Shenzhen	ShenZhen LanShuo Communication Equipment CO.,LTD.
+40:11:75:70:00:00/28	Guangzho	Guangzhou RALID Information System Co.Ltd
+40:11:75:80:00:00/28	BeijingG	Beijing Gemotech Intelligent Technology Co., Ltd.
+40:11:75:90:00:00/28	AdhGuard	ADH Guardian USA
+40:11:75:A0:00:00/28	BwtTianj	BWT Tianjin Ltd.
+40:11:75:B0:00:00/28	Chongqin	Chongqing IQIYI Intelligence Technology Co., Ltd.
+40:11:75:C0:00:00/28	Disguise	disguise Technologies Limited
+40:11:75:D0:00:00/28	NanjingH	NanJing HuaStart Network Technology Co.,Ltd.
+40:11:75:E0:00:00/28	Nibble
+40:48:FD:00:00:00/28	BeijingC	Beijing C&W Electronics(Group)Co.,Ltd
+40:48:FD:10:00:00/28	FastProg	Fast Programming
+40:48:FD:20:00:00/28	MithrasT	MITHRAS Technology Co., LTD
+40:48:FD:30:00:00/28	RlContro	RL Controls LLC.
+40:48:FD:40:00:00/28	DynamicE	Dynamic Engineering
+40:48:FD:50:00:00/28	52NdRese	The 52nd Research Institute of China Electronic Technology Group Corporation
+40:48:FD:60:00:00/28	SwarcoTe	Swarco Technology ApS
+40:48:FD:70:00:00/28	Cloud4Wi
+40:48:FD:80:00:00/28	DorelJuv	Dorel Juvenile
+40:48:FD:90:00:00/28	PlusOneG	Plus One Global Ltd.
+40:48:FD:A0:00:00/28	Shenzhen	Shenzhen Yifang Digital Technology Co., LTD.
+40:48:FD:B0:00:00/28	MagentaL	Magenta Labs, Inc.
+40:48:FD:C0:00:00/28	EcotapBV	Ecotap B.V.
+40:48:FD:D0:00:00/28	Nox	NOX Systems AG
+40:48:FD:E0:00:00/28	SmartSen	Smart Sensor Devices Ab
+40:A3:6B:00:00:00/28	FinRobot	Fin Robotics Inc
+40:A3:6B:10:00:00/28	Tw-Teamw	TW-TeamWare
+40:A3:6B:20:00:00/28	Toproott	TOPROOTTechnology Corp. Ltd.
+40:A3:6B:30:00:00/28	Omnitrac	Omnitracs, LLC
+40:A3:6B:40:00:00/28	Sks-Kink	SKS-Kinkel Elektronik GmbH
+40:A3:6B:50:00:00/28	National	National Research Council of Canada
+40:A3:6B:60:00:00/28	Securito	Securiton AG
+40:A3:6B:70:00:00/28	Pella	Pella Corporation
+40:A3:6B:80:00:00/28	Sft	SFT Co., Ltd.
+40:A3:6B:90:00:00/28	PhTechni	PH Technical Labs
+40:A3:6B:A0:00:00/28	Embrioni	Embrionix Design Inc.
+40:A3:6B:B0:00:00/28	AmobileI	Amobile Intelligent Corp.
+40:A3:6B:C0:00:00/28	Onion	Onion Corporation
+40:A3:6B:D0:00:00/28	Faod	FAOD Co.,Ltd.
+40:ED:98:00:00:00/28	Tsinghua	Tsinghua Tongfang Co., LTD
+40:ED:98:10:00:00/28	Guangzho	GuangZhou FiiO Electronics Technology Co.,Ltd
+40:ED:98:20:00:00/28	A-Iox	A-Iox Inc.
+40:ED:98:30:00:00/28	Knox	Knox Company
+40:ED:98:40:00:00/28	Kendrion	Kendrion Kuhnke Automation GmbH
+40:ED:98:50:00:00/28	Cape
+40:ED:98:60:00:00/28	Shanghai	Shanghai Broadwan Communications Co.,Ltd
+40:ED:98:70:00:00/28	VaisalaO	Vaisala Oyj
+40:ED:98:80:00:00/28	Guangzho	Guangzhou Auric Intelligent Technology Co.,Ltd.
+40:ED:98:90:00:00/28	Teratron	TeraTron GmbH
+40:ED:98:A0:00:00/28	Integrat	Integrated Design Ltd
+40:ED:98:B0:00:00/28	SiebertI	Siebert Industrieelektronik GmbH
+40:ED:98:C0:00:00/28	Bloomsky	BloomSky,Inc.
+40:ED:98:D0:00:00/28	Hangzhou	Hangzhou GANX Technology Co.,Ltd.
+40:ED:98:E0:00:00/28	BordaTec	Borda Technology
+40:F3:85:00:00:00/28	Subpac
+40:F3:85:10:00:00/28	JohnsonM	Johnson Matthey
+40:F3:85:20:00:00/28	BeijingZ	Beijing Zongheng Electro-Mechanical Technology Development Co.
+40:F3:85:30:00:00/28	Intellid	IntelliDesign Pty Ltd
+40:F3:85:40:00:00/28	Embedded	Embedded IQ
+40:F3:85:50:00:00/28	KatoEngi	Kato Engineering Inc.
+40:F3:85:60:00:00/28	LennoxIn	Lennox International Incorporated
+40:F3:85:70:00:00/28	Palazzet	Palazzetti Lelio Spa
+40:F3:85:80:00:00/28	Teleepoc	Teleepoch Ltd
+40:F3:85:90:00:00/28	FastPrec	Fast Precision Technologies Co. Ltd.
+40:F3:85:A0:00:00/28	Creanord
+40:F3:85:B0:00:00/28	UrmetHom	URMET Home & Building Solutions Pty Ltd
+40:F3:85:C0:00:00/28	ClixxoBr	Clixxo Broadband Private Limited
+40:F3:85:D0:00:00/28	DigitalB	Digital Bros S.p.A.
+40:F3:85:E0:00:00/28	Bbb	BBB Inc.
+44:03:77:00:00:00/28	MusashiS	Musashi Seimitsu Industry Co.,Ltd
+44:03:77:10:00:00/28	Atari	Atari, Inc.
+44:03:77:20:00:00/28	ExsomCom	Exsom Computers LLC
+44:03:77:30:00:00/28	Annapurn	Annapurna labs
+44:03:77:40:00:00/28	LenovoIm	Lenovo Image(Tianjin) Technology Ltd.
+44:03:77:50:00:00/28	NordenCo	Norden Communication UK Ltd.
+44:03:77:60:00:00/28	ShenZhen	Shen Zhen Huawang Technology Co; Ltd
+44:03:77:70:00:00/28	StaraInd	Stara S/A Indústria de Implementos Agrícolas
+44:03:77:80:00:00/28	GemmyEle	Gemmy Electronics (Shenzhen) Co, Ltd
+44:03:77:90:00:00/28	Shenzhen	Shenzhen Ut-King Technology Co.,Ltd
+44:03:77:A0:00:00/28	Symplr
+44:03:77:B0:00:00/28	Hangzhou	Hangzhou Asia Infrastructure Tech. Co., Ltd.
+44:03:77:C0:00:00/28	BigClima	BIG Climatic Manufacture, Co. LTD, Zhongshan Branch
+44:03:77:D0:00:00/28	Omnisens	Omnisense Systems Private Limited Taiwan Branch
+44:03:77:E0:00:00/28	BolinTec	Bolin Technology Co., Ltd
+44:D5:F2:00:00:00/28	TibaRese	TIBA Research & Development (1986) LTD
+44:D5:F2:10:00:00/28	Simplere	Simplered Technology Ltd.
+44:D5:F2:20:00:00/28	Shenzhen	Shenzhen Hebang Electronic Co., Ltd
+44:D5:F2:30:00:00/28	VuroLlc	Vuro Llc
+44:D5:F2:40:00:00/28	Appotron	Appotronics Co., Ltd
+44:D5:F2:50:00:00/28	TigaElev	tiga.eleven GmbH
+44:D5:F2:60:00:00/28	BeamComm	Beam Communications Pty Ltd
+44:D5:F2:70:00:00/28	Shenzhen	Shenzhen Qiutian Technology Co.,Ltd
+44:D5:F2:80:00:00/28	CetcAvio	CETC Avionics.L td
+44:D5:F2:90:00:00/28	AuctusTe	Auctus Technologies Co.,Ltd.
+44:D5:F2:A0:00:00/28	SysTecEl	SYS TEC electronic GmbH
+44:D5:F2:B0:00:00/28	ValeoInt	Valeo Interior Controls (Shenzhen) Co.,Ltd
+44:D5:F2:C0:00:00/28	Neocontr	neocontrol soluções em automação
+44:D5:F2:D0:00:00/28	Shenzhen	Shenzhen Nation RFID Technology Co.,Ltd.
+44:D5:F2:E0:00:00/28	Joint-St	Joint-Stock Company Research and Development Center "ELVEES"
+48:0B:B2:00:00:00/28	RidangoA	Ridango AS
+48:0B:B2:10:00:00/28	BajaElec	Baja Electronics Technology Limited
+48:0B:B2:20:00:00/28	ThalesCe	Thales CETCA Avionics CO., Ltd
+48:0B:B2:30:00:00/28	Shanghai	shanghai Rinlink Intelligent Technology Co., Ltd.
+48:0B:B2:40:00:00/28	Hangzhou	Hangzhou Freely Communication Co., Ltd.
+48:0B:B2:50:00:00/28	Solaredg	Solaredge LTD.
+48:0B:B2:60:00:00/28	Annapurn	Annapurna labs
+48:0B:B2:70:00:00/28	BeijingD	Beijing Dragon Resources Limited.
+48:0B:B2:80:00:00/28	Bravocom	BravoCom（xiamen）TechCo.Ltd
+48:0B:B2:90:00:00/28	Micropro	Microprogram Information Co., Ltd
+48:0B:B2:A0:00:00/28	XiamenRo	Xiamen Rongta Technology Co.,Ltd.
+48:0B:B2:B0:00:00/28	PopitOy	Popit Oy
+48:0B:B2:C0:00:00/28	Shenzhen	Shenzhen Topwell Technology Co..Ltd
+48:0B:B2:D0:00:00/28	M2Lab	M2Lab Ltd.
+48:0B:B2:E0:00:00/28	BeijingM	Beijing MFOX technology Co., Ltd.
+48:65:EE:00:00:00/28	Defpower	DefPower Ltd
+48:65:EE:10:00:00/28	GopodGro	Gopod Group Limited
+48:65:EE:20:00:00/28	Captionc	CaptionCall
+48:65:EE:30:00:00/28	DataTech	Data Technology Inc.
+48:65:EE:40:00:00/28	MissionM	Mission Microwave Technologies, Inc
+48:65:EE:50:00:00/28	Swistec	Swistec Systems AG
+48:65:EE:60:00:00/28	Shenzhen	shenzhen sunflower technologies CO., LIMITED
+48:65:EE:70:00:00/28	VentureR	Venture Research Inc.
+48:65:EE:80:00:00/28	Smartdis	SmartDisplayer Technology Co., Ltd.
+48:65:EE:90:00:00/28	Videosti	VideoStitch, Inc
+48:65:EE:A0:00:00/28	Shenzhen	Shenzhen Inpor cloud Computing Co., Ltd.
+48:65:EE:B0:00:00/28	EnbwEner	EnBW Energie Baden-Württemberg AG
+48:65:EE:C0:00:00/28	DnvGl	Dnv Gl
+48:65:EE:D0:00:00/28	WinnTech	Winn Technology Co.,Ltd
+48:65:EE:E0:00:00/28	Cnu
+4C:4B:F9:00:00:00/28	Multitek	Multitek Elektronik Sanayi ve Ticaret A.S.
+4C:4B:F9:10:00:00/28	JiangsuA	Jiangsu acrel Co., Ltd.
+4C:4B:F9:20:00:00/28	Shenzhen	Shenzhen HommPro Technology Co.,Ltd
+4C:4B:F9:30:00:00/28	PowerAct	Power Active Co., Ltd
+4C:4B:F9:40:00:00/28	Shenzhen	Shenzhen dingsheng technology co., LTD
+4C:4B:F9:50:00:00/28	RemedeeL	Remedee Labs
+4C:4B:F9:60:00:00/28	Shandong	Shandong Linkotech Electronic Co., Ltd.
+4C:4B:F9:70:00:00/28	Glonexs
+4C:4B:F9:80:00:00/28	ZividAs	Zivid AS
+4C:4B:F9:90:00:00/28	Tecnoplu	Tecnoplus Srl
+4C:4B:F9:A0:00:00/28	Electrol	Electrolux Professional AB
+4C:4B:F9:B0:00:00/28	StoredEn	Stored Energy Systems
+4C:4B:F9:C0:00:00/28	Connecte	Connected IO
+4C:4B:F9:D0:00:00/28	Shenzhen	Shenzhen Haichuan Intelligent Information Technology Co., Ltd.
+4C:4B:F9:E0:00:00/28	BeijingA	Beijing AutoAi Technology co. LTD
+4C:65:A8:00:00:00/28	Welt	WELT Corporation
+4C:65:A8:10:00:00/28	BeijingB	Beijing Bluehalo Internet Inc.
+4C:65:A8:20:00:00/28	OricaEur	Orica Europe Pty Ltd & Co KG
+4C:65:A8:30:00:00/28	Roost
+4C:65:A8:40:00:00/28	PlusOneJ	Plus One Japan Limited
+4C:65:A8:50:00:00/28	Tel-Elec	TEL-Electronics Ltd
+4C:65:A8:60:00:00/28	NuvizOy	Nuviz Oy
+4C:65:A8:70:00:00/28	WuhanMor	Wuhan MoreQuick Network Technology Co., Ltd.
+4C:65:A8:80:00:00/28	InstantB	Instant Byte, S.L.
+4C:65:A8:90:00:00/28	Shenzhen	Shenzhen Lisaier Tronics Co.,Ltd
+4C:65:A8:A0:00:00/28	SuzhouEm	Suzhou Embedded Electronic Technology Co., Ltd.
+4C:65:A8:B0:00:00/28	ZminTech	ZMIN Technologies
+4C:65:A8:C0:00:00/28	Fuse
+4C:65:A8:D0:00:00/28	Qingping	Qingping Technology (Beijing) Co., Ltd.
+4C:65:A8:E0:00:00/28	HighInfi	High Infinity Germany
+4C:91:7A:00:00:00/28	Shenzhen	Shenzhen Dangs Science & Technology CO.,LTD
+4C:91:7A:10:00:00/28	InsterTe	Inster Tecnología y Comunicaciones SAU
+4C:91:7A:20:00:00/28	Chongqin	Chongqing Unisinsight Technology Co.,Ltd.
+4C:91:7A:30:00:00/28	SmartAcc	Smart Access
+4C:91:7A:40:00:00/28	Lumigrow	LumiGrow Inc.
+4C:91:7A:50:00:00/28	Mtekvisi	mtekvision
+4C:91:7A:60:00:00/28	Openeye
+4C:91:7A:70:00:00/28	SICESSrl	S.I.C.E.S. srl
+4C:91:7A:80:00:00/28	CamsatPr	Camsat Przemysław Gralak
+4C:91:7A:90:00:00/28	Hangzhou	Hangzhou Hangtu Technology Co.,Ltd.
+4C:91:7A:A0:00:00/28	ErlabDfs	Erlab DFS SAS
+4C:91:7A:B0:00:00/28	Avertx
+4C:91:7A:C0:00:00/28	AlibabaB	Alibaba (Beijing) Software Service Inc.
+4C:91:7A:D0:00:00/28	Shenzhen	Shenzhen bankledger Technology Co, Ltd
+4C:91:7A:E0:00:00/28	Annapurn	Annapurna labs
+4C:BC:98:00:00:00/28	Charge-A	Charge-Amps AB
+4C:BC:98:10:00:00/28	JscNic	Jsc Nic
+4C:BC:98:20:00:00/28	QuakeGlo	Quake Global Inc
+4C:BC:98:30:00:00/28	MachineM	Machine Max
+4C:BC:98:40:00:00/28	Nemon	Nemon Co., Ltd.
+4C:BC:98:50:00:00/28	Gronic	Gronic Systems GmbH
+4C:BC:98:60:00:00/28	Humanplu	Humanplus Intelligent Robotics Technology Co.,Ltd.
+4C:BC:98:70:00:00/28	Voegtlin	Voegtlin Instruments GmbH
+4C:BC:98:80:00:00/28	Shenzhen	Shenzhen Shanling Digital Technology Development Co.,Ltd.
+4C:BC:98:90:00:00/28	AirtexMa	Airtex Manufacturing Partnership
+4C:BC:98:A0:00:00/28	Shenzhen	Shenzhen Cogitation Technology Co.,Ltd.
+4C:BC:98:B0:00:00/28	Dongguan	Dongguan SmartAction Technology Co.,Ltd
+4C:BC:98:C0:00:00/28	Heliotis	Heliotis AG
+4C:BC:98:D0:00:00/28	ElinkTec	Elink Technology (Shenzhen) Co., Limited
+4C:BC:98:E0:00:00/28	WonderWo	Wonder Workshop
+4C:E1:73:00:00:00/28	BeijingS	Beijing Sutongwang E-Business Co., Ltd
+4C:E1:73:10:00:00/28	Nexoforg	Nexoforge Inc.
+4C:E1:73:20:00:00/28	LenovoDa	Lenovo Data Center Group
+4C:E1:73:30:00:00/28	Outpacei	outpaceIO
+4C:E1:73:40:00:00/28	HuizhouD	Huizhou Dehong Technology Co., Ltd.
+4C:E1:73:50:00:00/28	Newvaste	NewVastek
+4C:E1:73:60:00:00/28	DaikokuD	Daikoku Denki Co.,Ltd.
+4C:E1:73:70:00:00/28	Ersúles	Ersúles Limited
+4C:E1:73:80:00:00/28	NanjingT	Nanjing Tongke Technology Development Co., LTD
+4C:E1:73:90:00:00/28	Shenzhen	Shenzhen Evolution Dynamics Co., Ltd.
+4C:E1:73:A0:00:00/28	Jvi
+4C:E1:73:B0:00:00/28	Shanghai	Shanghai Ehong Technology Co.,Ltd
+4C:E1:73:C0:00:00/28	RemondeN	Remonde Network
+4C:E1:73:D0:00:00/28	KtcK-Tel	Ktc(K-Tel)
+4C:E1:73:E0:00:00/28	PlusOneJ	Plus One Japan Limited
+50:0B:91:00:00:00/28	Igor	Igor, Inc.
+50:0B:91:10:00:00/28	SpdDevel	SPD Development Company Ltd
+50:0B:91:20:00:00/28	Annapurn	Annapurna labs
+50:0B:91:30:00:00/28	EwinTech	Ewin Technology Limited
+50:0B:91:40:00:00/28	SinopeTe	Sinope technologies Inc
+50:0B:91:50:00:00/28	JiangsuZ	jiangsu zhongling high-tech CO.,LTD.
+50:0B:91:60:00:00/28	Security	Security Alarms & Co. S.A.
+50:0B:91:70:00:00/28	Shenzhen	Shenzhen Xinfa Electronic Co.,ltd
+50:0B:91:80:00:00/28	Panasoni	Panasonic Enterprise Solutions Company
+50:0B:91:90:00:00/28	Machfu	Machfu, Inc.
+50:0B:91:A0:00:00/28	NewAudio	New Audio LLC
+50:0B:91:B0:00:00/28	Thumbzup	thumbzup UK Limited
+50:0B:91:C0:00:00/28	DiamondT	Diamond Traffic Products, Inc
+50:0B:91:D0:00:00/28	Shenzhen	Shenzhen Lucky Sonics Co.,Ltd
+50:0B:91:E0:00:00/28	Shenzhen	Shenzhen zhong ju Fiber optical Co.Ltd
+50:62:55:00:00:00/28	UfanetSc	Ufanet SC
+50:62:55:10:00:00/28	Hagiwara	Hagiwara Solutions Co., Ltd
+50:62:55:20:00:00/28	Shenzhen	ShenZhen ChuangMo Electronics Technology Co., Ltd
+50:62:55:30:00:00/28	Hypertec	Hypertech Advance Co., LTD
+50:62:55:40:00:00/28	Xslab	XSLAB Inc.
+50:62:55:50:00:00/28	SuzhouRu	Suzhou Ruixinjie Information Technology Co.,Ltd
+50:62:55:60:00:00/28	Shenzhen	Shenzhen Sinway South Technology Co., Ltd
+50:62:55:70:00:00/28	AvtechSo	AVTECH Software, Inc.
+50:62:55:80:00:00/28	RodaIndu	Roda industrial development Co.,Ltd.
+50:62:55:90:00:00/28	Southern	Southern Ground Audio LLC
+50:62:55:A0:00:00/28	CctvManu	CCTV Manufacturer
+50:62:55:B0:00:00/28	ChengduC	Chengdu Cove Technology Co.,Ltd
+50:62:55:C0:00:00/28	AedDistr	AED Distribution
+50:62:55:D0:00:00/28	CottElec	COTT Electronics
+50:62:55:E0:00:00/28	Shinsoft	Shinsoft Co., Ltd.
+50:A4:D0:00:00:00/28	Traxens
+50:A4:D0:10:00:00/28	BeijingA	Beijing ANTVR Technology Co., LTD
+50:A4:D0:20:00:00/28	Seneco	Seneco A/S
+50:A4:D0:30:00:00/28	Guangzho	Guangzhou Hysoon Electronic Co., Ltd.
+50:A4:D0:40:00:00/28	RavenInd	Raven Industries Inc.
+50:A4:D0:50:00:00/28	TrexomSR	TREXOM S.r.l.
+50:A4:D0:60:00:00/28	Pointgra	PointGrab
+50:A4:D0:70:00:00/28	Shanghai	Shanghai Pujiang Smart Card Systems Co., Ltd.
+50:A4:D0:80:00:00/28	XinlianA	XinLian'AnBao（Beijing）Technology Co.，LTD.
+50:A4:D0:90:00:00/28	OemProdu	Oem Production Inc.
+50:A4:D0:A0:00:00/28	Changsha	Changsha SinoCare, Inc
+50:A4:D0:B0:00:00/28	ZhengDia	Zheng Dian Electronics Limited
+50:A4:D0:C0:00:00/28	BeijingY	Beijing YangLian Networks Technology co., LTD
+50:A4:D0:D0:00:00/28	AxelTech	Axel Technology
+50:A4:D0:E0:00:00/28	Sagetech	Sagetech Corporation
+50:FF:99:00:00:00/28	Simicon
+50:FF:99:10:00:00/28	CoyoteSy	Coyote Sytem
+50:FF:99:20:00:00/28	Shenzhen	Shenzhen Kingvt Electronics Co.,Ltd
+50:FF:99:30:00:00/28	Yongjing	Yongjing Shanghai Electronic Science and Technology
+50:FF:99:40:00:00/28	IpcGloba	IPC Global
+50:FF:99:50:00:00/28	Garrison	Garrison Technology
+50:FF:99:60:00:00/28	LegendWi	Legend Winner Limited
+50:FF:99:70:00:00/28	Honeywel	Honeywell International
+50:FF:99:80:00:00/28	DolphinC	Dolphin Concepts Limited
+50:FF:99:90:00:00/28	SeaEagle	Sea Eagle Optoelectronic Information Technology(Tianjin)co,Ltd
+50:FF:99:A0:00:00/28	Metratec	metraTec GmbH
+50:FF:99:B0:00:00/28	SichuanD	Sichuan Dowlab Electronics Technology Co. Ltd
+50:FF:99:C0:00:00/28	Goetting	Goetting KG
+50:FF:99:D0:00:00/28	Shenzhen	Shenzhen Haipengxin Electronic Co., Ltd.
+50:FF:99:E0:00:00/28	InformaL	Informa LLC
+54:9A:11:00:00:00/28	Shenzhen	Shenzhen Excera Technology Co.,Ltd.
+54:9A:11:10:00:00/28	Spearx	SpearX Inc.
+54:9A:11:20:00:00/28	TorrapDe	Torrap Design Limited
+54:9A:11:30:00:00/28	RoyalBoo	Royal Boon Edam International BV
+54:9A:11:40:00:00/28	EtauroLl	eTauro LLC
+54:9A:11:50:00:00/28	ElotechI	Elotech Industrieelektronik GmbH
+54:9A:11:60:00:00/28	OrientDi	Orient Direct, Inc.
+54:9A:11:70:00:00/28	NiveoInt	Niveo International BV
+54:9A:11:80:00:00/28	Tite	Tite, Inc.
+54:9A:11:90:00:00/28	AlfenBv	Alfen BV
+54:9A:11:A0:00:00/28	Vendnova	VendNovation LLC
+54:9A:11:B0:00:00/28	EliteSil	Elite Silicon Technology, Inc.
+54:9A:11:C0:00:00/28	XiAnHuaF	Xi'an Hua Fan Technology Co.,Ltd.
+54:9A:11:D0:00:00/28	Hangzhou	Hangzhou duotin Technology Co., Ltd.
+54:9A:11:E0:00:00/28	BeijingH	Beijing HTSmartech Co.,Ltd
+54:9A:11:F0:00:00/28	Private
+54:A4:93:00:00:00/28	Intellig	Intelligent Surveillance Corp
+54:A4:93:10:00:00/28	Shenzhen	ShenZhen Smart&Aspiration Co.,LTD
+54:A4:93:20:00:00/28	Genua	genua GmbH
+54:A4:93:30:00:00/28	I-MoonTe	I-Moon Technology Co., Limited
+54:A4:93:40:00:00/28	Shenzhen	Shenzhen C & D Electronics Co., Ltd.
+54:A4:93:50:00:00/28	Ausounds	Ausounds Intelligence, Llc
+54:A4:93:60:00:00/28	HanntoTe	Hannto Technology Co., Ltd
+54:A4:93:70:00:00/28	RedHydro	RED Hydrogen LLC
+54:A4:93:80:00:00/28	ChengduE	Chengdu EVECCA Technology Co.,Ltd.
+54:A4:93:90:00:00/28	DoEasyIn	Do Easy International Limited
+54:A4:93:A0:00:00/28	WondersT	Wonders Technology Co., Ltd.
+54:A4:93:B0:00:00/28	Advice
+54:A4:93:C0:00:00/28	BjCotyte	Bj Cotytech Technology Co.,Ltd
+54:A4:93:D0:00:00/28	AssemTec	Assem Technology Co.,Ltd.
+54:A4:93:E0:00:00/28	Nederman	Nederman Holding AB
+58:E8:76:00:00:00/28	Private
+58:E8:76:10:00:00/28	BeijingP	Beijing Perabytes IS Technology Co., Ltd
+58:E8:76:20:00:00/28	CoalaLif	Coala Life AB
+58:E8:76:30:00:00/28	McwongIn	McWong International Inc
+58:E8:76:40:00:00/28	ProbitSr	Probit Srl
+58:E8:76:50:00:00/28	BroadAir	Broad Air Technology Co., LTD.
+58:E8:76:60:00:00/28	Diviotec	DivioTec Inc.
+58:E8:76:70:00:00/28	ChronosT	Chronos Technology Ltd.
+58:E8:76:80:00:00/28	ChengduV	Chengdu Vision-Zenith Technology Co.,Ltd
+58:E8:76:90:00:00/28	TemMobil	TEM Mobile Limited
+58:E8:76:A0:00:00/28	Shenzhen	Shenzhen Digissin Technology
+58:E8:76:B0:00:00/28	Annapurn	Annapurna labs
+58:E8:76:C0:00:00/28	KustomSi	Kustom Signals Inc
+58:E8:76:D0:00:00/28	XiamenCa	Xiamen Cacamle Technology Co.,Ltd.
+58:E8:76:E0:00:00/28	BaoruhEl	Baoruh Electronic Co., Ltd.
+58:FC:DB:00:00:00/28	SpangPow	Spang Power Electronics
+58:FC:DB:10:00:00/28	CertisTe	Certis Technology International
+58:FC:DB:20:00:00/28	BeseyeCl	Beseye Cloud Security Co. Ltd.
+58:FC:DB:30:00:00/28	CustomBi	Custom Biogenic Systems
+58:FC:DB:40:00:00/28	InforceC	Inforce Computing Inc.
+58:FC:DB:50:00:00/28	Shenzhen	Shenzhen Siecom Communication Technology Development Co.,Ltd.
+58:FC:DB:60:00:00/28	TimexGro	Timex Group USA Inc
+58:FC:DB:70:00:00/28	OpenRoad	Open Roads Consulting, Inc.
+58:FC:DB:80:00:00/28	Shanghai	Shanghai Qianjin Electronic Equipment Co. Ltd
+58:FC:DB:90:00:00/28	Hi-Targe	Hi-Target Surveying Instrument Co., Ltd.
+58:FC:DB:A0:00:00/28	Xmodus	Xmodus Systems GmbH
+58:FC:DB:B0:00:00/28	SwarcoTr	Swarco Traffic Systems Gmbh
+58:FC:DB:C0:00:00/28	ExcenonM	Excenon Mobile Technology Co., Ltd.
+58:FC:DB:D0:00:00/28	XiamenLe	Xiamen Leelen Technology Co.,Ltd
+58:FC:DB:E0:00:00/28	AppliedD	Applied Device Technologies
+58:FC:DB:F0:00:00/28	Private
+5C:F2:86:00:00:00/28	Hangzhou	Hangzhou Signwei Electronics Technology Co., Ltd
+5C:F2:86:10:00:00/28	IsonTech	iSon Tech
+5C:F2:86:20:00:00/28	Shanghai	Shanghai Notion Information Technology CO.,LTD.
+5C:F2:86:30:00:00/28	BeijingY	beijing your wonderful control system technology co.,ltd
+5C:F2:86:40:00:00/28	Chipsen	CHIPSEN Co.,Ltd.
+5C:F2:86:50:00:00/28	Euroimmu	EUROIMMUN Medizinische Labordiagnostika AG
+5C:F2:86:60:00:00/28	Vpinstru	VPInstruments
+5C:F2:86:70:00:00/28	AccessIs	Access IS
+5C:F2:86:80:00:00/28	Shenzhen	Shenzhen Hivt Technology Co.,Ltd
+5C:F2:86:90:00:00/28	Shenzhen	Shenzhen VST Automotive Electronics Co., LTD
+5C:F2:86:A0:00:00/28	UnforsRa	Unfors Raysafe AB
+5C:F2:86:B0:00:00/28	ItronUk	Itron UK Limited
+5C:F2:86:C0:00:00/28	SunpetIn	Sunpet Industries Limited
+5C:F2:86:D0:00:00/28	Brightsk	BrightSky, LLC
+5C:F2:86:E0:00:00/28	DaisenEl	Daisen Electronic Industrial Co., Ltd.
+60:95:CE:00:00:00/28	SiemaApp	Siema Applications
+60:95:CE:10:00:00/28	PonoorEx	Ponoor Experiments Inc.
+60:95:CE:20:00:00/28	Q-Sentec	Q-SENTECH Co.,Ltd.
+60:95:CE:30:00:00/28	RobotSA	Robot S.A.
+60:95:CE:40:00:00/28	Untangle	Untangle, Inc.
+60:95:CE:50:00:00/28	Advanwis	AdvanWISE Corporation
+60:95:CE:60:00:00/28	XiamenSi	Xiamen Sigmastar Technology Ltd.
+60:95:CE:70:00:00/28	CadmoSol	Cadmo Soluciones SAC
+60:95:CE:80:00:00/28	TrophySa	Trophy SAS
+60:95:CE:90:00:00/28	Jlztlink	Jlztlink Industry(ShenZhen)Co.,Ltd.
+60:95:CE:A0:00:00/28	UnManned	(Un)Manned
+60:95:CE:B0:00:00/28	BeijingS	Beijing Sinomedisite Bio-tech Co.,Ltd
+60:95:CE:C0:00:00/28	Synamedi	Synamedia
+60:95:CE:D0:00:00/28	Govcomm
+60:95:CE:E0:00:00/28	Vns	VNS Inc.
+60:D7:E3:00:00:00/28	Avalun
+60:D7:E3:10:00:00/28	ElapSRL	Elap s.r.l.
+60:D7:E3:20:00:00/28	NovoInno	Novo innovations Ltd
+60:D7:E3:30:00:00/28	SksAutom	SKS Automaatio oy
+60:D7:E3:40:00:00/28	Hemisphe	Hemisphere GNSS
+60:D7:E3:50:00:00/28	RevolTec	Revol Technologies inc
+60:D7:E3:60:00:00/28	AmeliSRL	Ameli s.r.l.
+60:D7:E3:70:00:00/28	PhaseOne	Phase One A/S
+60:D7:E3:80:00:00/28	Hindlepo	HindlePower, Inc
+60:D7:E3:90:00:00/28	Longsung	LongSung Technology (Shanghai) Co.,Ltd.
+60:D7:E3:A0:00:00/28	Wilderne	Wilderness Labs Inc.
+60:D7:E3:B0:00:00/28	Nextivit	Nextivity
+60:D7:E3:C0:00:00/28	Zhejiang	Zhejiang Send Intelligent Technology,Ltd
+60:D7:E3:D0:00:00/28	Quantron	Quantronix, Inc.
+60:D7:E3:E0:00:00/28	Hubdic	HuBDIC CO.,LTD
+64:31:39:00:00:00/28	Shenzhen	Shenzhen Emeet Intelligent Technology Co., Ltd.
+64:31:39:10:00:00/28	LivongoH	Livongo Health
+64:31:39:20:00:00/28	Smartplu	Smartplus Inc.
+64:31:39:30:00:00/28	Koangyow	Koangyow Integration Machine Co., Ltd.
+64:31:39:40:00:00/28	ActiveBr	Active Brains
+64:31:39:50:00:00/28	Shenzhen	Shenzhen He&e Technology Co.,Ltd.
+64:31:39:60:00:00/28	HunanVoc	Hunan Voc Acoustics Technology Co., Ltd.
+64:31:39:70:00:00/28	Dongguan	Dongguan Huili electroacoustic Industrial Co.,ltd
+64:31:39:80:00:00/28	Shenzhen	Shenzhen Huanyin Electronics Ltd.
+64:31:39:A0:00:00/28	ProductD	Product Development Associates, Inc.
+64:31:39:C0:00:00/28	ShenZhen	SHEN ZHEN FUCHANG TECHNOLOGY Co.,Ltd.
+64:31:39:D0:00:00/28	Zhejiang	Zhejiang Moorgen Intelligent Technology Co.,Ltd
+64:31:39:E0:00:00/28	AtgUvTec	ATG UV Technology
+64:FB:81:00:00:00/28	Shanghai	Shanghai Simcom Limited
+64:FB:81:10:00:00/28	Narrativ	Narrative AB
+64:FB:81:20:00:00/28	SevenSol	Seven Solutions S.L
+64:FB:81:30:00:00/28	Mobilus	MOBILUS Inc.
+64:FB:81:40:00:00/28	Pricer	Pricer AB
+64:FB:81:50:00:00/28	KaySchul	Kay Schulze & Karsten Pohle GbR
+64:FB:81:60:00:00/28	XimoComm	XIMO Communication Technology Co., Ltd
+64:FB:81:70:00:00/28	Securosy	Securosys SA
+64:FB:81:80:00:00/28	NpgTechn	NPG Technology S.A.
+64:FB:81:90:00:00/28	Hiqview	hiQview Corporation
+64:FB:81:A0:00:00/28	Bronkhor	Bronkhorst High-Tech BV
+64:FB:81:B0:00:00/28	SichuanH	Sichuan Haige Actec Communication Technology Co.,Ltd.
+64:FB:81:C0:00:00/28	Bridgepo	Bridgeport Instruments, LLC
+64:FB:81:D0:00:00/28	Dongyang	Dongyang unitech.co.ltd
+64:FB:81:E0:00:00/28	ChengduK	ChengDu KeChuang LongXin Sci-tech Co.,Ltd
+64:FB:81:F0:00:00/28	Private
+68:91:D0:00:00:00/28	CentralR	Central Railway Manufacturing
+68:91:D0:10:00:00/28	MultiAla	Multi Alarm Zrt.
+68:91:D0:20:00:00/28	Shenzhen	Shenzhen NeaTech Intelligence Technology Co., Ltd.
+68:91:D0:30:00:00/28	AmbitioL	Ambitio LLC
+68:91:D0:40:00:00/28	G-TechIn	G-TECH Instruments Inc.
+68:91:D0:50:00:00/28	NipkElec	NIPK Electron Co.
+68:91:D0:60:00:00/28	Femrice
+68:91:D0:70:00:00/28	Omniimpe	Omniimpex GmbH
+68:91:D0:80:00:00/28	Solvimus	solvimus GmbH
+68:91:D0:90:00:00/28	Quantex
+68:91:D0:A0:00:00/28	Wisecube
+68:91:D0:B0:00:00/28	AltisTec	Altis Technology
+68:91:D0:C0:00:00/28	Spraying	Spraying Systems Co.
+68:91:D0:D0:00:00/28	FuzhouX-	Fuzhou x-speed information technology Co.,Ltd.
+68:91:D0:E0:00:00/28	Outstand	Outstanding Technology Co., Ltd.
+6C:5C:3D:00:00:00/28	Shenzhen	ShenZhen Hugsun Technology Co.,Ltd.
+6C:5C:3D:10:00:00/28	Shenzhen	Shenzhen Justek Technology Co., Ltd
+6C:5C:3D:20:00:00/28	VertivIn	Vertiv Industrial Systems
+6C:5C:3D:30:00:00/28	KwongMin	Kwong Ming Electrical Manufactory Limited
+6C:5C:3D:40:00:00/28	Hti	HTI Co., LTD.
+6C:5C:3D:50:00:00/28	UnitelEn	Unitel Engineering
+6C:5C:3D:60:00:00/28	Hangzhou	Hangzhou Netease Yanxuan Trading Co.,Ltd
+6C:5C:3D:70:00:00/28	Soundkin	Soundking Electronics&Sound Co., Ltd.
+6C:5C:3D:80:00:00/28	Guangzho	Guangzhou Guangri Elevator Industry Co.,Ltd
+6C:5C:3D:90:00:00/28	Iskraura	IskraUralTEL
+6C:5C:3D:A0:00:00/28	Krtkl	krtkl inc.
+6C:5C:3D:B0:00:00/28	Reconova	Reconova Technologies
+6C:5C:3D:C0:00:00/28	ChoyangP	choyang powertech
+6C:5C:3D:D0:00:00/28	Syowatsu	Syowatsusinkougyo Co.,Ltd.
+6C:5C:3D:E0:00:00/28	ClintonE	Clinton Electronics Corporation
+6C:DF:FB:00:00:00/28	Shenzhen	Shenzhen HDCVT Technology
+6C:DF:FB:10:00:00/28	Chongqin	Chongqing Baoli Yota Technologies Limited
+6C:DF:FB:20:00:00/28	Sercomm	Sercomm Corporation.
+6C:DF:FB:30:00:00/28	BeijingA	Beijing Ainemo Co Ltd
+6C:DF:FB:40:00:00/28	Lineable	Lineable Inc
+6C:DF:FB:50:00:00/28	Greenbir	Greenbird Vertriebs GmbH
+6C:DF:FB:60:00:00/28	Aaon
+6C:DF:FB:70:00:00/28	Hashtren	Hashtrend AG
+6C:DF:FB:80:00:00/28	Hardmeie	Hardmeier
+6C:DF:FB:90:00:00/28	Yongtech	YongTechs Electric Co. Ltd
+6C:DF:FB:A0:00:00/28	GuilinZh	Guilin Zhishen Information TechonlogyCO.,Ltd
+6C:DF:FB:B0:00:00/28	CellSyst	CELL System Co.,Ltd.
+6C:DF:FB:C0:00:00/28	Toucan	Toucan Systems Ltd
+6C:DF:FB:D0:00:00/28	NanjingB	Nanjing Buruike Electronics Technology Co., Ltd.
+6C:DF:FB:E0:00:00/28	BeijingF	Beijing Fimi Technology Co., Ltd.
+70:88:6B:00:00:00/28	Veracity	Veracity UK Ltd
+70:88:6B:10:00:00/28	Bitfinde	Bitfinder Inc
+70:88:6B:20:00:00/28	Cvnet
+70:88:6B:40:00:00/28	Hori	Hori Co., Ltd.
+70:88:6B:50:00:00/28	ChengduO	Chengdu Ophylink Communication Technology Ltd.
+70:88:6B:60:00:00/28	ChurchDw	Church & Dwight Co., Inc.
+70:88:6B:80:00:00/28	CableMat	Cable Matters Inc.
+70:88:6B:90:00:00/28	Shenzhen	Shenzhen Coolhear Information Technology Co., Ltd.
+70:88:6B:A0:00:00/28	RhxtuneT	RHXTune Technology Co.,Ltd
+70:88:6B:B0:00:00/28	BeijingS	Beijing Strongleader Science & Technology Co., Ltd.
+70:88:6B:C0:00:00/28	Max4G	MAX4G, Inc.
+70:F8:E7:00:00:00/28	Shenzhen	SHENZHEN Xin JiuNing Electronics Co Ltd
+70:F8:E7:10:00:00/28	SystemLe	System Level Solutions (India) Pvt.
+70:F8:E7:20:00:00/28	VoxxInte	VOXX International
+70:F8:E7:30:00:00/28	DrSimonC	Dr. Simon Consulting GmbH
+70:F8:E7:40:00:00/28	Clip	CLIP Inc.
+70:F8:E7:50:00:00/28	BeijingE	Beijing Eehuu Technology Co.,Ltd.
+70:F8:E7:60:00:00/28	FleximSe	Flexim Security Oy
+70:F8:E7:70:00:00/28	NstTechn	NST Technology Limited Co.,Ltd.
+70:F8:E7:80:00:00/28	EclipseS	Eclipse Security
+70:F8:E7:90:00:00/28	KontechE	Kontech Electronics Co., Ltd
+70:F8:E7:A0:00:00/28	TivaciPt	TiVACI CORPORATION PTE LTD
+70:F8:E7:B0:00:00/28	Photonfo	Photonfocus AG
+70:F8:E7:C0:00:00/28	Fixstars	Fixstars Corporation
+70:F8:E7:D0:00:00/28	System-O	System-on-Chip engineering
+70:F8:E7:E0:00:00/28	Cuav
+74:19:F8:00:00:00/28	Marmitek
+74:19:F8:10:00:00/28	Trend-Te	Trend-tech Technology Co., Limited
+74:19:F8:20:00:00/28	SymtopIn	Symtop Instrument Co.
+74:19:F8:30:00:00/28	Essentia	Essential Trading Systems Corp
+74:19:F8:40:00:00/28	Cloudvue	Cloudvue Technologies Corporation
+74:19:F8:50:00:00/28	StarcorB	Starcor Beijing Co.,Limited
+74:19:F8:60:00:00/28	Baudisch	Baudisch Electronic GmbH
+74:19:F8:70:00:00/28	Heptagon	Heptagon Systems PTY. LTD.
+74:19:F8:80:00:00/28	QuestPay	Quest Payment Systems
+74:19:F8:90:00:00/28	PrincipA	Princip a.s.
+74:19:F8:A0:00:00/28	Tanjarin	Tanjarine
+74:19:F8:B0:00:00/28	IdexxLab	IDEXX Laboratories, Inc
+74:19:F8:C0:00:00/28	BachIcon	Bach Icon ApS
+74:19:F8:D0:00:00/28	AnsjerEl	Ansjer Electronics Co., Ltd.
+74:19:F8:E0:00:00/28	Volacomm	Volacomm Co., Ltd
+74:19:F8:F0:00:00/28	Private
+74:1A:E0:00:00:00/28	HuanoInt	Huano International Technology Limited
+74:1A:E0:10:00:00/28	Socionex	Socionext Inc.
+74:1A:E0:20:00:00/28	NuraHold	Nura Holdings Pty Ltd
+74:1A:E0:30:00:00/28	PhilipsP	Philips Personal Health Solutions
+74:1A:E0:40:00:00/28	Revl	Revl Inc.
+74:1A:E0:50:00:00/28	FujianTa	Fujian Taili Communication Technology Co.,Ltd
+74:1A:E0:60:00:00/28	BlocksWe	Blocks Wearables Inc.
+74:1A:E0:70:00:00/28	BärBahns	BÄR Bahnsicherung AG
+74:1A:E0:80:00:00/28	Broadcas	Broadcast Wireless Systems Ltd
+74:1A:E0:90:00:00/28	Private
+74:1A:E0:A0:00:00/28	Saiercom	Saiercom Corporation
+74:1A:E0:B0:00:00/28	ShenZhen	Shen Zhen Yingjiachuang Electronics Technology Co.,Ltd.
+74:1A:E0:C0:00:00/28	Bistos	bistos.co.ltd
+74:1A:E0:D0:00:00/28	Voltawar	Voltaware Services Limited
+74:1A:E0:E0:00:00/28	ItsPartn	ITS Partner (O.B.S) S.L.
+74:5B:C5:00:00:00/28	IrsSyste	IRS Systementwicklung GmbH
+74:5B:C5:10:00:00/28	BeijingI	Beijing Inspiry Technology Co., Ltd.
+74:5B:C5:20:00:00/28	SiglentT	Siglent Technologies Co., Ltd.
+74:5B:C5:30:00:00/28	Oxon	Oxon Ag
+74:5B:C5:40:00:00/28	UgridNet	uGrid Network Inc.
+74:5B:C5:50:00:00/28	Springca	SpringCard
+74:5B:C5:60:00:00/28	YekaniMa	Yekani Manufacturing PTY Ltd
+74:5B:C5:70:00:00/28	Shenzhen	Shenzhen Atx Technology Co.,Ltd
+74:5B:C5:80:00:00/28	Edomo	EDOMO Systems GmbH
+74:5B:C5:90:00:00/28	HaikouFr	Haikou Frun Flash&Mcu Microcontrol Technology Development Co.,Ltd
+74:5B:C5:A0:00:00/28	FournieG	Fournie Grospaud Energie SASU
+74:5B:C5:B0:00:00/28	Smartipl	Smartiply Inc.
+74:5B:C5:C0:00:00/28	Comnot
+74:5B:C5:D0:00:00/28	CelyssSa	Celyss Sas
+74:5B:C5:E0:00:00/28	QingdaoW	Qingdao Wintec System Co., Ltd
+74:E1:4A:00:00:00/28	Altenbur	Altenburger Electronic GmbH
+74:E1:4A:10:00:00/28	Cerevo	Cerevo Inc.
+74:E1:4A:20:00:00/28	KlimatSo	KLIMAT SOLEC Sp. z o.o.
+74:E1:4A:30:00:00/28	Emz-Hana	emz-Hanauer GmbH & Co. KGaA
+74:E1:4A:40:00:00/28	OpenJoin	open joint stock company "YUG-SISTEMA plus"
+74:E1:4A:50:00:00/28	UtuOy	UTU Oy
+74:E1:4A:60:00:00/28	Emerging	Emerging Technology (Holdings) Ltd.
+74:E1:4A:70:00:00/28	ApmTechn	APM Technologies (DongGuan) Ltd
+74:E1:4A:80:00:00/28	Aritec	aritec gmbh
+74:E1:4A:90:00:00/28	KantoAir	Kanto Aircraft Instrument Co., Ltd.
+74:E1:4A:A0:00:00/28	AstarDes	AStar Design Service Technologies Co., Ltd.
+74:E1:4A:B0:00:00/28	LoctekVi	Loctek Visual Technology Corp.
+74:E1:4A:C0:00:00/28	WuhanShe	Wuhan Shenghong Laser Projection Technology Co.,LTD
+74:E1:4A:D0:00:00/28	KnogPty	Knog Pty Ltd
+74:E1:4A:E0:00:00/28	DiamondK	Diamond Kinetics
+74:E1:4A:F0:00:00/28	Private
+74:F8:DB:00:00:00/28	EnerconT	Enercon Technologies
+74:F8:DB:10:00:00/28	GhlAdvan	GHL Advanced Technology GmbH & Co. KG
+74:F8:DB:20:00:00/28	Shenzhen	Shenzhen Ruishi Information Technology Co.,Ltd.
+74:F8:DB:30:00:00/28	Innotran	InnoTrans Communications
+74:F8:DB:40:00:00/28	WifiHots	WiFi Hotspots, SL
+74:F8:DB:50:00:00/28	Provisio	Provision-ISR
+74:F8:DB:60:00:00/28	Shenzhen	Shenzhen Melon Electronics Co.,Ltd
+74:F8:DB:70:00:00/28	WuhanTia	Wuhan Tianyu Information Industry Co., Ltd.
+74:F8:DB:80:00:00/28	SongamSy	Songam Syscom Co. LTD.
+74:F8:DB:90:00:00/28	Avantree	Avantree Corporation
+74:F8:DB:A0:00:00/28	BallardT	Ballard Technology, Inc,
+74:F8:DB:B0:00:00/28	CapwaveT	Capwave Technologies Inc
+74:F8:DB:C0:00:00/28	Tbm	Tbm Co., Ltd.
+74:F8:DB:D0:00:00/28	SimonEle	Simon Electric (China) Co.,ltd
+74:F8:DB:E0:00:00/28	BernardK	Bernard Krone Holding GmbH & Co. KG
+74:F8:DB:F0:00:00/28	Private
+78:C2:C0:00:00:00/28	Shenzhen	Shenzhen ELI Technology co.,ltd
+78:C2:C0:10:00:00/28	Xronos	Xronos-Inc
+78:C2:C0:20:00:00/28	Ronix	RONIX incorporated
+78:C2:C0:30:00:00/28	NingboSa	Ningbo Sanxing Electric Co., Ltd.
+78:C2:C0:40:00:00/28	OryLabor	Ory Laboratory Co., Ltd.
+78:C2:C0:50:00:00/28	Shenzhen	ShenZhen TuLing Robot CO.,LTD
+78:C2:C0:60:00:00/28	SichuanT	Sichuan Tianyi Comheart Telecomco.,Ltd
+78:C2:C0:70:00:00/28	Guangzho	Guangzhou Hongcai Stage Equipment co.,ltd
+78:C2:C0:80:00:00/28	BeijingC	Beijing Coilabs technology co.,ltd
+78:C2:C0:90:00:00/28	Ses
+78:C2:C0:A0:00:00/28	Ombitron	Ombitron, Inc.
+78:C2:C0:B0:00:00/28	WanChaoA	Wan Chao An (Beijing) Technology Co., Ltd.
+78:C2:C0:C0:00:00/28	Shanghai	Shanghai Hanyi Technologies Co,.Ltd.
+78:C2:C0:D0:00:00/28	Korf	KORF Inc.
+78:C2:C0:E0:00:00/28	Huwomobi	Huwomobility
+78:C2:C0:F0:00:00/28	Private
+78:CA:83:00:00:00/28	Daincube
+78:CA:83:10:00:00/28	Exceloci	Excelocity Inc.
+78:CA:83:20:00:00/28	Apc
+78:CA:83:30:00:00/28	Neofon	Neofon GmbH
+78:CA:83:40:00:00/28	PinholeB	Pinhole (Beijing) Technology Co., Ltd.
+78:CA:83:50:00:00/28	HuatuneT	Huatune Technology (Shanghai) Co., Ltd.
+78:CA:83:60:00:00/28	Nomiku
+78:CA:83:70:00:00/28	BeijingC	Beijing CarePulse Electronic Technology
+78:CA:83:80:00:00/28	Ihm
+78:CA:83:90:00:00/28	LouroeEl	Louroe Electronics
+78:CA:83:A0:00:00/28	Eksagate	Eksagate Elektronik Mühendislik ve Bilgisayar San. Tic. A.Ş.
+78:CA:83:B0:00:00/28	Zhejiang	Zhejiang Science Electronic Tech Co., Ltd
+78:CA:83:C0:00:00/28	Elanview	Elanview Technology Co.,Ltd
+78:CA:83:D0:00:00/28	HubeiBoy	Hubei Boyuan Zhijia Network Media Co. Ltd.
+78:CA:83:E0:00:00/28	Konecran	Konecranes
+78:D8:00:00:00:00/28	Kvernela	Kverneland Group Mechatronics
+78:D8:00:10:00:00/28	Shenzhen	Shenzhen Envicool Information Technology Co., Ltd
+78:D8:00:20:00:00/28	Shanghai	Shanghai Espacetime Technology Co.,Ltd.
+78:D8:00:30:00:00/28	Shenzhen	Shenzhen Scodeno Technology Co,. Ltd.
+78:D8:00:40:00:00/28	CsInstru	CS Instruments GmbH
+78:D8:00:50:00:00/28	Björkvik	Björkviks Consulting AB
+78:D8:00:60:00:00/28	AlangoTe	Alango Technologies Ltd
+78:D8:00:70:00:00/28	Nimbelin	NimbeLink Corp
+78:D8:00:80:00:00/28	Salunda	Salunda Ltd
+78:D8:00:90:00:00/28	Sightlin	SightLine Applications
+78:D8:00:A0:00:00/28	Insignal	Insignal Co., Ltd.
+78:D8:00:B0:00:00/28	Maddalen	Maddalena S.p.A.
+78:D8:00:C0:00:00/28	Shenzhen	Shenzhen Chenzhuo Technology Co., Ltd.
+78:D8:00:D0:00:00/28	KoreaMic	Korea Micro Wireless Co.,Ltd.
+78:D8:00:E0:00:00/28	ClIntern	CL International
+7C:47:7C:00:00:00/28	Bungbung	BungBungame Inc
+7C:47:7C:10:00:00/28	Photosyn	Photosynth Inc.
+7C:47:7C:20:00:00/28	Powerlan	Powerland Limited
+7C:47:7C:30:00:00/28	EyelockL	EyeLock LLC
+7C:47:7C:40:00:00/28	RlcElect	RLC Electronics Systems
+7C:47:7C:50:00:00/28	MidwestM	Midwest Microwave Solutions
+7C:47:7C:60:00:00/28	Zerosyst	Zerosystem LTD.Co
+7C:47:7C:70:00:00/28	Bluesmar	BlueSmart Technology Corporation
+7C:47:7C:80:00:00/28	Shenzhen	Shenzhen Eunicum Electric Co.,Ltd.
+7C:47:7C:90:00:00/28	DalianCh	DaLian Cheering Tech Co.,Ltd
+7C:47:7C:A0:00:00/28	DspreadT	Dspread Technology (Beijing) Inc.
+7C:47:7C:B0:00:00/28	Hangzhou	Hangzhou Yiyitaidi Information Technology Co., Ltd.
+7C:47:7C:C0:00:00/28	Annapurn	Annapurna labs
+7C:47:7C:D0:00:00/28	Speedifi	Speedifi Inc
+7C:47:7C:E0:00:00/28	I-Conver	I-Convergence.com
+7C:70:BC:00:00:00/28	Shanghai	Shanghai magcomm communication technology co ltd
+7C:70:BC:10:00:00/28	Xd-GeAut	XD-GE Automation CO.,LTD
+7C:70:BC:20:00:00/28	DigitalL	Digital Lumens
+7C:70:BC:30:00:00/28	Flexim	FLEXIM GmbH
+7C:70:BC:40:00:00/28	K-Vision	K-Vision Technology (Shanghai), Ltd
+7C:70:BC:50:00:00/28	CanaryCo	Canary Connect, Inc.
+7C:70:BC:60:00:00/28	Bidgely
+7C:70:BC:70:00:00/28	NomadDig	Nomad Digital Ltd.
+7C:70:BC:80:00:00/28	Mennekes	Mennekes Elektrotechnik GmbH & Co. KG
+7C:70:BC:90:00:00/28	Dogtra
+7C:70:BC:A0:00:00/28	AmetekVi	Ametek VIS
+7C:70:BC:B0:00:00/28	TohanEng	Tohan Engineering Corporation
+7C:70:BC:C0:00:00/28	LukupMed	Lukup Media
+7C:70:BC:D0:00:00/28	Mk-Messt	mk-messtechnik GmbH
+7C:70:BC:E0:00:00/28	HoperunM	Hoperun Mmax Digital Pte. Ltd.
+7C:70:BC:F0:00:00/28	Private
+7C:BA:CC:00:00:00/28	Tgt	TGT Limited
+7C:BA:CC:10:00:00/28	Changsha	Changsha SUNYE Electric Co., Ltd.
+7C:BA:CC:20:00:00/28	MacoLigh	Maco Lighting Pty. Ltd.
+7C:BA:CC:30:00:00/28	Izkare
+7C:BA:CC:40:00:00/28	SunAsiaT	Sun Asia Trade Co.
+7C:BA:CC:50:00:00/28	FortemTe	Fortem Technologies, Inc.
+7C:BA:CC:60:00:00/28	FossilPo	Fossil Power Systems Inc
+7C:BA:CC:70:00:00/28	VirginOr	Virgin Orbit
+7C:BA:CC:80:00:00/28	Collinea	Collinear Networks Inc.
+7C:BA:CC:90:00:00/28	Yongguan	Yongguan Electronic Technology (D.G)LTD
+7C:BA:CC:A0:00:00/28	Annapurn	Annapurna labs
+7C:BA:CC:B0:00:00/28	Briowire	Briowireless Inc.
+7C:BA:CC:C0:00:00/28	FlyingLo	Flying Loft Inc.
+7C:BA:CC:D0:00:00/28	Sigma-El	SIGMA-ELEKTRO GmbH
+7C:BA:CC:E0:00:00/28	AlphaTec	Alpha Technologies, Llc
+7C:BC:84:00:00:00/28	Neovo	AG Neovo
+7C:BC:84:10:00:00/28	XiamenMa	Xiamen Mage Information Technology Co.,Ltd.
+7C:BC:84:20:00:00/28	3STechno	3S Technology Co., Ltd.
+7C:BC:84:30:00:00/28	Shanghai	Shanghai Yitu Technology Co. Ltd
+7C:BC:84:40:00:00/28	Continen	Continental
+7C:BC:84:50:00:00/28	NanningA	Nanning auto digital technology co.,LTD
+7C:BC:84:60:00:00/28	SociétéD	Société de Transport de Montréal
+7C:BC:84:70:00:00/28	XujiChan	Xuji Changnan Communication Equipment Co., Ltd.
+7C:BC:84:80:00:00/28	Shenzhen	Shenzhen Kuang-chi Space Technology Co., Ltd.
+7C:BC:84:90:00:00/28	Hitiq	Hitiq Limited
+7C:BC:84:A0:00:00/28	OpntBv	Opnt Bv
+7C:BC:84:B0:00:00/28	Guangzho	Guangzhou Puppyrobot Technology Co.Ltd Beijing Branch
+7C:BC:84:C0:00:00/28	TibitCom	Tibit Communications
+7C:BC:84:D0:00:00/28	VantageI	Vantage Integrated Security Solutions Pvt Ltd
+7C:BC:84:E0:00:00/28	BeijingT	Beijing Topnew Group Co., Ltd
+7C:CB:E2:00:00:00/28	HeyuanYo	Heyuan Yongyida Technology Holdings Co.,Ltd.
+7C:CB:E2:10:00:00/28	Ceotroni	CeoTronics AG
+7C:CB:E2:20:00:00/28	1000Eyes	1000eyes GmbH
+7C:CB:E2:30:00:00/28	AstrumTe	Astrum Technologies CC
+7C:CB:E2:40:00:00/28	NingboBi	Ningbo bird sales co.,LTD
+7C:CB:E2:50:00:00/28	DtechLab	DTECH Labs, Inc.
+7C:CB:E2:60:00:00/28	SyElectr	SY Electronics Limited
+7C:CB:E2:70:00:00/28	Hangzhou	Hangzhou Kaicom Communication Co.,Ltd
+7C:CB:E2:80:00:00/28	Polartek	Polarteknik Oy
+7C:CB:E2:90:00:00/28	Hangzhou	Hangzhou Haohaokaiche Technology Co.,Ltd.
+7C:CB:E2:A0:00:00/28	Shanghai	Shanghai Institute of Applied Physics, Chinese Academy of Sciences
+7C:CB:E2:B0:00:00/28	EasyBroa	Easy Broadband Technology Co., Ltd.
+7C:CB:E2:C0:00:00/28	Mirakont	mirakonta s.l.
+7C:CB:E2:D0:00:00/28	Optilink	optilink networks pvt ltd
+7C:CB:E2:E0:00:00/28	AplexTec	Aplex Technology Inc.
+80:0A:80:00:00:00/28	GolanaTe	Golana Technology (Shenzhen) Co., Ltd.
+80:0A:80:10:00:00/28	Dongguan	Dongguan I-Chime electrinics Co.,Ltd
+80:0A:80:20:00:00/28	Sumitomo	Sumitomo Wiring Systems, Ltd.
+80:0A:80:30:00:00/28	BeijingV	Beijing VControl Technology Co., Ltd.
+80:0A:80:40:00:00/28	Llvision	Llvision Technology Co.,Ltd
+80:0A:80:50:00:00/28	Shenzhen	Shenzhen Zidoo Technology Co., Ltd.
+80:0A:80:60:00:00/28	BeijingG	Beijing Gooagoo Technical Service Co.,Ltd.
+80:0A:80:F0:00:00/28	Private
+80:7B:85:00:00:00/28	Shiroshi	Shiroshita Industrial Co., Ltd.
+80:7B:85:10:00:00/28	Hangzhou	Hangzhou Synway Information Engineering Co., Ltd
+80:7B:85:20:00:00/28	Phoenix	Phoenix Co.,Ltd.
+80:7B:85:30:00:00/28	ZhuhaiTo	Zhuhai TOP Intelligence Electric Co., Ltd.
+80:7B:85:40:00:00/28	QuantelU	Quantel USA, Inc.
+80:7B:85:50:00:00/28	Efco
+80:7B:85:60:00:00/28	QuickteT	Quickte Technology Co.,Ltd
+80:7B:85:70:00:00/28	ChenduNi	Chendu Ningshui Technology Co.,Ltd
+80:7B:85:80:00:00/28	IdairLlc	IDair, LLC
+80:7B:85:90:00:00/28	SmartEle	Smart Electronics Nz Limited
+80:7B:85:A0:00:00/28	Interpla	Interplan Co., Ltd.
+80:7B:85:B0:00:00/28	Oliotalo	Oliotalo Oy
+80:7B:85:C0:00:00/28	NingboPl	Ningbo Plus and Popscreens electronic Technology Co.,LTD
+80:7B:85:D0:00:00/28	KaynesTe	Kaynes Technology India Pvt Ltd
+80:7B:85:E0:00:00/28	Mersen
+80:7B:85:F0:00:00/28	Private
+80:E4:DA:00:00:00/28	Wheatsto	Wheatstone Corporation
+80:E4:DA:10:00:00/28	Guangzho	Guangzhou Pinzhong Electronic Technology CO., LTD
+80:E4:DA:20:00:00/28	ThurlbyT	Thurlby Thandar Instruments LTD
+80:E4:DA:30:00:00/28	BeijingG	Beijing Gaokezhongtian Technology Co Ltd
+80:E4:DA:40:00:00/28	BeijingY	Beijing Yuantel Technolgy Co.,Ltd-Shenzhen Branch
+80:E4:DA:50:00:00/28	CavalryS	Cavalry Storage Inc
+80:E4:DA:60:00:00/28	Broadmed	BroadMedia Co., Ltd.
+80:E4:DA:70:00:00/28	Shortcut	Shortcut Labs
+80:E4:DA:80:00:00/28	KrizerIn	Krizer international Co,. Ltd.
+80:E4:DA:90:00:00/28	Elcus
+80:E4:DA:A0:00:00/28	Neutroni	Neutronics
+80:E4:DA:B0:00:00/28	NanjingL	Nanjing LILO Technology Co. Ltd.
+80:E4:DA:C0:00:00/28	EverSpZO	EVER Sp. z o.o.
+80:E4:DA:D0:00:00/28	DalianRo	Dalian Roiland Technology Co.,Ltd
+80:E4:DA:E0:00:00/28	AkenoriP	Akenori PTE LTD
+80:E4:DA:F0:00:00/28	Private
+84:39:BE:00:00:00/28	HinoEngi	Hino Engineering, Inc
+84:39:BE:10:00:00/28	Guangzho	Guangzhou Heygears Technology Ltd
+84:39:BE:20:00:00/28	ChengDuV	Cheng Du virtual world Technology Limited.
+84:39:BE:30:00:00/28	Shenzhen	ShenZhen Fudeyu Technology co.,Ltd
+84:39:BE:40:00:00/28	Shenzhen	Shenzhen Ramos Digital Technology Co,.Ltd.
+84:39:BE:50:00:00/28	NeatSRL	Neat S.r.l.
+84:39:BE:60:00:00/28	Shenzhen	Shenzhen IP3 Century Intelligent Technology Co., Ltd
+84:39:BE:80:00:00/28	DiamondP	Diamond Products LLC
+84:39:BE:90:00:00/28	Guangdon	Guangdong SunMeng Information Technology Co. Ltd.
+84:39:BE:A0:00:00/28	EmotiqSR	Emotiq s.r.l.
+84:39:BE:B0:00:00/28	Shenzhen	Shenzhen Horn Audio Co.,Ltd.
+84:39:BE:C0:00:00/28	EdcElect	EDC Electronic Design Chemnitz GmbH
+84:39:BE:D0:00:00/28	Shenzhen	Shenzhen Lidaxun Digital Technology Co.,Ltd
+84:89:EC:00:00:00/28	Smartgia	SmartGiant Technology
+84:89:EC:10:00:00/28	Research	Research Electronics International, LLC.
+84:89:EC:20:00:00/28	Thousand	thousand star tech LTD.
+84:89:EC:30:00:00/28	Aerionic	Aerionics Inc.
+84:89:EC:40:00:00/28	VayyarIm	Vayyar Imaging Ltd.
+84:89:EC:50:00:00/28	ZephyrEn	Zephyr Engineering, Inc.
+84:89:EC:60:00:00/28	PoctBiot	POCT biotechnology
+84:89:EC:70:00:00/28	Byda	BYDA Co. Ltd.,
+84:89:EC:80:00:00/28	ArtsDigi	Arts Digital Technology (HK) Ltd.
+84:89:EC:90:00:00/28	Shenzhen	Shenzhen Xtooltech Co., Ltd
+84:89:EC:A0:00:00/28	NewellBr	Newell Brands
+84:89:EC:B0:00:00/28	EpsaElek	EPSa Elektronik & Präzisionsbau Saalfeld GmbH
+84:89:EC:C0:00:00/28	Shinkawa	Shinkawa Ltd.
+84:89:EC:D0:00:00/28	PriceInd	Price Industries Limited
+84:89:EC:E0:00:00/28	Shenzhen	Shenzhen Intellifusion Technologies Co., Ltd.
+84:8B:CD:00:00:00/28	SouxinCo	SouXin Corporate
+84:8B:CD:10:00:00/28	Shenzhen	Shenzhen LTIME In-Vehicle Entertainment System Company Limited
+84:8B:CD:20:00:00/28	CcxTechn	CCX Technologies Inc.
+84:8B:CD:30:00:00/28	Annapurn	Annapurna labs
+84:8B:CD:40:00:00/28	LogicSup	Logic Supply
+84:8B:CD:50:00:00/28	Exodraft	exodraft a/s
+84:8B:CD:60:00:00/28	TwtgR&DB	Twtg R&D B.V.
+84:8B:CD:70:00:00/28	SmartCod	Smart Code (Shenzhen) Technology Co.,Ltd
+84:8B:CD:80:00:00/28	DunstTro	Dunst tronic GmbH
+84:8B:CD:90:00:00/28	Noralsy
+84:8B:CD:A0:00:00/28	SpheraTe	Sphera Telecom
+84:8B:CD:B0:00:00/28	Chongqin	Chongqing Huayi Kangdao Technology Co.,Ltd.
+84:8B:CD:C0:00:00/28	Wormit
+84:8B:CD:D0:00:00/28	EngisatL	Engisat Lda
+84:8B:CD:E0:00:00/28	Emotiv	Emotiv Inc
+84:E0:F4:00:00:00/28	Shenzhen	ShenZhen Panrich Technology Limited
+84:E0:F4:10:00:00/28	Medicust	MedicusTek Inc.
+84:E0:F4:20:00:00/28	Hangzhou	Hangzhou Uni-Ubi Co.,Ltd.
+84:E0:F4:30:00:00/28	AslInter	ASL Intercom B.V.
+84:E0:F4:40:00:00/28	Petroint	PetroInTrade
+84:E0:F4:50:00:00/28	Hangzhou	Hangzhou Nationalchip Science & Technology Co.,Ltd.
+84:E0:F4:60:00:00/28	Liaoning	Liaoning IK'SONYA Science and Technology Co., Ltd.
+84:E0:F4:70:00:00/28	Dantherm
+84:E0:F4:80:00:00/28	Ray	RAY Co.,LTD
+84:E0:F4:90:00:00/28	Shenzhen	Shenzhen Hcn.Electronics Co.,Ltd.
+84:E0:F4:A0:00:00/28	Isolutio	iSolution Technologies Co.,Ltd.
+84:E0:F4:B0:00:00/28	OrchardE	Orchard Electronics Co., Ltd.
+84:E0:F4:C0:00:00/28	Aimtron	Aimtron Corporation
+84:E0:F4:D0:00:00/28	Logos01S	Logos01 Srl
+84:E0:F4:E0:00:00/28	Scale-Te	Scale-Tec Ltd.
+88:5D:90:00:00:00/28	FoshanHu	Foshan Huaguo Optical Co.,Ltd
+88:5D:90:10:00:00/28	Shenzhen	ShenZhen Yuyangsheng technology company LTD
+88:5D:90:20:00:00/28	DaidongI	DAIDONG Industrial System Co., Ltd.
+88:5D:90:30:00:00/28	Cpac	CPAC Systems
+88:5D:90:40:00:00/28	WuhanStr	Wuhan Strong Electronics Co., Ltd
+88:5D:90:50:00:00/28	Shenzhen	Shenzhen JingHanDa Electronics Co.Ltd
+88:5D:90:60:00:00/28	Hi-Profi	Hi-Profile Achievement (M) Sdn Bhd
+88:5D:90:70:00:00/28	SchmidtH	Schmidt & Co.,(H.K.)Ltd.
+88:5D:90:80:00:00/28	Creative	Creative Sensor Inc.
+88:5D:90:90:00:00/28	Gigatech	Gigatech R&D Corp.
+88:5D:90:A0:00:00/28	Shenzhen	Shenzhen Speedrun Technologies Co.,Ltd.
+88:5D:90:B0:00:00/28	PremierM	Premier Merchandises Limited
+88:5D:90:C0:00:00/28	Iroom	iRoom GmbH
+88:5D:90:D0:00:00/28	Hexaglob	Hexaglobe
+88:5D:90:E0:00:00/28	UnitacTe	Unitac Technology Limited
+88:5D:90:F0:00:00/28	Private
+88:5F:E8:00:00:00/28	Junghein	Jungheinrich Norderstedt AG & Co. KG
+88:5F:E8:10:00:00/28	ApoideaT	Apoidea Technology Co., Ltd.
+88:5F:E8:20:00:00/28	OptoEngi	Opto Engineering
+88:5F:E8:30:00:00/28	SonnetLa	Sonnet Labs Inc.
+88:5F:E8:40:00:00/28	BeijingL	Beijing laiwei Technology Co.,Ltd
+88:5F:E8:50:00:00/28	HauchBac	Hauch & Bach ApS
+88:5F:E8:60:00:00/28	Shenzhen	Shenzhen Xin Kingbrand Enterprises Co.,Ltd
+88:5F:E8:70:00:00/28	RedTechn	Red Technologies, LLC.
+88:5F:E8:80:00:00/28	Changsha	Changsha Xiangji-Haidun Technology Co., Ltd
+88:5F:E8:90:00:00/28	Sowee
+88:5F:E8:A0:00:00/28	LisleDes	Lisle Design Ltd
+88:5F:E8:B0:00:00/28	Shenzhen	Shenzhen ORVIBO Technology Co., Ltd
+88:5F:E8:C0:00:00/28	InorProc	Inor Process AB
+88:5F:E8:D0:00:00/28	Zhejiang	zhejiang yuanwang communication technolgy co.,ltd
+88:5F:E8:E0:00:00/28	UnicomGl	Unicom Global, Inc.
+88:A9:A7:00:00:00/28	Shenzhen	Shenzhenshi kechuangzhixian technology Co.LTD
+88:A9:A7:10:00:00/28	Solaredg	Solaredge LTD.
+88:A9:A7:20:00:00/28	Honeywel	Honeywell spol. s.r.o. HTS CZ o.z.
+88:A9:A7:30:00:00/28	Mikroele	Mikroelektronika
+88:A9:A7:40:00:00/28	ThomasDa	Thomas & Darden, Inc
+88:A9:A7:50:00:00/28	Volterma	Volterman Inc.
+88:A9:A7:60:00:00/28	SieperLü	Sieper Lüdenscheid GmbH & Co. KG
+88:A9:A7:70:00:00/28	KimuraGi	kimura giken corporation
+88:A9:A7:80:00:00/28	PsbIntra	psb intralogistics GmbH
+88:A9:A7:90:00:00/28	Flashfor	FlashForge Corporation
+88:A9:A7:A0:00:00/28	Zhejiang	Zhejiang Haoteng Electronic Technology Co.,Ltd.
+88:A9:A7:B0:00:00/28	Twk-Elek	Twk-Elektronik
+88:A9:A7:C0:00:00/28	Androvid	AndroVideo Inc.
+88:A9:A7:D0:00:00/28	AvlinkIn	Avlink Industrial Co., Ltd
+88:A9:A7:E0:00:00/28	ImpactDi	Impact Distribution
+8C:14:7D:00:00:00/28	Nio
+8C:14:7D:10:00:00/28	Private
+8C:14:7D:20:00:00/28	AgilentS	Agilent S.p.A
+8C:14:7D:30:00:00/28	RemotecT	Remotec Technology Limited
+8C:14:7D:40:00:00/28	NanjingB	Nanjing bilian information Technology Co.,Ltd.
+8C:14:7D:50:00:00/28	UnwiredN	Unwired Networks
+8C:14:7D:60:00:00/28	Shenzhen	Shenzhen Meidou Technology Co, Ltd.
+8C:14:7D:70:00:00/28	Urbanhel	UrbanHello
+8C:14:7D:80:00:00/28	V2SPA	V2 S.p.A.
+8C:14:7D:90:00:00/28	AnywareS	Anyware Solutions ApS
+8C:14:7D:A0:00:00/28	Bluemega	Bluemega Document & Print Services
+8C:14:7D:B0:00:00/28	BauschDa	Bausch Datacom NV/SA
+8C:14:7D:C0:00:00/28	Reynaers	Reynaers Aluminium
+8C:14:7D:D0:00:00/28	Shenzhen	Shenzhen Lanxus technology Co. Ltd.
+8C:14:7D:E0:00:00/28	Electric	Electrical & Automation Larsen & Toubro Limited
+8C:19:2D:00:00:00/28	NoritsuP	Noritsu Precision Co., Ltd.
+8C:19:2D:10:00:00/28	Shenzhen	Shenzhen Huanuo Internet Technology Co.,Ltd
+8C:19:2D:20:00:00/28	Dataremo	DataRemote Inc.
+8C:19:2D:30:00:00/28	Greenfie	Greenfield Technology
+8C:19:2D:40:00:00/28	Charmlin	Charmlink Tech(HK) Co.,Limited
+8C:19:2D:50:00:00/28	ElcoTian	Elco(Tianjin)Electronics Co.,Ltd.
+8C:19:2D:60:00:00/28	Smarthom	smartHome Partner GmbH
+8C:19:2D:70:00:00/28	Srett
+8C:19:2D:80:00:00/28	Shenzhen	Shenzhen Cylan Technology Co.,Ltd
+8C:19:2D:90:00:00/28	Viawear	ViaWear, Inc.
+8C:19:2D:A0:00:00/28	Telealar	TeleAlarm SA
+8C:19:2D:B0:00:00/28	AbsideNe	Abside Networks, Inc.
+8C:19:2D:C0:00:00/28	YouZheng	You Zhengcheng co.,ltd
+8C:19:2D:D0:00:00/28	PyrasTec	Pyras Technology Inc.
+8C:19:2D:E0:00:00/28	Elcon	Elcon AB
+8C:1C:DA:00:00:00/28	CeosPty	CEOS Pty Ltd
+8C:1C:DA:10:00:00/28	Gesas	GESAS GmbH
+8C:1C:DA:20:00:00/28	Geomc
+8C:1C:DA:30:00:00/28	Structur	Structura Technology & Innovation
+8C:1C:DA:40:00:00/28	Anntec（B	Anntec （Beijing） Technology Co.,Ltd.
+8C:1C:DA:50:00:00/28	Septentr	Septentrio NV
+8C:1C:DA:60:00:00/28	Locolabs	LocoLabs LLC
+8C:1C:DA:70:00:00/28	KTechnol	K Technology Corporation
+8C:1C:DA:80:00:00/28	AtolLlc	Atol Llc
+8C:1C:DA:90:00:00/28	RaychemR	Raychem RPG PVT. LTD.
+8C:1C:DA:A0:00:00/28	ChinaPot	China Potevio Co., Ltd
+8C:1C:DA:B0:00:00/28	T+AElekt	T+A elektroakustik GmbH & Co.KG
+8C:1C:DA:C0:00:00/28	Alcidae	Alcidae Inc
+8C:1C:DA:D0:00:00/28	RieglLas	Riegl Laser Measurement Systems GmbH
+8C:1C:DA:E0:00:00/28	Electron	Electronic Controlled Systems, Inc.
+8C:59:3C:00:00:00/28	FujianCh	Fujian Chaozhi Group Co., Ltd.
+8C:59:3C:10:00:00/28	FutureRo	Future Robot Technology Co., Limited
+8C:59:3C:20:00:00/28	BeidaJad	Beida Jade Bird Universal Fire Alarm Device CO.,LTD.
+8C:59:3C:30:00:00/28	Chongqin	Chongqing beimoting technology co.ltd
+8C:59:3C:40:00:00/28	Guralp	Guralp Systems Limited
+8C:59:3C:50:00:00/28	Spectran	Spectranetix
+8C:59:3C:60:00:00/28	QbicTech	Qbic Technology Co., Ltd
+8C:59:3C:70:00:00/28	OboPro2	OBO Pro.2 Inc.
+8C:59:3C:80:00:00/28	Nanonord	Nanonord A/S
+8C:59:3C:90:00:00/28	Genis
+8C:59:3C:A0:00:00/28	EcomInst	ecom instruments GmbH
+8C:59:3C:B0:00:00/28	Scharfe-	Scharfe-Sicht GmbH
+8C:59:3C:C0:00:00/28	Dantherm	Dantherm Cooling Inc.
+8C:59:3C:D0:00:00/28	Idro-Ele	Idro-Elettrica S.P.A.
+8C:59:3C:E0:00:00/28	Shenzhen	Shenzhen Tian-Power Technology Co.,Ltd.
+8C:C8:F4:00:00:00/28	Guardtec	Guardtec,Inc
+8C:C8:F4:10:00:00/28	Lanhomex	Lanhomex Technology(Shen Zhen)Co.,Ltd.
+8C:C8:F4:20:00:00/28	DarkHors	Dark Horse Connect LLC
+8C:C8:F4:30:00:00/28	TohoDenk	Toho Denki Ind.Co.,Ltd
+8C:C8:F4:40:00:00/28	ItechEle	ITECH Electronic Co.,ltd.
+8C:C8:F4:50:00:00/28	BeijingK	Beijing KXWELL Technology CO., LTD
+8C:C8:F4:60:00:00/28	Shenzhen	SHENZHEN D-light Technolgy Limited
+8C:C8:F4:70:00:00/28	Private
+8C:C8:F4:80:00:00/28	Strongby	Strongbyte Solutions Limited
+8C:C8:F4:90:00:00/28	SwiftNav	Swift Navigation Inc
+8C:C8:F4:A0:00:00/28	TriluxGr	Trilux Group Management GmbH
+8C:C8:F4:B0:00:00/28	Ptype	PTYPE Co., LTD.
+8C:C8:F4:C0:00:00/28	Shenzhen	Shenzhen KSTAR Science and Technology Co., Ltd
+8C:C8:F4:D0:00:00/28	BeijingX	Beijing Xinxunxintong Eletronics Co.,Ltd
+8C:C8:F4:E0:00:00/28	Evaporco	Evaporcool Solutions
+90:4E:91:00:00:00/28	Spirtech
+90:4E:91:10:00:00/28	ApolloVi	Apollo Video Technology
+90:4E:91:20:00:00/28	NorthPol	North Pole Engineering, Inc.
+90:4E:91:30:00:00/28	Teleepoc	Teleepoch Ltd
+90:4E:91:40:00:00/28	WrtnodeT	Wrtnode technology Inc.
+90:4E:91:50:00:00/28	Mcf88Srl	mcf88 SRL
+90:4E:91:60:00:00/28	NuwaRobo	Nuwa Robotics (HK) Limited Taiwan Branch
+90:4E:91:70:00:00/28	Ibm
+90:4E:91:80:00:00/28	Commands	CommandScape, Inc.
+90:4E:91:90:00:00/28	CutterSp	CUTTER Systems spol. s r.o.
+90:4E:91:A0:00:00/28	Kaertech	Kaertech Limited
+90:4E:91:B0:00:00/28	Shanghai	Shanghai JaWay Information Technology Co., Ltd.
+90:4E:91:C0:00:00/28	Showtacl	Showtacle s.r.o.
+90:4E:91:D0:00:00/28	SkodaEle	SKODA ELECTRIC a.s.
+90:4E:91:E0:00:00/28	Shenzhen	Shenzhen Cloudynamo Internet Technologies Co.,LTD.
+90:C6:82:00:00:00/28	Shenzhen	Shenzhen Lencotion Technology Co.,Ltd
+90:C6:82:10:00:00/28	Shenzhen	Shenzhen Photon Broadband Technology CO., LTD
+90:C6:82:20:00:00/28	EkeyBiom	ekey biometric systems gmbh
+90:C6:82:30:00:00/28	Innovati	Innovative Electronic Technology
+90:C6:82:40:00:00/28	Neone	Neone, Inc.
+90:C6:82:50:00:00/28	SAETSRL	S.A.E.T. S.R.L.
+90:C6:82:60:00:00/28	NanjingJ	Nanjing Jiexi Technologies Co., Ltd.
+90:C6:82:70:00:00/28	Cinet	Cinet Inc
+90:C6:82:80:00:00/28	TeletekE	Teletek Electronics
+90:C6:82:90:00:00/28	Act
+90:C6:82:A0:00:00/28	BeijingA	Beijing Acorn Networks Corporation
+90:C6:82:B0:00:00/28	Lachmann	Lachmann & Rink GmbH
+90:C6:82:C0:00:00/28	LiSengTe	Li Seng Technology Ltd.
+90:C6:82:D0:00:00/28	Powershi	PowerShield Limited
+90:C6:82:E0:00:00/28	Shanghai	Shanghai HuRong Communication Technology Development Co., Ltd.
+90:C6:82:F0:00:00/28	Private
+98:02:D8:00:00:00/28	Stoerk-T	Stoerk-Tronic, Stoerk GmbH & Co.KG
+98:02:D8:10:00:00/28	Shenzhen	Shenzhen Ateko Photoelectricity Co Ltd
+98:02:D8:20:00:00/28	UnitedPo	United Power Research Technology Corp.
+98:02:D8:30:00:00/28	GrammerE	Grammer EiA Electronics nv
+98:02:D8:40:00:00/28	Zedi	Zedi, Inc.
+98:02:D8:50:00:00/28	Ebi	EBI Ltd.
+98:02:D8:60:00:00/28	FritzKue	Fritz Kuebler GmbH
+98:02:D8:70:00:00/28	Ormazaba	Ormazabal Protection&Automation
+98:02:D8:80:00:00/28	SimploTe	Simplo Technology Co.,LTD
+98:02:D8:90:00:00/28	NavroomB	Navroom Beijing, China
+98:02:D8:A0:00:00/28	Hysecuri	HySecurity
+98:02:D8:B0:00:00/28	HanshinM	Hanshin Medical Co., Ltd.
+98:02:D8:C0:00:00/28	Agv	AGV spa
+98:02:D8:D0:00:00/28	Promicon	Promicon Elektronik GmbH + Co.KG
+98:02:D8:E0:00:00/28	Private
+98:02:D8:F0:00:00/28	Private
+98:06:37:00:00:00/28	Zoleo	Zoleo Inc.
+98:06:37:10:00:00/28	EPSchlum	E. P. Schlumberger
+98:06:37:20:00:00/28	SummaNv	Summa nv
+98:06:37:30:00:00/28	Hangzhou	Hangzhou Sanxin Network Technology Co.,Ltd
+98:06:37:40:00:00/28	ChengduS	Chengdu Shuwei Communication Technology Co.,Ltd
+98:06:37:50:00:00/28	GsGlobal	Gs Global Security Inc
+98:06:37:60:00:00/28	BoeingSs	Boeing Ssg
+98:06:37:70:00:00/28	Samwonte	Samwontech
+98:06:37:80:00:00/28	Shenzhen	Shenzhen Y&D Electronics Information Co., Ltd
+98:06:37:90:00:00/28	Nab	NAB co,.LTD
+98:06:37:A0:00:00/28	AngoraNe	Angora Networks
+98:06:37:B0:00:00/28	Petersim	Petersime
+98:06:37:C0:00:00/28	Hwacom	HwaCom Systems Inc.
+98:06:37:D0:00:00/28	VrTechno	VR Technology(Shenzhen) Limited
+98:06:37:E0:00:00/28	Shanghai	Shanghai Jinnian information technology Co. Ltd
+98:6D:35:00:00:00/28	Shenzhen	Shenzhen MALATA Mobile Communication Co.,LTD
+98:6D:35:10:00:00/28	Shenzhen	Shenzhen cositea electronics technology co.,LTD
+98:6D:35:20:00:00/28	Shenzhen	Shenzhen Fise Technology Holding Co.,Ltd.
+98:6D:35:30:00:00/28	DhMechat	DH Mechatronic AG
+98:6D:35:40:00:00/28	BlossomC	blossom communications corp.
+98:6D:35:50:00:00/28	Pdahl
+98:6D:35:60:00:00/28	Vitronic	Vitronic Dr.-Ing. Stein Bildverarbeitungssysteme GmbH
+98:6D:35:70:00:00/28	Zhejiang	Zhejiang Hanshow Technology Co., Ltd.
+98:6D:35:80:00:00/28	Beijing3	Beijing 3CAVI Tech Co.,Ltd
+98:6D:35:90:00:00/28	Private
+98:6D:35:A0:00:00/28	IwaveJap	iWave Japan, Inc.
+98:6D:35:B0:00:00/28	Intech
+98:6D:35:C0:00:00/28	My-Pv	my-PV GmbH
+98:6D:35:D0:00:00/28	Praeside	Praesideo B.V.
+98:6D:35:E0:00:00/28	BaycomOp	Baycom Opto-Electronics Technolgy Co., Ltd.
+98:AA:FC:00:00:00/28	DalianEa	Dalian Eastern Display Co., Ltd.
+98:AA:FC:10:00:00/28	Surtec
+98:AA:FC:20:00:00/28	Shenzhen	Shenzhen UniStrong Science & Technology Co., Ltd
+98:AA:FC:30:00:00/28	NexusEle	Nexus Electrical(Jiaxing) Limited
+98:AA:FC:40:00:00/28	Rpe"Radi	Rpe "Radico"
+98:AA:FC:50:00:00/28	SpmInstr	SPM Instrument AB
+98:AA:FC:60:00:00/28	Mekotron	Mekotronics Co., Ltd
+98:AA:FC:70:00:00/28	Shenzhen	Shenzhen Hubsan Technology Co.，LTD.
+98:AA:FC:80:00:00/28	BeijingT	Beijing Tiandi-Marco Electro-Hydraulic Control System Company Ltd.
+98:AA:FC:90:00:00/28	BeamAuth	BEAM Authentic
+98:AA:FC:A0:00:00/28	Senko	SENKO Co.,Ltd.
+98:AA:FC:B0:00:00/28	Resonant	Resonant Systems Inc.
+98:AA:FC:C0:00:00/28	Dots	dots Inc.
+98:AA:FC:D0:00:00/28	McsMicro	MCS Micronic Computer Systeme GmbH
+98:AA:FC:E0:00:00/28	ComarchS	Comarch S.A.
+98:F9:C7:00:00:00/28	Shenzhen	Shenzhen Huntkey Electric Co., Ltd.
+98:F9:C7:10:00:00/28	Highsecl	HighSecLabs
+98:F9:C7:20:00:00/28	PozyxNv	Pozyx NV
+98:F9:C7:30:00:00/28	BeijingH	Beijing Horizon Information Technology Co., Ltd
+98:F9:C7:40:00:00/28	Promess	Promess GmbH
+98:F9:C7:50:00:00/28	Tonycore	Tonycore Technology Co.,Ltd.
+98:F9:C7:60:00:00/28	Goodbox
+98:F9:C7:70:00:00/28	ArimaCom	ARIMA Communications Corp.
+98:F9:C7:80:00:00/28	Renalsen	Renalsense
+98:F9:C7:90:00:00/28	KoalaTec	Koala Technology CO., LTD.
+98:F9:C7:A0:00:00/28	MsbElekt	MSB Elektronik und Gerätebau GmbH
+98:F9:C7:B0:00:00/28	HiroiaCo	HIROIA Communications Pte. Ltd. Taiwan Branch
+98:F9:C7:C0:00:00/28	Shenzhen	ShenZhen Chuangwei Electronic Appliance Co.,Ltd
+98:F9:C7:D0:00:00/28	Hangzhou	hangzhou soar security technologies limited liability company
+98:F9:C7:E0:00:00/28	Nc-LinkT	NC-LINK Technology Co., Ltd.
+9C:43:1E:00:00:00/28	Antailiy	Antailiye Technology Co.,Ltd
+9C:43:1E:10:00:00/28	SymfunTe	Symfun Telecom Ltd
+9C:43:1E:20:00:00/28	HaesungD	Haesung Ds
+9C:43:1E:30:00:00/28	Advanced	Advanced Logic Technology (ALT) sa
+9C:43:1E:40:00:00/28	Wireless	Wireless Environment, LLC
+9C:43:1E:50:00:00/28	PromosTe	ProMOS Technologies Inc.
+9C:43:1E:60:00:00/28	R-S-IEle	R-S-I Elektrotechnik GmbH CO KG
+9C:43:1E:70:00:00/28	Optris	Optris GmbH
+9C:43:1E:80:00:00/28	WundaGro	Wunda Group plc
+9C:43:1E:90:00:00/28	"Contine	"CONTINENT" Co. Ltd
+9C:43:1E:A0:00:00/28	StAccess	ST Access Control System Corp.
+9C:43:1E:B0:00:00/28	JnlTechn	JNL Technologies Inc
+9C:43:1E:C0:00:00/28	SuzhouJi	SuZhou Jinruiyang Information Technology CO.,LTD
+9C:43:1E:D0:00:00/28	HkElepho	HK ELEPHONE Communication Tech Co.,Limited
+9C:43:1E:E0:00:00/28	MidasTec	Midas Technology DBA Phoenix Audio Technologies
+9C:69:B4:00:00:00/28	SuzhouFi	Suzhou Fitcan Technology Co.,LTD
+9C:69:B4:10:00:00/28	EaTechno	EA Technology Ltd
+9C:69:B4:20:00:00/28	MoziShen	MOZI (Shenzhen) Artificial Intelligence Technology Co., Ltd.
+9C:69:B4:30:00:00/28	AppareoL	Appareo Systems, LLC
+9C:69:B4:40:00:00/28	Globalco	Globalcom Engineering SPA
+9C:69:B4:50:00:00/28	Elesta	Elesta GmbH
+9C:69:B4:60:00:00/28	Shenzhen	Shenzhen jiahua zhongli technology co.LTD
+9C:69:B4:70:00:00/28	Pci	PCI Limited
+9C:69:B4:80:00:00/28	SkydockD	Skydock do Brasil Ltda
+9C:69:B4:90:00:00/28	Teptron	Teptron AB
+9C:69:B4:A0:00:00/28	BeijingP	Beijing Picohood Technology Co.,Ltd
+9C:69:B4:B0:00:00/28	Toughdog	Toughdog Security Systems
+9C:69:B4:C0:00:00/28	Guangdon	Guangdong Hanwei intergration Co.,Ltd
+9C:69:B4:D0:00:00/28	"Intelle	"Intellect module" LLC
+9C:69:B4:E0:00:00/28	NingboSh	Ningbo Shen Link Communication Technology Co., Ltd
+9C:F6:DD:00:00:00/28	Annapurn	Annapurna labs
+9C:F6:DD:10:00:00/28	IthorIt	Ithor IT Co.,Ltd.
+9C:F6:DD:20:00:00/28	BeijingS	Beijing Sifang Automation Co., Ltd.
+9C:F6:DD:30:00:00/28	RyeexTec	RYEEX Technology Co.,Ltd.
+9C:F6:DD:40:00:00/28	CapitalE	Capital Engineering & Research Incorporation Ltd.
+9C:F6:DD:50:00:00/28	B8Ta	b8ta Inc.
+9C:F6:DD:60:00:00/28	Shenzhen	Shenzhen Xtooltech Co., Ltd
+9C:F6:DD:70:00:00/28	KxtTechn	KXT Technology Co., Ltd.
+9C:F6:DD:80:00:00/28	Savari	Savari Inc
+9C:F6:DD:90:00:00/28	Cama（Luo	CAMA（Luoyang）Electronics Co.，Ltd
+9C:F6:DD:A0:00:00/28	AviPty	AVI Pty Ltd
+9C:F6:DD:B0:00:00/28	Guangzho	Guangzhou LANGO Electronics Technology Co., Ltd.
+9C:F6:DD:C0:00:00/28	Lighting	Lighting New Energy Technology Co., Ltd.
+9C:F6:DD:D0:00:00/28	FoshanSy	Foshan Synwit Technology Co.,Ltd.
+9C:F6:DD:E0:00:00/28	ShanxiZh	Shanxi ZhuoZhi fei High Electronic Technology Co. Ltd.
+A0:19:B2:00:00:00/28	VastProd	Vast Production Services
+A0:19:B2:10:00:00/28	ElSewedy	El Sewedy Electrometer Egypt S.A.E.
+A0:19:B2:20:00:00/28	BeijingD	Beijing Deephi Intelligent Technology Co., Ltd
+A0:19:B2:30:00:00/28	PowerDia	Power Diagnostic Service Co., LTD.
+A0:19:B2:40:00:00/28	Osatec
+A0:19:B2:50:00:00/28	SzbroadT	Szbroad Technology (Hk) Co.,Ltmited
+A0:19:B2:60:00:00/28	GfgMbh	GfG mbH
+A0:19:B2:70:00:00/28	ArimaCom	ARIMA Communications Corp.
+A0:19:B2:80:00:00/28	MisIndus	MIS Industrie Systeme GmbH & Co. KG
+A0:19:B2:90:00:00/28	LonMicro	Lon Microsystems Inc.
+A0:19:B2:A0:00:00/28	Adomi
+A0:19:B2:B0:00:00/28	Hangzhou	HangZhou iMagic Technology Co., Ltd
+A0:19:B2:C0:00:00/28	LdaTechn	LDA Technologies
+A0:19:B2:D0:00:00/28	RydElect	RYD Electronic Technology Co.,Ltd.
+A0:19:B2:E0:00:00/28	AhgoraSi	Ahgora Sistemas SA
+A0:22:4E:00:00:00/28	KyungInE	Kyung In Electronics
+A0:22:4E:10:00:00/28	RnetCont	rNET Controls
+A0:22:4E:20:00:00/28	ClosedJo	Closed Joint-Stock Company "NORSI-TRANS"
+A0:22:4E:30:00:00/28	Prophoto	ProPhotonix
+A0:22:4E:40:00:00/28	TmgcoreL	TMGcore LLC
+A0:22:4E:50:00:00/28	ZhuhaiCh	Zhuhai Cheer Technology Co., LTD.
+A0:22:4E:60:00:00/28	MesitAsd	MESIT asd, s.r.o.
+A0:22:4E:70:00:00/28	AppliedI	Applied Information, Inc.
+A0:22:4E:80:00:00/28	EisstInt	EISST International Ltd
+A0:22:4E:90:00:00/28	DeltaTau	Delta Tau Data Systems, Inc.
+A0:22:4E:A0:00:00/28	IstElekt	IST ElektronikgesmbH
+A0:22:4E:B0:00:00/28	AllInspi	All Inspire Health Inc.
+A0:22:4E:C0:00:00/28	Standart	Standartoptic, Limited Liability Company
+A0:22:4E:D0:00:00/28	Digifocu	Digifocus Technology Inc.
+A0:22:4E:E0:00:00/28	HunanYou	Hunan Youmei Science&Technology Development Co.,Ltd.
+A0:28:33:00:00:00/28	Gersys	GERSYS GmbH
+A0:28:33:10:00:00/28	Ordercub	Ordercube GmbH
+A0:28:33:20:00:00/28	Shanghai	Shanghai Nohmi Secom Fire Protection Equipment Co.,Ltd.
+A0:28:33:30:00:00/28	Shanghai	Shanghai Xuntai Information Technology Co.,Ltd.
+A0:28:33:40:00:00/28	FirmInfo	Firm INFORMTEST Ltd.
+A0:28:33:50:00:00/28	JgrOptic	JGR Optics Inc
+A0:28:33:60:00:00/28	XiamenCa	Xiamen Caimore Communication Technology Co.,Ltd.
+A0:28:33:70:00:00/28	KryptusI	Kryptus Information Security S/A
+A0:28:33:80:00:00/28	HzhyTech	Hzhy Technology
+A0:28:33:90:00:00/28	Imeshx	Imeshx Corporation Limited
+A0:28:33:A0:00:00/28	MedicalE	Medical Evolution Kft
+A0:28:33:B0:00:00/28	Flexlink	FlexLink AB
+A0:28:33:C0:00:00/28	KalraySA	Kalray S.A.
+A0:28:33:D0:00:00/28	Audix
+A0:28:33:E0:00:00/28	Precisio	Precision Planting, LLC.
+A0:3E:6B:00:00:00/28	S&TEmbed	s&t embedded GmbH
+A0:3E:6B:10:00:00/28	Business	Business Support Consultant Co.,Ltd
+A0:3E:6B:20:00:00/28	VidexEle	Videx Electronics S.p.A.
+A0:3E:6B:30:00:00/28	IlodaSol	iLoda Solutions Limited
+A0:3E:6B:40:00:00/28	Shenzhen	Shenzhen Nufilo Inc.
+A0:3E:6B:50:00:00/28	FridayLa	Friday Lab, UAB
+A0:3E:6B:60:00:00/28	WuhanRui	Wuhan Rui Ying Tong Network Technology Co., Ltd(China)
+A0:3E:6B:70:00:00/28	Sinogrid	SinoGrid Software Systems Inc.
+A0:3E:6B:80:00:00/28	718ThRes	718th Research Institute of CSIC
+A0:3E:6B:90:00:00/28	Incognit	Incogniteam Ltd.
+A0:3E:6B:A0:00:00/28	Shenzhen	Shenzhen Neostra Technology Co.Ltd
+A0:3E:6B:B0:00:00/28	KocosMes	KoCoS Messtechnik AG
+A0:3E:6B:C0:00:00/28	QunarCom	Qunar.com
+A0:3E:6B:D0:00:00/28	JiningSm	Jining SmartCity Infotech Co.Ltd.
+A0:3E:6B:E0:00:00/28	NanjingZ	Nanjing zhanyi software technology co., LTD
+A0:3E:6B:F0:00:00/28	Private
+A0:BB:3E:00:00:00/28	LinkLabs	Link Labs
+A0:BB:3E:10:00:00/28	IvisionE	IVision Electronics Co.,Ltd
+A0:BB:3E:20:00:00/28	Directou	DirectOut GmbH
+A0:BB:3E:30:00:00/28	Witerive	WiteRiver Technology LLC
+A0:BB:3E:40:00:00/28	ComsysCo	COMSYS Communications Systems Service GmbH
+A0:BB:3E:50:00:00/28	MantechI	ManTech International Corporation
+A0:BB:3E:60:00:00/28	XiamenKe	Xiamen Kehua Hengsheng Co.,Ltd
+A0:BB:3E:70:00:00/28	SimtecEl	SIMTEC Elektronik GmbH
+A0:BB:3E:80:00:00/28	Autarcte	AutarcTech GmbH
+A0:BB:3E:90:00:00/28	Sandal	Sandal Plc
+A0:BB:3E:A0:00:00/28	FiloSrl	Filo SRL
+A0:BB:3E:B0:00:00/28	BeijingT	Beijing Techshino Technology Co., Ltd.
+A0:BB:3E:C0:00:00/28	EwigIndu	Ewig Industries Macao Commercial Offshore Ltd
+A0:BB:3E:D0:00:00/28	Shenzhen	Shenzhen Talent Technology company limited
+A0:BB:3E:E0:00:00/28	Messtech	Messtechnik Sachs GmbH
+A0:BB:3E:F0:00:00/28	Private
+A0:C5:F2:00:00:00/28	Quantlab	Quantlab Financial, LLC
+A0:C5:F2:10:00:00/28	KnsGroup	KNS Group LLC (YADRO Company)
+A0:C5:F2:20:00:00/28	Speedgoa	Speedgoat GmbH
+A0:C5:F2:30:00:00/28	Shenzhen	Shenzhen Feima Robotics Technology Co.,Ltd
+A0:C5:F2:40:00:00/28	Aicare	AiCare Corp.
+A0:C5:F2:50:00:00/28	Spacepat	Spacepath Communications Ltd
+A0:C5:F2:60:00:00/28	Shenzhen	ShenZhen JuWangShi Tech
+A0:C5:F2:70:00:00/28	Viettron	Viettronimex JSC
+A0:C5:F2:80:00:00/28	CoolrGro	CoolR Group Inc
+A0:C5:F2:90:00:00/28	ImpulseN	Impulse Networks Pte Ltd
+A0:C5:F2:A0:00:00/28	SeriousI	Serious Integrated, Inc.
+A0:C5:F2:B0:00:00/28	OrayCom	Oray.com co., LTD.
+A0:C5:F2:C0:00:00/28	Glooko	Glooko inc
+A0:C5:F2:D0:00:00/28	Unaliwea	UnaliWear, Inc.
+A0:C5:F2:E0:00:00/28	Synapsys	Synapsys Solutions Ltd.
+A4:11:63:00:00:00/28	AdetelEq	Adetel Equipment
+A4:11:63:10:00:00/28	InterCon	INTER CONTROL Hermann Köhler Elektrik GmbH & Co.KG
+A4:11:63:20:00:00/28	AllgoTec	Allgo Tech. (Beijing) Co.,Ltd
+A4:11:63:30:00:00/28	Pax
+A4:11:63:40:00:00/28	Alterg	AlterG, Inc.
+A4:11:63:50:00:00/28	Carbon	Carbon, Inc.
+A4:11:63:60:00:00/28	BeijingX	Beijing XiaoRui Technology Co., Ltd
+A4:11:63:70:00:00/28	Shenzhen	Shenzhen Yiwanjia Information Technology Co.,Ltd
+A4:11:63:80:00:00/28	DspreadT	Dspread Technology (Beijing) Inc.
+A4:11:63:90:00:00/28	AccessoT	accesso Technology Group
+A4:11:63:A0:00:00/28	Ise	ISE GmbH
+A4:11:63:B0:00:00/28	MoogMusi	Moog Music Inc.
+A4:11:63:C0:00:00/28	Viloc
+A4:11:63:D0:00:00/28	Shenzhen	Shenzhen Zhishi Technology Co., Ltd.
+A4:11:63:E0:00:00/28	Tinylogi	tinylogics
+A4:3B:FA:00:00:00/28	ChengduT	Chengdu Territory Technology Co.,Ltd
+A4:3B:FA:10:00:00/28	BeijingU	Beijing Uniwill Science and Technology Co,Ltd
+A4:3B:FA:20:00:00/28	PowellIn	Powell Industries
+A4:3B:FA:30:00:00/28	CircusWo	Circus World Displays Ltd
+A4:3B:FA:40:00:00/28	MaxonAus	Maxon Australia
+A4:3B:FA:50:00:00/28	BoiSolut	BOI Solutions
+A4:3B:FA:60:00:00/28	Recognit	Recognition Systems LLC
+A4:3B:FA:70:00:00/28	Deatroni	Deatronic srl
+A4:3B:FA:80:00:00/28	Alpwise
+A4:3B:FA:90:00:00/28	ShenZhen	Shen Zhen Pasun Tech Co.Ltd.
+A4:3B:FA:A0:00:00/28	PlusOneJ	Plus One Japan Ltd.
+A4:3B:FA:B0:00:00/28	AlstomSt	ALSTOM Strongwish (Shenzhen) Co., Ltd
+A4:3B:FA:C0:00:00/28	Shanghai	Shanghai Xietong Technology Inc.
+A4:3B:FA:D0:00:00/28	Jsc“Comp	JSC “Component-ASU”
+A4:3B:FA:E0:00:00/28	Magstim	The Magstim Company Ltd.
+A4:3B:FA:F0:00:00/28	Private
+A4:4F:29:00:00:00/28	Dermalog	Dermalog Identification Systems GmbH
+A4:4F:29:10:00:00/28	OlssenBV	Olssen B.V.
+A4:4F:29:20:00:00/28	Luceor
+A4:4F:29:30:00:00/28	ComselSy	Comsel System Ltd
+A4:4F:29:40:00:00/28	DgcAcces	DGC Access AB
+A4:4F:29:50:00:00/28	Shanghai	Shanghai KuanYu Industrial Network Equipment Co.,Ltd
+A4:4F:29:60:00:00/28	Selektro	Selektro Power Inc
+A4:4F:29:70:00:00/28	ProteanP	Protean Payment
+A4:4F:29:80:00:00/28	Innovati	Innovations in Optics, Inc.
+A4:4F:29:90:00:00/28	CertiNet	Certi Networks Sdn Bhd
+A4:4F:29:A0:00:00/28	Htd
+A4:4F:29:B0:00:00/28	Guangdon	Guangdong Real-Design Intelligent Technology Co.,Ltd
+A4:4F:29:C0:00:00/28	Shenzhen	Shenzhen Huadoo Bright Group Limitied
+A4:4F:29:D0:00:00/28	Hallibur	Halliburton
+A4:4F:29:E0:00:00/28	NeotechP	Neotech Systems Pvt. Ltd.
+A4:4F:29:F0:00:00/28	Private
+A4:58:0F:00:00:00/28	Innopro
+A4:58:0F:10:00:00/28	StoneLoc	Stone Lock Global, Inc.
+A4:58:0F:20:00:00/28	Bloks	BLOKS. GmbH
+A4:58:0F:30:00:00/28	Engineer	Engineered SA
+A4:58:0F:40:00:00/28	Shenzhen	Shenzhen City billion Leiden science and Technology Co., Ltd.
+A4:58:0F:50:00:00/28	CoasiaMi	CoAsia Microelectronics Corp.
+A4:58:0F:60:00:00/28	Astro	Astro, Inc
+A4:58:0F:70:00:00/28	Changsha	Changsha Tai Hui Network Technology Co.,Ltd
+A4:58:0F:80:00:00/28	AirLiqui	Air Liquide Medical Systems
+A4:58:0F:90:00:00/28	KseniaSe	Ksenia Security srl
+A4:58:0F:A0:00:00/28	Guangzho	Guangzhou Optical Bridge Communication Equipment Co.,Ltd.
+A4:58:0F:B0:00:00/28	AbbPghv	Abb Ab Pghv
+A4:58:0F:C0:00:00/28	Homebeav	Homebeaver
+A4:58:0F:D0:00:00/28	EyeIoLlc	Eye Io, Llc
+A4:58:0F:E0:00:00/28	Finetree	Finetree Communications Inc
+A4:DA:22:00:00:00/28	GeneralE	General Electric Company
+A4:DA:22:10:00:00/28	T2TSyste	T2T System
+A4:DA:22:20:00:00/28	WyzeLabs	Wyze Labs Inc
+A4:DA:22:30:00:00/28	Duratech	DURATECH Enterprise,LLC
+A4:DA:22:40:00:00/28	Loriot	Loriot Ag
+A4:DA:22:50:00:00/28	Original	Original Products Pvt. Ltd.
+A4:DA:22:60:00:00/28	Auranext
+A4:DA:22:70:00:00/28	HydroEle	Hydro Electronic Devices, Inc.
+A4:DA:22:80:00:00/28	Solidpro	SolidPro Technology Corporation
+A4:DA:22:90:00:00/28	MalldonT	Malldon Technology Limited
+A4:DA:22:A0:00:00/28	Abetechs	Abetechs GmbH
+A4:DA:22:B0:00:00/28	Klashwer	Klashwerks Inc.
+A4:DA:22:C0:00:00/28	EhoLink	Eho.Link
+A4:DA:22:D0:00:00/28	ShenZhen	Shen Zhen City YaKun Electronics Co., Ltd
+A4:DA:22:E0:00:00/28	QuuppaOy	Quuppa Oy
+A4:ED:43:00:00:00/28	Sweam	Sweam AB
+A4:ED:43:10:00:00/28	Ingelabs	Ingelabs S.L.
+A4:ED:43:20:00:00/28	Shanghai	Shanghai Mission Information Technologies (Group) Co.,Ltd
+A4:ED:43:30:00:00/28	Dongguan	Dongguan Mingji Electronics technology Group Co., Ltd.
+A4:ED:43:40:00:00/28	NetasTel	Netas Telekomunikasyon A.S.
+A4:ED:43:50:00:00/28	BeijingI	Beijing ICPC CO.,Ltd.
+A4:ED:43:60:00:00/28	Shanghai	Shanghai Facom Electronics Technology Co, ltd.
+A4:ED:43:70:00:00/28	WuxiJunc	Wuxi Junction Infomation Technology Incorporated Company
+A4:ED:43:80:00:00/28	LinseisM	Linseis Messgeraete GmbH
+A4:ED:43:90:00:00/28	HeyuanIn	Heyuan intelligence technology CO.,Ltd
+A4:ED:43:A0:00:00/28	Guangzho	Guangzhou Maxfaith Communication Technology Co.,LTD.
+A4:ED:43:B0:00:00/28	ParagonB	Paragon Business Solutions Ltd.
+A4:ED:43:C0:00:00/28	Leaksmar	leakSMART
+A4:ED:43:D0:00:00/28	BrandNew	Brand New Brand Nordic AB
+A4:ED:43:E0:00:00/28	ToecTech	Toec Technology Co.，Ltd.
+A8:3F:A1:00:00:00/28	ImeconEn	Imecon Engineering SrL
+A8:3F:A1:10:00:00/28	Gtdevice	GTDevice LLC
+A8:3F:A1:20:00:00/28	Medcapta	Medcaptain Medical Technology Co., Ltd.
+A8:3F:A1:30:00:00/28	Guangzho	Guangzhou Tupu Internet Technology Co., Ltd.
+A8:3F:A1:40:00:00/28	Zhejiang	Zhejiang Wellsun Intelligent Technology Co.,Ltd.
+A8:3F:A1:50:00:00/28	Sercomm	Sercomm Corporation.
+A8:3F:A1:60:00:00/28	Beglec
+A8:3F:A1:70:00:00/28	Plejd	Plejd AB
+A8:3F:A1:80:00:00/28	NeosVent	Neos Ventures Limited
+A8:3F:A1:90:00:00/28	Shenzhen	Shenzhen ITLONG Intelligent Technology Co.,Ltd
+A8:3F:A1:A0:00:00/28	Shanghai	Shanghai East China Computer Co., Ltd
+A8:3F:A1:B0:00:00/28	ExelSRLU	Exel s.r.l. unipersonale
+A8:3F:A1:C0:00:00/28	Laonz	Laonz Co.,Ltd
+A8:3F:A1:D0:00:00/28	Shenzhen	Shenzhen BIO I/E Co.,Ltd
+A8:3F:A1:E0:00:00/28	Guangzho	Guangzhou Navigateworx Technologies Co., Limited
+AC:1D:DF:00:00:00/28	Pioctave	PiOctave Solutions Pvt Ltd
+AC:1D:DF:10:00:00/28	Hellasto	HellaStorm, Inc.
+AC:1D:DF:20:00:00/28	Conectai	ConectaIP Tecnologia S.L.
+AC:1D:DF:30:00:00/28	Crde
+AC:1D:DF:40:00:00/28	MotecPty	Motec Pty Ltd
+AC:1D:DF:50:00:00/28	Shenzhen	Shenzhen Ouzheng Electronic Tech Co,.Ltd
+AC:1D:DF:60:00:00/28	Shenzhen	Shenzheng SenseTime Technology Co. Ltd
+AC:1D:DF:70:00:00/28	GreenItK	Green IT Korea Co., Ltd.
+AC:1D:DF:80:00:00/28	SichuanO	Sichuan Odot Automation System Co.,Ltd.
+AC:1D:DF:90:00:00/28	SolareDa	Solare Datensysteme GmbH
+AC:1D:DF:A0:00:00/28	WescoInt	Wesco Integrated Supply
+AC:1D:DF:B0:00:00/28	Fine	Fine Inc.
+AC:1D:DF:C0:00:00/28	BeijingC	Beijing Chunhong Technology Co., Ltd.
+AC:1D:DF:D0:00:00/28	Elekon	Elekon AG
+AC:1D:DF:E0:00:00/28	Duravit	Duravit AG
+AC:64:DD:00:00:00/28	Jia-Teng
+AC:64:DD:10:00:00/28	JscInfot	JSC InfoTeCS
+AC:64:DD:20:00:00/28	Shenzhen	Shenzhen PuHua Technology Co., Ltd
+AC:64:DD:30:00:00/28	Infypowe	infypower Co., Ltd
+AC:64:DD:40:00:00/28	8Cups
+AC:64:DD:50:00:00/28	Shanghai	Shanghai Zte Technologies Co.,Ltd
+AC:64:DD:60:00:00/28	Kpnetwor	Kpnetworks Ltd.
+AC:64:DD:70:00:00/28	Wittmann	Wittmann Kunststoffgeräte GmbH
+AC:64:DD:80:00:00/28	PfdcElan	Pfdc Elancyl
+AC:64:DD:90:00:00/28	MicroCon	Micro Connect Pty Ltd
+AC:64:DD:A0:00:00/28	Bluewave	Bluewave Global Manufacturing Limited
+AC:64:DD:B0:00:00/28	GroupeCi	Groupe Citypassenger Inc
+AC:64:DD:C0:00:00/28	BeijingH	Beijing Hamigua Technology Co., Ltd.
+AC:64:DD:D0:00:00/28	Hmicro	HMicro Inc
+AC:64:DD:E0:00:00/28	Digibird	Digibird Technology Co., Ltd.
+B0:1F:81:00:00:00/28	DalianGi	Dalian GigaTec Electronics Co.,Ltd
+B0:1F:81:10:00:00/28	UvaxConc	Uvax Concepts
+B0:1F:81:20:00:00/28	Private
+B0:1F:81:30:00:00/28	SoundUni	Sound United
+B0:1F:81:40:00:00/28	Shenzhen	Shenzhen Yifang Digital Technology Co.,Ltd.
+B0:1F:81:50:00:00/28	Shenzhen	Shenzhen Grid Technology Co.,Ltd
+B0:1F:81:60:00:00/28	Comota	COMOTA Co., Ltd.
+B0:1F:81:70:00:00/28	AetherSe	Aether Services, Inc.
+B0:1F:81:80:00:00/28	Technion	Technion Oy
+B0:1F:81:90:00:00/28	CideInte	CIDE Interactive
+B0:1F:81:A0:00:00/28	Steffens	Steffens Systems GmbH
+B0:1F:81:B0:00:00/28	Rademach	Rademacher Geraete-Elektronik GmbH
+B0:1F:81:C0:00:00/28	AccessDe	Access Device Integrated Communications Corp.
+B0:1F:81:D0:00:00/28	TaiwanAn	TAIWAN Anjie Electronics Co.,Ltd.
+B0:1F:81:E0:00:00/28	Advanced	Advanced & Wise Technology Corp.
+B0:1F:81:F0:00:00/28	Private
+B0:C5:CA:00:00:00/28	Em-Tech
+B0:C5:CA:10:00:00/28	Ivk-Saya	Ivk-Sayany
+B0:C5:CA:20:00:00/28	Lowotec	LOWOTEC GmbH
+B0:C5:CA:30:00:00/28	Abode	abode systems, inc.
+B0:C5:CA:40:00:00/28	Shanghai	shanghai University Ding-Tech software Corp.,ltd
+B0:C5:CA:50:00:00/28	Systovi
+B0:C5:CA:60:00:00/28	SuntechM	SunTech Medical, Inc.
+B0:C5:CA:70:00:00/28	Shenzhen	Shenzhen Ktc Technology Group
+B0:C5:CA:80:00:00/28	Astyx	Astyx GmbH
+B0:C5:CA:90:00:00/28	D&T	D&T Inc.
+B0:C5:CA:A0:00:00/28	TemMobil	TEM Mobile Limited
+B0:C5:CA:B0:00:00/28	Risecomm	Risecomm (Hk) Technology Co. Limited
+B0:C5:CA:C0:00:00/28	Xmetrics
+B0:C5:CA:D0:00:00/28	Private
+B0:C5:CA:E0:00:00/28	AudioEle	Audio Elektronik İthalat İhracat San ve Tic A.Ş.
+B0:C5:CA:F0:00:00/28	Private
+B0:FD:0B:00:00:00/28	TaeHyung	TAE HYUNG Industrial Electronics Co., Ltd.
+B0:FD:0B:10:00:00/28	Idspire	IDspire Corporation Ltd.
+B0:FD:0B:20:00:00/28	VistaMan	Vista Manufacturing
+B0:FD:0B:30:00:00/28	DmacSecu	DMAC Security LLC
+B0:FD:0B:40:00:00/28	FasiiInf	Fasii Information Technology (Shanghai) Ltd.
+B0:FD:0B:50:00:00/28	TaianYuq	Taian Yuqi Communication Technology Co., Ltd
+B0:FD:0B:60:00:00/28	DnesoTen	DNESO TEN Ltd.
+B0:FD:0B:70:00:00/28	Everynet	Everynet Oy
+B0:FD:0B:80:00:00/28	Esensela	eSenseLab Ltd.
+B0:FD:0B:90:00:00/28	EagleAco	Eagle Acoustics Manufacturing, LLC
+B0:FD:0B:A0:00:00/28	TemcoJap	Temco Japan Co., Ltd.
+B0:FD:0B:B0:00:00/28	Martinlo	MartinLogan, Ltd.
+B0:FD:0B:C0:00:00/28	HaltianP	Haltian Products Oy
+B0:FD:0B:D0:00:00/28	HabanaLa	Habana Labs LTD
+B0:FD:0B:E0:00:00/28	Shenzhen	Shenzhen FEIBIT Electronic Technology Co.,LTD
+B4:37:D1:00:00:00/28	LezyneUs	Lezyne INC USA
+B4:37:D1:10:00:00/28	AlturnaN	Alturna Networks
+B4:37:D1:20:00:00/28	Fibersys	Fibersystem AB
+B4:37:D1:30:00:00/28	Dimton	Dimton Co.,Ltd.
+B4:37:D1:40:00:00/28	KomsisEl	Komsis Elektronik Sistemleri San. Tic. Ltd.Sti
+B4:37:D1:50:00:00/28	Stratom	Stratom, Inc.
+B4:37:D1:60:00:00/28	YirehAut	Yireh Auto Tech Co.,Ltd.
+B4:37:D1:70:00:00/28	GePowerM	GE Power Management
+B4:37:D1:80:00:00/28	Einfochi	eInfochips Limited
+B4:37:D1:90:00:00/28	NanjingY	Nanjing yuekong Intelligent Technology
+B4:37:D1:A0:00:00/28	Axiomati	Axiomatic Technologies Corporation
+B4:37:D1:B0:00:00/28	Nsi	NSI Co., Ltd.
+B4:37:D1:C0:00:00/28	NanjingP	Nanjing Putian Telecommunications Technology Co.,Ltd.
+B4:37:D1:D0:00:00/28	ZxySport	ZXY Sport Tracking
+B4:37:D1:E0:00:00/28	UnionTec	Union Tecnologica Noxium S.L.
+B4:37:D1:F0:00:00/28	Private
+B4:4B:D6:00:00:00/28	G4SMonit	G4S Monitoring Technologies Ltd
+B4:4B:D6:10:00:00/28	Shenzhen	Shenzhen Tita Interactive Technology Co.,Ltd
+B4:4B:D6:20:00:00/28	Shenzhen	Shenzhen Cudy Technology Co., Ltd.
+B4:4B:D6:30:00:00/28	HuizhouS	Huizhou Sunoda Technology Co. Ltd
+B4:4B:D6:40:00:00/28	Shenzhen	Shenzhen Hi-Net Technology Co., Ltd.
+B4:4B:D6:50:00:00/28	Shenzhen	ShenZhen Comstar Technology Company
+B4:4B:D6:60:00:00/28	Perspica	Perspicace Intellegince Technology
+B4:4B:D6:70:00:00/28	TaizhouC	Taizhou convergence Information technology Co.,LTD
+B4:4B:D6:80:00:00/28	ArnouseD	Arnouse Digital Devices Corp
+B4:4B:D6:90:00:00/28	QstarTec	Qstar Technology Co,Ltd
+B4:4B:D6:A0:00:00/28	Shenzhen	Shenzhen Huabai Intelligent Technology Co., Ltd.
+B4:4B:D6:B0:00:00/28	Dongyoun	DongYoung media
+B4:4B:D6:C0:00:00/28	ImpaktSA	Impakt S.A.
+B4:4B:D6:D0:00:00/28	ElletaSo	Elleta Solutions Ltd
+B4:4B:D6:E0:00:00/28	Chunghsi	Chunghsin International Electronics Co.,Ltd.
+B4:A2:EB:00:00:00/28	QkmTechn	QKM Technology(Dongguan)Co.,Ltd
+B4:A2:EB:10:00:00/28	DciInter	DCI International, LLC.
+B4:A2:EB:20:00:00/28	Katerra	Katerra Inc
+B4:A2:EB:30:00:00/28	CanaanCr	Canaan Creative Co.,Ltd.
+B4:A2:EB:40:00:00/28	SoftelSa	Softel SA de CV
+B4:A2:EB:50:00:00/28	Annapurn	Annapurna labs
+B4:A2:EB:60:00:00/28	Shenzhen	ShenZhen Lark Acoustics Co., Ltd.
+B4:A2:EB:70:00:00/28	KonaI	Kona I
+B4:A2:EB:80:00:00/28	Shenzhen	Shenzhen Zhuifengma Technology Co., Ltd
+B4:A2:EB:90:00:00/28	CurrentW	Current Ways, Inc.
+B4:A2:EB:A0:00:00/28	Hengkang	Hengkang（Hangzhou）Co.,Ltd
+B4:A2:EB:B0:00:00/28	Quantite	Quantitec GmbH
+B4:A2:EB:C0:00:00/28	Shanghai	Shanghai Shenou Communication Equipment Co., Ltd.
+B4:A2:EB:D0:00:00/28	Salzbren	SALZBRENNER media GmbH
+B4:A2:EB:E0:00:00/28	Dongguan	Dongguan Finslink Communication Technology Co.,Ltd.
+B8:D8:12:00:00:00/28	Glamo	Glamo Inc.
+B8:D8:12:10:00:00/28	Votem
+B8:D8:12:20:00:00/28	IpmSales	IPM Sales and service Co.,Ltd.
+B8:D8:12:30:00:00/28	Imodesty	iModesty Technology Corp.
+B8:D8:12:40:00:00/28	V5Techno	V5 Technology Corporation
+B8:D8:12:50:00:00/28	XiamenXi	Xiamen Xindeco Ltd.
+B8:D8:12:60:00:00/28	VongerEl	Vonger Electronic Technology Co.,Ltd.
+B8:D8:12:70:00:00/28	Neuropac	Neuropace Inc.
+B8:D8:12:80:00:00/28	VisualPr	Visual Productions BV
+B8:D8:12:90:00:00/28	Entotem	Entotem LTD
+B8:D8:12:A0:00:00/28	Kiwigrid	Kiwigrid GmbH
+B8:D8:12:B0:00:00/28	Docobo	Docobo Limited
+B8:D8:12:C0:00:00/28	YuweiInf	Yuwei Info&Tech Development Co.,Ltd
+B8:D8:12:D0:00:00/28	LamResea	Lam Research
+B8:D8:12:E0:00:00/28	Zhejiang	ZheJiang FangTai Electirc Co., Ltd
+B8:D8:12:F0:00:00/28	Private
+BC:34:00:00:00:00/28	Redvisio	Redvision CCTV
+BC:34:00:10:00:00/28	IplinkTe	IPLINK Technology Corp
+BC:34:00:20:00:00/28	Lifesmar	LifeSmart
+BC:34:00:30:00:00/28	Altronix	Altronix Corporation
+BC:34:00:40:00:00/28	DexcelDe	Dexcel Design Pvt Ltd
+BC:34:00:50:00:00/28	Ndsl	NDSL, Inc.
+BC:34:00:60:00:00/28	Cameron
+BC:34:00:70:00:00/28	Q-Produc	Q-PRODUCTS a. s.
+BC:34:00:80:00:00/28	MaticaTe	Matica Technologies Ag
+BC:34:00:90:00:00/28	Shenzhen	Shenzhen PHilorise Technical Limited
+BC:34:00:A0:00:00/28	Auralic	Auralic Limited
+BC:34:00:B0:00:00/28	FaroTech	Faro Technologies, Inc.
+BC:34:00:C0:00:00/28	ParlayLa	Parlay Labs dba Highfive
+BC:34:00:D0:00:00/28	Hangzhou	Hangzhou Linker Digital Technology Co., Ltd
+BC:34:00:E0:00:00/28	LldTechn	LLD Technology Ltd.
+BC:34:00:F0:00:00/28	Private
+BC:66:41:00:00:00/28	InsyncTe	InSync Technology Ltd
+BC:66:41:10:00:00/28	GlobalCh	Global China Technology Limited
+BC:66:41:20:00:00/28	Process-	Process-Electronic Sp. z o.o.
+BC:66:41:30:00:00/28	Solectri	Solectria Renewables, LLC
+BC:66:41:40:00:00/28	Argus-Sp	Argus-Spectrum
+BC:66:41:50:00:00/28	Scientif	Scientific Games
+BC:66:41:60:00:00/28	Intuitiv	Intuitive Surgical, Inc
+BC:66:41:70:00:00/28	VsnMobil	VSN Mobil
+BC:66:41:80:00:00/28	Shenzhen	Shenzhen Yaguang communication CO.,LTD
+BC:66:41:90:00:00/28	Shenzhen	Shenzhen General Measure Technology Co., Ltd
+BC:66:41:A0:00:00/28	Eblink
+BC:66:41:B0:00:00/28	SidusNov	Sidus Novum Sp. z o. o.
+BC:66:41:C0:00:00/28	Shenzhen	Shenzhen Crave Communication Co.,ltd
+BC:66:41:D0:00:00/28	Utilligh	UtilLighting Co.,Ltd.
+BC:66:41:E0:00:00/28	LucentTr	Lucent Trans Electronics Co., Ltd
+BC:66:41:F0:00:00/28	Private
+BC:97:40:00:00:00/28	AlphaEss	Alpha ESS Co., Ltd.
+BC:97:40:10:00:00/28	Comtac	comtac AG
+BC:97:40:20:00:00/28	LattecI/	Lattec I/S
+BC:97:40:30:00:00/28	Precisio	Precision Galaxy Pvt. Ltd
+BC:97:40:40:00:00/28	WindMobi	Wind Mobility Technology (Beijing) Co., Ltd
+BC:97:40:50:00:00/28	Shanghai	Shanghai Laisi Information Technology Co.,Ltd
+BC:97:40:60:00:00/28	Shenzhen	Shenzhen Colorwin Optical Technology Co.,Ltd
+BC:97:40:70:00:00/28	AirfiOy	Airfi Oy AB
+BC:97:40:80:00:00/28	GaodiRus	Gaodi Rus
+BC:97:40:90:00:00/28	DirectCo	Direct Communication Solutions
+BC:97:40:A0:00:00/28	AmapInfo	Amap Information Technology Co., Ltd
+BC:97:40:B0:00:00/28	Forotel
+BC:97:40:C0:00:00/28	Listec	LISTEC GmbH
+BC:97:40:D0:00:00/28	RollockO	Rollock Oy
+BC:97:40:E0:00:00/28	B4Comtec	B4ComTechnologies LLC
+C0:83:59:00:00:00/28	Chongqin	Chongqing Jiuyu Smart Technology Co.Ltd.
+C0:83:59:10:00:00/28	GemvaxTe	Gemvax Technology ,. Co.Ltd
+C0:83:59:20:00:00/28	HuaxinSm	Huaxin SM Optics Co. LTD.
+C0:83:59:30:00:00/28	PchEngin	PCH Engineering A/S
+C0:83:59:40:00:00/28	Ants
+C0:83:59:50:00:00/28	ViperDes	Viper Design, LLC
+C0:83:59:60:00:00/28	BeijingC	Beijing Cloud Fly Technology Development Co.Ltd
+C0:83:59:70:00:00/28	FuzhouFd	Fuzhou Fdlinker Technology Co.,LTD
+C0:83:59:80:00:00/28	IstaInte	ista International GmbH
+C0:83:59:90:00:00/28	Shenzhen	Shenzhen Pay Device Technology Co., Ltd.
+C0:83:59:A0:00:00/28	Shanghai	Shanghai Charmhope Information Technology Co.,Ltd.
+C0:83:59:B0:00:00/28	SuzhouSi	Suzhou Siheng Science and Technology Ltd.
+C0:83:59:C0:00:00/28	Private
+C0:83:59:D0:00:00/28	GardnerD	Gardner Denver Thomas GmbH
+C0:83:59:E0:00:00/28	CyberSci	Cyber Sciences, Inc.
+C0:D3:91:00:00:00/28	FuzhouJi	Fuzhou Jinshi Technology Co.,Ltd.
+C0:D3:91:10:00:00/28	B9Creati	B9Creations
+C0:D3:91:20:00:00/28	HofonAut	Hofon Automation Co.,Ltd
+C0:D3:91:30:00:00/28	IxonBV	Ixon B.V.
+C0:D3:91:40:00:00/28	VernierS	Vernier Software & Technology
+C0:D3:91:50:00:00/28	Witagg	WiTagg, Inc
+C0:D3:91:60:00:00/28	Ernitec
+C0:D3:91:70:00:00/28	Alnetz	ALNETz Co.,LTD
+C0:D3:91:80:00:00/28	XenaSecu	Xena Security Limited
+C0:D3:91:90:00:00/28	XxterBv	xxter bv
+C0:D3:91:A0:00:00/28	AlphaAud	Alpha Audiotronics, Inc.
+C0:D3:91:B0:00:00/28	Private
+C0:D3:91:C0:00:00/28	Zhinengg	Zhinengguo technology company limited
+C0:D3:91:D0:00:00/28	Regulus	Regulus Co.,Ltd.
+C0:D3:91:E0:00:00/28	SamsaraN	Samsara Networks Inc
+C4:7C:8D:00:00:00/28	Ati
+C4:7C:8D:10:00:00/28	LynxInno	Lynx Innovation Litimed
+C4:7C:8D:20:00:00/28	Star2Sta	Star2Star Communications, LLC
+C4:7C:8D:30:00:00/28	Watec	Watec Co., Ltd.
+C4:7C:8D:40:00:00/28	Robostar
+C4:7C:8D:50:00:00/28	Pascal	PASCAL Co., Ltd.
+C4:7C:8D:60:00:00/28	HhccPlan	HHCC Plant Technology Co.,Ltd.
+C4:7C:8D:70:00:00/28	Awiselin	Awiselink Co., Ltd.
+C4:7C:8D:80:00:00/28	GetemedM	GETEMED Medizin- und Informationstechnik AG
+C4:7C:8D:90:00:00/28	AirbusDs	Airbus DS - SLC
+C4:7C:8D:A0:00:00/28	SilvusTe	Silvus technologies inc
+C4:7C:8D:B0:00:00/28	GcAutoma	Gc Automation Co,Ltd
+C4:7C:8D:C0:00:00/28	InotecSi	INOTEC Sicherheitstechnik GmbH
+C4:7C:8D:D0:00:00/28	AnhuiGua	Anhui GuangXing Linked-Video Communication Technology Co, Ltd.
+C4:7C:8D:E0:00:00/28	LaborStr	Labor Strauss Sicherungsanlagenbau GmbH
+C4:95:4D:00:00:00/28	BaIntern	BA International Electronics Co. Ltd.
+C4:95:4D:10:00:00/28	Teletron	Teletronik AG
+C4:95:4D:20:00:00/28	ShenZhen	Shen Zhen Euse Technology Co.,Ltd
+C4:95:4D:30:00:00/28	Sercomm	Sercomm Corporation.
+C4:95:4D:40:00:00/28	GlSoluti	GL Solutions Inc.
+C4:95:4D:50:00:00/28	MarbleAu	Marble Automation
+C4:95:4D:60:00:00/28	AkkaGerm	AKKA Germany GmbH
+C4:95:4D:70:00:00/28	Llc"Tech	LLC "TechnoEnergo"
+C4:95:4D:80:00:00/28	Xinjiang	Xinjiang Golden Calf Energy IOT Technology Co., Ltd
+C4:95:4D:90:00:00/28	Shenzhen	Shenzhen Xtooltech Co., Ltd
+C4:95:4D:A0:00:00/28	KatMekat	KAT Mekatronik Urunleri AS
+C4:95:4D:B0:00:00/28	Multicom	Multicom, Inc
+C4:95:4D:C0:00:00/28	Solidgea	SolidGear Corporation
+C4:95:4D:D0:00:00/28	NewlandE	Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd
+C4:95:4D:E0:00:00/28	CanareEl	Canare Electric Co., Ltd.
+C4:FF:BC:00:00:00/28	DanegoBv	Danego BV
+C4:FF:BC:10:00:00/28	Visatech	Visatech C0., Ltd.
+C4:FF:BC:20:00:00/28	Mobiletr	Mobiletron Electronics Co., Ltd
+C4:FF:BC:30:00:00/28	Shenzhen	Shenzhen Kalif Electronics Co.,Ltd
+C4:FF:BC:40:00:00/28	Imagetec	iMageTech CO.,LTD.
+C4:FF:BC:50:00:00/28	Comtime	comtime GmbH
+C4:FF:BC:60:00:00/28	Shenzhen	Shenzhen C & D Electronics Co., Ltd.
+C4:FF:BC:70:00:00/28	Critical	Critical Link
+C4:FF:BC:80:00:00/28	Shenzhen	ShenZhen ZYT Technology co., Ltd
+C4:FF:BC:90:00:00/28	GsmInnov	GSM Innovations Pty Ltd
+C4:FF:BC:A0:00:00/28	Advanced	Advanced Navigation
+C4:FF:BC:B0:00:00/28	KagaElec	Kaga Electronics Co.,Ltd.
+C4:FF:BC:C0:00:00/28	KyongboE	KyongBo Electric Co., Ltd.
+C4:FF:BC:D0:00:00/28	BeijingK	Beijing KDF information technology co. LTD.
+C4:FF:BC:E0:00:00/28	Viratec	viRaTec GmbH
+C8:2C:2B:00:00:00/28	Fungible	Fungible, Inc.
+C8:2C:2B:10:00:00/28	Galgus
+C8:2C:2B:20:00:00/28	ReppHeal	Repp Health
+C8:2C:2B:30:00:00/28	RfEngine	RF Engineering and Energy Resource
+C8:2C:2B:40:00:00/28	IwaveTec	iWave Systems Tech Pvt Ltd
+C8:2C:2B:50:00:00/28	Dalco	Dalco Ag
+C8:2C:2B:60:00:00/28	GravIT	Grav I.T.
+C8:2C:2B:70:00:00/28	MerpaBil	Merpa Bilgi Islem Ltd.Sti
+C8:2C:2B:80:00:00/28	Verifone	Verifone Systems (China),lnc.
+C8:2C:2B:90:00:00/28	BiotSpZO	BIOT Sp. z o.o.
+C8:2C:2B:A0:00:00/28	Shiftall	Shiftall Inc.
+C8:2C:2B:B0:00:00/28	KunshanS	Kunshan SVL Electric Co.,Ltd
+C8:2C:2B:C0:00:00/28	SmartWir	Smart Wires Inc
+C8:2C:2B:D0:00:00/28	Ubitron	UBITRON Co.,LTD
+C8:2C:2B:E0:00:00/28	Fränkisc	Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG
+C8:63:14:00:00:00/28	WesternR	Western Reserve Controls, Inc.
+C8:63:14:10:00:00/28	Autonics	Autonics Co., Ltd.
+C8:63:14:20:00:00/28	Tymphany	Tymphany Acoustic Technology (Huizhou) Co., Ltd.
+C8:63:14:30:00:00/28	Trackman
+C8:63:14:40:00:00/28	Shenzhen	Shenzhen Zero Zero Infinity Technology Co.，Ltd.
+C8:63:14:50:00:00/28	MeyerEle	Meyer Electronics Limited
+C8:63:14:60:00:00/28	GrinbiPa	Grinbi Partners
+C8:63:14:70:00:00/28	Shenzhen	Shenzhen Wesion Technology Co., Ltd
+C8:63:14:80:00:00/28	Thinci	Thinci, Inc.
+C8:63:14:90:00:00/28	MaxcomSA	Maxcom S.A.
+C8:63:14:A0:00:00/28	Optictim	Optictimes Co.,Ltd
+C8:63:14:B0:00:00/28	Shenzhen	Shenzhen Lihewei Electronics Co.,Ltd.Hunan Branch
+C8:63:14:C0:00:00/28	FreeusLl	Freeus LLC
+C8:63:14:D0:00:00/28	Telemati	Telematix AG
+C8:63:14:E0:00:00/28	TaylorDy	Taylor Dynamometer
+C8:8E:D1:00:00:00/28	Aisworld	Aisworld Private Limited
+C8:8E:D1:10:00:00/28	GermanPi	German Pipe GmbH
+C8:8E:D1:20:00:00/28	Rotronic	Rotronic Ag
+C8:8E:D1:30:00:00/28	LinxTech	Linx Technologies
+C8:8E:D1:40:00:00/28	Comlab	Comlab AG
+C8:8E:D1:50:00:00/28	Fibergat	Fibergate.Inc
+C8:8E:D1:60:00:00/28	Shenyang	Shenyang Machine Tool(Group) Research & Design Institute Co., Ltd, Shanghai Branch
+C8:8E:D1:70:00:00/28	UbeDbaPl	Ube, Inc. (dba Plum)
+C8:8E:D1:80:00:00/28	Electron	Electronic Controls Design, Inc.
+C8:8E:D1:90:00:00/28	Focalcre	Focalcrest, Ltd.
+C8:8E:D1:A0:00:00/28	ApSensin	AP Sensing GmbH
+C8:8E:D1:B0:00:00/28	Advanced	Advanced Micro Controls Inc.
+C8:8E:D1:C0:00:00/28	Shanghai	Shanghai Bwave Technology Co.,Ltd
+C8:8E:D1:D0:00:00/28	PhoenixE	Phoenix Engineering Corp.
+C8:8E:D1:E0:00:00/28	Aventics	Aventics GmbH
+C8:8E:D1:F0:00:00/28	Private
+CC:1B:E0:00:00:00/28	Microtec	Microtech System,Inc
+CC:1B:E0:10:00:00/28	BeijingD	Beijing Daotongtianxia Co.Ltd.
+CC:1B:E0:20:00:00/28	I-Trinet	i-Trinetech Co.,Ltd.
+CC:1B:E0:30:00:00/28	Shenzhen	Shenzhen Vanstor Technology Co.,Ltd
+CC:1B:E0:40:00:00/28	Laserwor	Laserworld (Switzerland) AG
+CC:1B:E0:50:00:00/28	Earphone	Earphone Connection, Ubc.
+CC:1B:E0:60:00:00/28	IcRealte	IC RealTech
+CC:1B:E0:70:00:00/28	SichuanD	Sichuan Dianjia network technology Co.Ltd.
+CC:1B:E0:80:00:00/28	MdtTechn	MDT technologies GmbH
+CC:1B:E0:90:00:00/28	Mobistor	MobiStor Technology Inc.
+CC:1B:E0:A0:00:00/28	MatterLa	Matter Labs Pty Ltd
+CC:1B:E0:B0:00:00/28	Art&Core	ART&CORE Inc
+CC:1B:E0:C0:00:00/28	Guangzho	Guangzhou Southelectric Power Science Technology Development Co.,Ltd.
+CC:1B:E0:D0:00:00/28	NewstarH	Newstar (Hk) Electronic Development Limited
+CC:1B:E0:E0:00:00/28	CassiaNe	Cassia Networks
+CC:1B:E0:F0:00:00/28	Private
+CC:22:37:00:00:00/28	MedcomSp	MEDCOM sp. z o.o.
+CC:22:37:10:00:00/28	TermaSpZ	Terma Sp. z o.o.
+CC:22:37:20:00:00/28	ApeironD	Apeiron Data Systems
+CC:22:37:30:00:00/28	Xconnect	XConnect Professional Services
+CC:22:37:40:00:00/28	Shanghai	Shanghai Cargoa M.&E.Equipment Co.Ltd
+CC:22:37:50:00:00/28	BeijingS	Beijing Safesoft Greatmaker Co.,ltd
+CC:22:37:60:00:00/28	SiemensA	Siemens AG Austria
+CC:22:37:70:00:00/28	Shanghai	Shanghai Doit IOT Technology Co.,Ltd.
+CC:22:37:80:00:00/28	SafiloSP	Safilo S.p.A.
+CC:22:37:90:00:00/28	EInk	E Ink Corp
+CC:22:37:A0:00:00/28	Shenzhen	shenzhen zonglian network technology limited
+CC:22:37:B0:00:00/28	Tolomati	Tolomatic, Inc.
+CC:22:37:C0:00:00/28	HebeiZhs	Hebei ZHSF Technology Co.,Ltd.
+CC:22:37:D0:00:00/28	Shenzhen	Shenzhen Hooenergy Technology Co.,Ltd
+CC:22:37:E0:00:00/28	Manufact	Manufacturas Y Transformados Ab, S.L.
+CC:D3:1E:00:00:00/28	Samim	SAMIM Co
+CC:D3:1E:10:00:00/28	RondoBur	Rondo Burgdorf AG
+CC:D3:1E:20:00:00/28	Neptune	Neptune Systems
+CC:D3:1E:30:00:00/28	Ken	Ken A/S
+CC:D3:1E:40:00:00/28	PjgSyste	PJG Systementwicklung GmbH
+CC:D3:1E:50:00:00/28	Ntmore	NTmore.Co.,Ltd
+CC:D3:1E:60:00:00/28	BbposInt	BBPOS International Limited
+CC:D3:1E:70:00:00/28	Shenzhen	Shenzhen Decnta Technology Co.,LTD.
+CC:D3:1E:80:00:00/28	Inoage	inoage GmbH
+CC:D3:1E:90:00:00/28	SiemensM	Siemens AG, MO MLT BG
+CC:D3:1E:A0:00:00/28	HaishuTe	Haishu Technology LIMITED
+CC:D3:1E:B0:00:00/28	ElkProdu	Elk Products
+CC:D3:1E:C0:00:00/28	Nantener	NantEnergy
+CC:D3:1E:D0:00:00/28	CujoLlc	Cujo Llc
+CC:D3:1E:E0:00:00/28	Shenzhen	ShenZhenBoryNet Co.,LTD.
+CC:D3:9D:00:00:00/28	Inx	Inx Co.,Ltd.
+CC:D3:9D:10:00:00/28	EvokoUnl	Evoko Unlimited AB
+CC:D3:9D:20:00:00/28	Continen	Continental Control Systems
+CC:D3:9D:30:00:00/28	Magtarge	MagTarget LLC
+CC:D3:9D:40:00:00/28	Shenzhen	Shenzhen Chenggu Technology Co., Ltd
+CC:D3:9D:50:00:00/28	Shenzhen	Shenzhen Royole Technologies Co., Ltd.
+CC:D3:9D:60:00:00/28	Krontech
+CC:D3:9D:70:00:00/28	Glenair
+CC:D3:9D:80:00:00/28	Obelisk	Obelisk Inc.
+CC:D3:9D:90:00:00/28	BejingNe	Bejing Nexsec Inc.
+CC:D3:9D:A0:00:00/28	Lubelski	Lubelskie Fabryki Wag FAWAG S.A.
+CC:D3:9D:B0:00:00/28	Q-Branch	Q-Branch Labs, Inc.
+CC:D3:9D:C0:00:00/28	Hangzhou	Hangzhou Scooper Technology Co.,Ltd.
+CC:D3:9D:D0:00:00/28	Ethernit	Ethernity Networks
+CC:D3:9D:E0:00:00/28	Shanghai	Shanghai tongli information technology co. LTD
+D0:22:12:00:00:00/28	SpiritIt	Spirit IT B.V.
+D0:22:12:10:00:00/28	Aim
+D0:22:12:20:00:00/28	Rhenac	RHENAC Systems GmbH
+D0:22:12:40:00:00/28	Viatron	Viatron GmbH
+D0:22:12:50:00:00/28	Shanghai	Shanghai Routech Co., Ltd
+D0:22:12:60:00:00/28	UranoInd	Urano Industria De Balancas E Equipamentos Ltda
+D0:22:12:70:00:00/28	Cliptech	Cliptech Industria e Comercio Ltda
+D0:22:12:80:00:00/28	Shenzhen	Shenzhen SIC Technology. Co., Ltd.
+D0:22:12:90:00:00/28	Uab&Quot	UAB &quot;SALDA&quot;
+D0:22:12:A0:00:00/28	Gns	GNS-GmbH
+D0:22:12:B0:00:00/28	Schleife	Schleifenbauer Holding BV
+D0:22:12:C0:00:00/28	XperioLa	Xperio Labs Ltd.
+D0:22:12:D0:00:00/28	Shenzhen	Shenzhen Zhongxi Security Co.,Ltd
+D0:22:12:E0:00:00/28	U::Lux	u::Lux GmbH
+D0:22:12:F0:00:00/28	Private
+D0:5F:64:00:00:00/28	Decathlo	Decathlon SA
+D0:5F:64:10:00:00/28	Hangzhou	Hangzhou ToupTek Photonics Co., Ltd.
+D0:5F:64:20:00:00/28	Shanghai	Shanghai Zhongmi Communication Technology Co.,Ltd
+D0:5F:64:30:00:00/28	HuaqinTe	Huaqin Telecom Hong Kong Ltd
+D0:5F:64:40:00:00/28	Wallbe	wallbe GmbH
+D0:5F:64:50:00:00/28	AtollSol	Atoll Solutions Private Limited
+D0:5F:64:60:00:00/28	CyrusTec	Cyrus Technology GmbH
+D0:5F:64:70:00:00/28	BeijingC	Beijing Core Shield Group Co., Ltd.
+D0:5F:64:80:00:00/28	Tytocare	TytoCare LTD.
+D0:5F:64:90:00:00/28	Shanghai	Shanghai Luying International Trade Co.,Ltd
+D0:5F:64:A0:00:00/28	Partnern	PartnerNET LTD
+D0:5F:64:B0:00:00/28	NorthAme	North American Blue Tiger Company, LLC
+D0:5F:64:C0:00:00/28	NanjingH	Nanjing Huamai Technology Co.,Ltd
+D0:5F:64:D0:00:00/28	Shenzhen	Shenzhen Canzone Technology Co.,Ltd.
+D0:5F:64:E0:00:00/28	Montblan	Montblanc-Simplo GmbH
+D0:76:50:00:00:00/28	Centrale	CentrAlert, Inc.
+D0:76:50:10:00:00/28	DaikenAu	Daiken Automacao Ltda
+D0:76:50:20:00:00/28	HappoSol	Happo Solutions Oy
+D0:76:50:30:00:00/28	TapkoTec	TAPKO Technologies GmbH
+D0:76:50:40:00:00/28	Private
+D0:76:50:50:00:00/28	Annapurn	Annapurna Labs
+D0:76:50:60:00:00/28	Picobrew	Picobrew LLC
+D0:76:50:70:00:00/28	EncoredT	ENCORED Technologies, Inc.
+D0:76:50:80:00:00/28	Accumula	Accumulate AB
+D0:76:50:90:00:00/28	Greenwav	Greenwave Scientific
+D0:76:50:A0:00:00/28	Inventde	InventDesign
+D0:76:50:B0:00:00/28	Pelkorea
+D0:76:50:C0:00:00/28	Electro-	Electro-Motive Diesel
+D0:76:50:D0:00:00/28	Tecnotro	tecnotron elekronik gmbh
+D0:76:50:E0:00:00/28	Revox	Revox Inc.
+D0:76:50:F0:00:00/28	Private
+D0:C8:57:00:00:00/28	YuanHigh	YUAN High-Tech Development Co., Ltd.
+D0:C8:57:10:00:00/28	Dali	Dali A/S
+D0:C8:57:20:00:00/28	Forgamer	Forgamers Inc.
+D0:C8:57:30:00:00/28	Mobicon
+D0:C8:57:40:00:00/28	IminTech	Imin Technology Pte Ltd
+D0:C8:57:50:00:00/28	BeijingI	Beijing Inspiry Technology Co., Ltd.
+D0:C8:57:60:00:00/28	Innovati	Innovative Industrial(HK)Co., Limited
+D0:C8:57:70:00:00/28	EcoMobil	Eco Mobile
+D0:C8:57:80:00:00/28	NanjingM	Nanjing Magewell Electronics Co.,Ltd
+D0:C8:57:90:00:00/28	Shenzhen	Shenzhen xiaosha Intelligence Technology Co. Ltd
+D0:C8:57:A0:00:00/28	Shenzhen	shenzhen cnsun
+D0:C8:57:B0:00:00/28	Chunghsi	Chunghsin International Electronics Co.,Ltd.
+D0:C8:57:C0:00:00/28	DanteSec	Dante Security Inc.
+D0:C8:57:D0:00:00/28	Iflytek	Iflytek Co.,Ltd.
+D0:C8:57:E0:00:00/28	E-T-AEle	E-T-A Elektrotechnische Apparate GmbH
+D0:D9:4F:00:00:00/28	PerfantT	Perfant Technology Co., Ltd
+D0:D9:4F:10:00:00/28	Mycable	mycable GmbH
+D0:D9:4F:20:00:00/28	TecoImag	Teco Image Systems Co., Ltd.
+D0:D9:4F:30:00:00/28	BeijingY	Beijing Yiwangxuntong Technology
+D0:D9:4F:40:00:00/28	PeikerCe	peiker CEE
+D0:D9:4F:50:00:00/28	OptigoNe	Optigo Networks
+D0:D9:4F:60:00:00/28	HyundaiA	Hyundai Autohow
+D0:D9:4F:70:00:00/28	Private
+D0:D9:4F:80:00:00/28	ApptionL	Apption Labs Limited
+D0:D9:4F:90:00:00/28	Hangzhou	Hangzhou xiaoben technology co.,Ltd
+D0:D9:4F:A0:00:00/28	Shenzhen	Shenzhen FDC Electuonic Co.,Ltd.
+D0:D9:4F:B0:00:00/28	MaxSmart	MAX Smart Home, LLC
+D0:D9:4F:C0:00:00/28	Arrowave	Arrowave Technologies Limited
+D0:D9:4F:D0:00:00/28	Duksanme	Duksanmecasys Co., Ltd.
+D0:D9:4F:E0:00:00/28	Appotron	Appotronics Co., Ltd
+D4:25:CC:00:00:00/28	NordiTel	Nordi Telekommunikatsiooni Oü
+D4:25:CC:10:00:00/28	EwareInf	Eware Information Technology com.,Ltd
+D4:25:CC:20:00:00/28	Musiclen	MusicLens Inc.
+D4:25:CC:30:00:00/28	Eisst	EISST Ltd
+D4:25:CC:40:00:00/28	Barobo	Barobo, Inc.
+D4:25:CC:50:00:00/28	BvkTechn	bvk technology
+D4:25:CC:60:00:00/28	NanjingL	Nanjing LES Information Technology Co., Ltd
+D4:25:CC:70:00:00/28	Bluecats	BlueCats US, LLC
+D4:25:CC:80:00:00/28	DolbyLab	Dolby Laboratories, Inc.
+D4:25:CC:90:00:00/28	TakumiJa	Takumi Japan Ltd
+D4:25:CC:A0:00:00/28	E-Metrot	E-MetroTel
+D4:25:CC:B0:00:00/28	Veea
+D4:25:CC:C0:00:00/28	PosnetPo	POSNET Polska S.A.
+D4:25:CC:D0:00:00/28	Combined	Combined Energy Technologies Pty Ltd
+D4:25:CC:E0:00:00/28	Coperion
+D4:7C:44:00:00:00/28	ExaforeO	Exafore Oy
+D4:7C:44:10:00:00/28	InnovizT	Innoviz Technologies LTD
+D4:7C:44:20:00:00/28	YundingN	YunDing Network Technology (Beijing) Co., Ltd
+D4:7C:44:30:00:00/28	OmronSen	Omron Sentech Co., Ltd.
+D4:7C:44:40:00:00/28	SammiOnf	Sammi Onformation Systems
+D4:7C:44:50:00:00/28	LsCommun	LS Communication Co.,Ltd.
+D4:7C:44:60:00:00/28	AsdaIct	ASDA ICT Co., Ltd.
+D4:7C:44:70:00:00/28	PongeeIn	Pongee Industries Co., Ltd.
+D4:7C:44:80:00:00/28	BeijingM	Beijing Maystar Information Technology Co., Ltd.
+D4:7C:44:90:00:00/28	SuzhouWa	Suzhou Wan Dian Zhang Network Technology Co., Ltd
+D4:7C:44:A0:00:00/28	Tendzone	Tendzone International Pte Ltd
+D4:7C:44:B0:00:00/28	Optim	OPTiM Corporation
+D4:7C:44:C0:00:00/28	StriveOr	Strive Orthopedics Inc
+D4:7C:44:D0:00:00/28	HuaqinTe	Huaqin Telecom Technology Co.,Ltd.
+D4:7C:44:E0:00:00/28	Shenzhen	Shenzhen Anysec Technology Co. Ltd
+D8:86:0B:00:00:00/28	InspurGr	Inspur Group Co., Ltd.
+D8:86:0B:10:00:00/28	Krspace
+D8:86:0B:20:00:00/28	GetSat	Get SAT
+D8:86:0B:30:00:00/28	Auvidea	Auvidea GmbH
+D8:86:0B:40:00:00/28	Teplovod	Teplovodokhran Ltd.
+D8:86:0B:50:00:00/28	Camtrace
+D8:86:0B:60:00:00/28	Scanmati	Scanmatik
+D8:86:0B:70:00:00/28	Grünbeck	Grünbeck Wasseraufbereitung GmbH
+D8:86:0B:80:00:00/28	VrindaNa	Vrinda Nano Technologies Pvt Ltd
+D8:86:0B:90:00:00/28	DigitalC	Digital Concepts
+D8:86:0B:A0:00:00/28	GloScien	GLO Science
+D8:86:0B:B0:00:00/28	LibraryI	Library Ideas
+D8:86:0B:C0:00:00/28	YusanInd	Yusan Industries Limited
+D8:86:0B:D0:00:00/28	ComnavTe	ComNav Technology Ltd.
+D8:86:0B:E0:00:00/28	Shenzhen	Shenzhen Yidong Technology Co.,Ltd
+DC:44:27:00:00:00/28	Suritel
+DC:44:27:10:00:00/28	TeslaMot	Tesla Motors, Inc
+DC:44:27:20:00:00/28	SkywaveT	Skywave Technology Co,.Ltd.
+DC:44:27:30:00:00/28	GeneralM	General Microsystems Sdn Bhd
+DC:44:27:40:00:00/28	NexTechn	Nex Technologies PTY LTD
+DC:44:27:50:00:00/28	CenturyA	Century Audio, Inc.
+DC:44:27:60:00:00/28	Ek-TeamE	EK-TEAM Elektronik- u. Kunststoff-Technik GmbH
+DC:44:27:70:00:00/28	Ecoguard	EcoGuard AB
+DC:44:27:80:00:00/28	WhartonE	Wharton Electronics Ltd
+DC:44:27:90:00:00/28	Neusoft	Neusoft Corporation
+DC:44:27:A0:00:00/28	Shanghai	Shanghai Huahong Integrated Circuit Co.,Ltd
+DC:44:27:B0:00:00/28	Nautilus	Nautilus Infotech CO., Ltd.
+DC:44:27:C0:00:00/28	PyrexxTe	Pyrexx Technologies GmbH
+DC:44:27:D0:00:00/28	Rohde&Sc	Rohde&Schwarz Topex SA
+DC:44:27:E0:00:00/28	Verifeye	VerifEye Technologies
+DC:44:27:F0:00:00/28	Private
+DC:E5:33:00:00:00/28	FlyhtAer	FLYHT Aerospace
+DC:E5:33:10:00:00/28	AmbiLabs	Ambi Labs Limited
+DC:E5:33:20:00:00/28	Remko	Remko GmbH & Co. KG
+DC:E5:33:30:00:00/28	Shenzhen	ShenZhen C&D Electronics CO.Ltd.
+DC:E5:33:40:00:00/28	Shenzhen	shenzhen bangying electronics co,.ltd
+DC:E5:33:50:00:00/28	Controls	Controls Inc
+DC:E5:33:60:00:00/28	WecanSol	WECAN Solution Inc.
+DC:E5:33:70:00:00/28	SanEngin	SAN Engineering
+DC:E5:33:80:00:00/28	Jb-Light	JB-Lighting Lichtanlagen GmbH
+DC:E5:33:90:00:00/28	Tiertime	Tiertime Corporation
+DC:E5:33:A0:00:00/28	Private
+DC:E5:33:B0:00:00/28	TintelHo	Tintel Hongkong Co.Ltd
+DC:E5:33:C0:00:00/28	Brck
+DC:E5:33:D0:00:00/28	SuzhouAt	Suzhou ATES electronic technology co.LTD
+DC:E5:33:E0:00:00/28	GiantPow	Giant Power Technology Biomedical Corporation
+E0:5A:9F:00:00:00/28	Annapurn	Annapurna labs
+E0:5A:9F:10:00:00/28	AitecSys	Aitec System Co., Ltd.
+E0:5A:9F:20:00:00/28	ChengduS	Chengdu Song Yuan Electronic Technology Co.,Ltd
+E0:5A:9F:30:00:00/28	LinkOfTh	Link of Things Co., Ltd.
+E0:5A:9F:40:00:00/28	HaleProd	Hale Products
+E0:5A:9F:50:00:00/28	Tryen
+E0:5A:9F:60:00:00/28	Fibrain
+E0:5A:9F:70:00:00/28	OmbGuita	OMB Guitars LLC
+E0:5A:9F:80:00:00/28	FujianNe	Fujian Newland Auto-ID Tech. Co.,Ltd.
+E0:5A:9F:90:00:00/28	Gemalto"	Gemalto "Document Readers"
+E0:5A:9F:A0:00:00/28	Contempo	Contemporary Amperex Technology Co., Limited
+E0:5A:9F:B0:00:00/28	Shenzhen	Shenzhen Rongan Networks Technology Co.,Ltd
+E0:5A:9F:C0:00:00/28	Shenzhen	ShenZhen Mornsun Smartlinker Limited Co., LTD
+E0:5A:9F:D0:00:00/28	Mountz	Mountz, Inc.
+E0:5A:9F:E0:00:00/28	Shenzhen	ShenZhen Arts Changhua Intelligent Technology Co., Ltd
+E0:B6:F5:00:00:00/28	Bestar	BeSTAR Corporation
+E0:B6:F5:10:00:00/28	StartTod	Start Today Co.,Ltd.
+E0:B6:F5:20:00:00/28	Shanghai	Shanghai- British Information Technology Co., Ltd
+E0:B6:F5:30:00:00/28	HuizhouG	Huizhou GISUN Industrial CO. LTD
+E0:B6:F5:40:00:00/28	Agora
+E0:B6:F5:50:00:00/28	Shenzhen	Shenzhen Civicom Technology Co.,Limited
+E0:B6:F5:60:00:00/28	Pomcube	POMCube Inc.
+E0:B6:F5:70:00:00/28	Shenzhen	Shenzhen Xrinda Technology Ltd
+E0:B6:F5:80:00:00/28	YuneecIn	Yuneec International（China）Co.，Ltd
+E0:B6:F5:90:00:00/28	Motivepr	Motiveprime Consumer Electronics Pvt Ltd
+E0:B6:F5:A0:00:00/28	Folksam	Folksam AB
+E0:B6:F5:B0:00:00/28	MoogCros	Moog Crossbow
+E0:B6:F5:C0:00:00/28	Funktel	funktel GmbH
+E0:B6:F5:D0:00:00/28	ItelMobi	Itel Mobile Limited
+E0:B6:F5:E0:00:00/28	AdvatekL	Advatek Lighting Pty Ltd
+E4:1E:0A:00:00:00/28	Zavod№42	Zavod № 423
+E4:1E:0A:10:00:00/28	Connecte	Connected Cars A/S
+E4:1E:0A:20:00:00/28	IdvacoPr	IDvaco Private Limited
+E4:1E:0A:30:00:00/28	AvastSof	Avast Software s.r.o.
+E4:1E:0A:40:00:00/28	XprGroup	XPR Group
+E4:1E:0A:50:00:00/28	AeroelSr	Aeroel srl
+E4:1E:0A:60:00:00/28	SfcEnerg	SFC Energy AG
+E4:1E:0A:70:00:00/28	TritiumP	Tritium Pty Ltd
+E4:1E:0A:80:00:00/28	SageGlas	SAGE Glass
+E4:1E:0A:90:00:00/28	BMetersS	B Meters S.R.L.
+E4:1E:0A:A0:00:00/28	Fireange	FireAngel Safety Technology Ltd
+E4:1E:0A:B0:00:00/28	SafetyVi	Safety Vision, LLC
+E4:1E:0A:C0:00:00/28	Teletask	Teletask Belgium
+E4:1E:0A:D0:00:00/28	RomoWind	ROMO Wind A/S
+E4:1E:0A:E0:00:00/28	Shanghai	Shanghai LeXiang Technology Co., Ltd
+E4:4C:C7:00:00:00/28	AlertAla	Alert Alarm AB
+E4:4C:C7:10:00:00/28	Acs-Solu	ACS-Solutions GmbH
+E4:4C:C7:20:00:00/28	DoowonEl	Doowon Electronics & Telecom Co.,Ltd
+E4:4C:C7:30:00:00/28	Jsc"Svya	JSC "Svyaz Inginiring M"
+E4:4C:C7:40:00:00/28	BeijingZ	Beijing Zhongchuangwei Nanjing Quantum Communication Technology Co., Ltd.
+E4:4C:C7:50:00:00/28	CeLabsLl	Ce Labs, Llc
+E4:4C:C7:60:00:00/28	Hangzhou	Hangzhou Ole-Systems Co., Ltd
+E4:4C:C7:70:00:00/28	ChannelE	Channel Enterprises (HK) Ltd.
+E4:4C:C7:80:00:00/28	IagGroup	Iag Group Ltd
+E4:4C:C7:90:00:00/28	Ottomate	Ottomate International Pvt. Ltd.
+E4:4C:C7:A0:00:00/28	Muzik	Muzik Inc
+E4:4C:C7:B0:00:00/28	Smallhd
+E4:4C:C7:C0:00:00/28	EpsBio	EPS Bio
+E4:4C:C7:D0:00:00/28	TeloLimi	Telo Systems Limitd
+E4:4C:C7:E0:00:00/28	FlkInfor	FLK information security technology Co,. Ltd
+E4:95:6E:00:00:00/28	SmcNetwo	SMC Networks, Inc
+E4:95:6E:10:00:00/28	TbandSrl	Tband srl
+E4:95:6E:20:00:00/28	Shanghai	Shanghai Hoping Technology Co., Ltd.
+E4:95:6E:30:00:00/28	Shanghai	Shanghai DGE Co., Ltd
+E4:95:6E:40:00:00/28	GuangLia	Guang Lian Zhi Tong Technology Limited
+E4:95:6E:50:00:00/28	Elan	Elan Systems
+E4:95:6E:60:00:00/28	Shenzhen	Shenzhen Joyetech Electronics Co., Ltd.
+E4:95:6E:70:00:00/28	National	NationalchipKorea
+E4:95:6E:80:00:00/28	PtMlwtel	PT.MLWTelecom
+E4:95:6E:90:00:00/28	EzelinkL	eZeLink LLC
+E4:95:6E:A0:00:00/28	RedPoint	Red Point Positioning, Corp.
+E4:95:6E:B0:00:00/28	Iconserv	iConservo Inc
+E4:95:6E:C0:00:00/28	Shenzhen	Shenzhen Arronna Telecom Co.,Ltd
+E4:95:6E:D0:00:00/28	Shanghai	Shanghai Tieda Telecommunications Equipment Co.,LTD.
+E4:95:6E:E0:00:00/28	TacomPro	Tacom Projetos Bilhetagem Inteligente ltda
+E4:95:6E:F0:00:00/28	Private
+E8:18:63:00:00:00/28	Digimagu	DigiMagus Technology (Shenzhen) Co., Ltd
+E8:18:63:10:00:00/28	Clabsys
+E8:18:63:20:00:00/28	AvconInf	AVCON Information Technology Co.,Ltd
+E8:18:63:30:00:00/28	Dongguan	DongGuan Pengxun Electronics Technology Co., Ltd.
+E8:18:63:40:00:00/28	Guangzho	Guangzhou Tianyi Electronics Co., Ltd
+E8:18:63:50:00:00/28	WetekEle	Wetek Electronics Limited
+E8:18:63:60:00:00/28	ArtechSo	Artech Solution Co.,Ltd
+E8:18:63:70:00:00/28	Siliconc	Siliconcube
+E8:18:63:90:00:00/28	BsmWirel	BSM Wireless Inc.
+E8:18:63:A0:00:00/28	JdmMobil	JDM Mobile Internet Solution(Shanghai) Co., Ltd.
+E8:18:63:B0:00:00/28	ProtekEl	Protek Electronics Group Co.,LTD
+E8:18:63:C0:00:00/28	Shenzhen	Shenzhen Hipad Telecommunication Technology Co.,Ltd
+E8:18:63:D0:00:00/28	DigitalD	Digital Dynamics, Inc.
+E8:18:63:E0:00:00/28	AcopianT	Acopian Technical Company
+E8:18:63:F0:00:00/28	Private
+EC:9F:0D:00:00:00/28	HesaiPho	Hesai Photonics Technology Co., Ltd
+EC:9F:0D:10:00:00/28	SimulaTe	Simula Technology Inc.
+EC:9F:0D:20:00:00/28	Drb	DRB Systems
+EC:9F:0D:30:00:00/28	WaverlyL	Waverly Labs Inc.
+EC:9F:0D:40:00:00/28	Wisioe
+EC:9F:0D:50:00:00/28	Paw-Taw-	Paw-Taw-John Services, Inc.
+EC:9F:0D:60:00:00/28	Shenzhen	Shenzhen Compare Electronics Co., Ltd
+EC:9F:0D:70:00:00/28	BeiJingL	Bei jing Lian Shan times Techonology Co.Ltd
+EC:9F:0D:80:00:00/28	Zhejiang	Zhejiang HEJU Communication Technology Co., Ltd
+EC:9F:0D:90:00:00/28	Fci
+EC:9F:0D:A0:00:00/28	Flexlog	flexlog GmbH
+EC:9F:0D:B0:00:00/28	CrrcQing	Crrc Qingdao Sifang Rolling Stock Research Institute Co.,Ltd
+EC:9F:0D:C0:00:00/28	Sarcos	Sarcos Corp
+EC:9F:0D:D0:00:00/28	SksContr	SKS Control Oy
+EC:9F:0D:E0:00:00/28	MaxTechn	MAX Technologies
+F0:23:B9:00:00:00/28	Aquametr	Aquametro AG
+F0:23:B9:10:00:00/28	Ubiant
+F0:23:B9:20:00:00/28	RaysgemE	Raysgem Electronics and Technology Co.Ltd
+F0:23:B9:30:00:00/28	BspRus	BSP RUS Ltd.
+F0:23:B9:40:00:00/28	Ezvis	Ezvis Limited
+F0:23:B9:50:00:00/28	AudearaP	Audeara Pty. Ltd.
+F0:23:B9:60:00:00/28	XiamenJi	Xiamen Jinhaode Electronic Co.,Ltd
+F0:23:B9:70:00:00/28	Transcen	Transcend Building Automation control network corporation
+F0:23:B9:80:00:00/28	G3Techno	G3 Technologies< Inc
+F0:23:B9:90:00:00/28	EmuTechn	Emu Technology
+F0:23:B9:A0:00:00/28	Annapurn	Annapurna labs
+F0:23:B9:B0:00:00/28	QCoreMed	Q Core Medical Ltd
+F0:23:B9:C0:00:00/28	Shenzhen	Shenzhen Lachesis Mhealth Co., Ltd.
+F0:23:B9:D0:00:00/28	Private
+F0:23:B9:E0:00:00/28	Domotz	Domotz Ltd
+F0:41:C8:00:00:00/28	LinpaAco	Linpa Acoustic Technology Co.,Ltd
+F0:41:C8:10:00:00/28	Dongguan	DongGuan Siyoto Electronics Co., Ltd
+F0:41:C8:20:00:00/28	Shenzhen	Shenzhen Medica Technology Development Co., Ltd.
+F0:41:C8:30:00:00/28	Shenzhen	Shenzhen Wisewing Internet Technology Co.,Ltd
+F0:41:C8:40:00:00/28	Candelic	Candelic Limited
+F0:41:C8:50:00:00/28	XiAnMeiS	XI'AN MEI SHANG MEI WIRELESS TECHNOLOGY.Co., Ltd.
+F0:41:C8:60:00:00/28	AedEngin	AED Engineering GmbH
+F0:41:C8:70:00:00/28	Nanchang	Nanchang BlackShark Co.,Ltd.
+F0:41:C8:80:00:00/28	PostiumK	Postium Korea Co., Ltd.
+F0:41:C8:90:00:00/28	Shenzhen	Shenzhen Nufilo Electronic Technology Co., Ltd.
+F0:41:C8:A0:00:00/28	Telstra
+F0:41:C8:B0:00:00/28	Powervau	Powervault Ltd
+F0:41:C8:C0:00:00/28	Shanghai	Shanghai Think-Force Electronic Technology Co. Ltd
+F0:41:C8:D0:00:00/28	AtnMedia	ATN Media Group FZ LLC
+F0:41:C8:E0:00:00/28	Shenzhen	Shenzhen Umind Technology Co., Ltd.
+F0:AC:D7:00:00:00/28	GuilinGl	Guilin glsun Science and Tech Co.,LTD
+F0:AC:D7:10:00:00/28	Intenta	Intenta GmbH
+F0:AC:D7:20:00:00/28	QuantumP	Quantum Power Systems
+F0:AC:D7:30:00:00/28	Med-Pat/	Med-Pat/Inn-Phone
+F0:AC:D7:40:00:00/28	Sercomm	Sercomm Corporation.
+F0:AC:D7:50:00:00/28	PavoTasa	Pavo Tasarim Uretim Ticaret A.S.
+F0:AC:D7:60:00:00/28	SuzhouPa	Suzhou Pairlink Network Technology
+F0:AC:D7:70:00:00/28	HanjuNet	Hanju Network Technologies Co.
+F0:AC:D7:80:00:00/28	Telefoni	Telefonix Incorporated
+F0:AC:D7:90:00:00/28	U3Storag	U3storage Technologies Co., Ltd
+F0:AC:D7:A0:00:00/28	Groupeer	Groupeer Technologies
+F0:AC:D7:B0:00:00/28	Zhejiang	Zhejiang Makepower Electronics,Inc.
+F0:AC:D7:C0:00:00/28	Simprint	Simprints Technology Ltd
+F0:AC:D7:D0:00:00/28	SmartPow	Smart Power Technology Co., Ltd.
+F0:AC:D7:E0:00:00/28	Fiziico	Fiziico Co., Ltd.
+F4:0E:11:00:00:00/28	Realphon	realphone technology co.,ltd
+F4:0E:11:10:00:00/28	BeijingD	Beijing Dongjin Aero-Tech Co., Ltd
+F4:0E:11:20:00:00/28	AxelSrl	Axel srl
+F4:0E:11:30:00:00/28	Shenzhen	Shenzhen headsun technology
+F4:0E:11:40:00:00/28	DayangTe	Dayang Technology Development Inc.
+F4:0E:11:50:00:00/28	E-Song
+F4:0E:11:60:00:00/28	AlphaDes	Alpha Design Technologies Pvt Ltd
+F4:0E:11:70:00:00/28	Shenzhen	Shenzhen Grandsun Electronic Co.,Ltd.
+F4:0E:11:80:00:00/28	Zeepro	Zeepro Inc.
+F4:0E:11:90:00:00/28	SternaSe	Sterna Security
+F4:0E:11:A0:00:00/28	Kodpro	Kodpro Ltd.
+F4:0E:11:B0:00:00/28	BradarIn	Bradar Industria Sa
+F4:0E:11:C0:00:00/28	NihonMeg	Nihon Mega Logic Co.,Ltd.
+F4:0E:11:D0:00:00/28	DxgTechn	DXG Technology Corp.
+F4:0E:11:E0:00:00/28	Elektron	Elektronika Naglic d.o.o.
+F4:0E:11:F0:00:00/28	Private
+F8:02:78:00:00:00/28	Digatron	Digatron Power Electronics GmbH
+F8:02:78:10:00:00/28	ReasonTe	Reason Tecnologia SA
+F8:02:78:20:00:00/28	Innodisk
+F8:02:78:30:00:00/28	3Shape	3Shape Holding A/S
+F8:02:78:40:00:00/28	ClarusKo	CLARUS Korea Co., Ltd
+F8:02:78:50:00:00/28	Electric	Electric Objects
+F8:02:78:60:00:00/28	Witium	Witium Co., Ltd
+F8:02:78:70:00:00/28	BettiniS	Bettini Srl
+F8:02:78:80:00:00/28	EmbuxTec	EMBUX Technology Co., Ltd.
+F8:02:78:90:00:00/28	BeijingR	Beijing Redcdn Technology, Co., Ltd
+F8:02:78:A0:00:00/28	LuxulTec	Luxul Technology Inc
+F8:02:78:B0:00:00/28	Rosemoun	Rosemount Analytical
+F8:02:78:C0:00:00/28	Technolo	Technology Research, LLC
+F8:02:78:D0:00:00/28	DuetonSR	Dueton Systems s.r.o.
+F8:02:78:E0:00:00/28	LitTechn	Lit Technologies
+F8:02:78:F0:00:00/28	Private
+F8:1D:78:00:00:00/28	Dongguan	Dongguan Shun Hing Plastics Limited
+F8:1D:78:10:00:00/28	Adtechno	ADTECHNO Inc.
+F8:1D:78:20:00:00/28	XperioLa	Xperio Labs Limited
+F8:1D:78:30:00:00/28	Shanghai	Shanghai Sun Telecommunication Co., Ltd.
+F8:1D:78:40:00:00/28	DigitalI	Digital Imaging Technology
+F8:1D:78:50:00:00/28	Dacons
+F8:1D:78:60:00:00/28	Zengge	Zengge Co., Limited
+F8:1D:78:70:00:00/28	WuhanGui	Wuhan Guide Infrared Co.,Ltd
+F8:1D:78:80:00:00/28	Teleofis
+F8:1D:78:90:00:00/28	OphrysSy	Ophrys Systèmes
+F8:1D:78:A0:00:00/28	AvproGlo	AVPro Global Holdings LLC
+F8:1D:78:B0:00:00/28	Sigmacon	SigmaConnectivityAB
+F8:1D:78:C0:00:00/28	Shenzhuo	Shenzhuoyue Technology.,Ltd
+F8:1D:78:D0:00:00/28	Tofino
+F8:1D:78:E0:00:00/28	Guangdon	Guangdong Enok Communication Co., Ltd.
+F8:8A:3C:00:00:00/28	Art	Art Spa
+F8:8A:3C:10:00:00/28	Carefree	Carefree of Colorado
+F8:8A:3C:20:00:00/28	KlatuNet	KLATU Networks Inc
+F8:8A:3C:30:00:00/28	Shenzhen	Shenzhen Shengyuan Tech Ltd.
+F8:8A:3C:40:00:00/28	Go-LinkT	Go-Link Technology Co., Ltd.
+F8:8A:3C:50:00:00/28	Kokkia	Kokkia Inc
+F8:8A:3C:60:00:00/28	BeijingZ	Beijing Zhong Chuang Communication Technology Ltd.
+F8:8A:3C:70:00:00/28	JoshAi	Josh.ai
+F8:8A:3C:80:00:00/28	CadmusEl	Cadmus Electronic Co.,Ltd.
+F8:8A:3C:90:00:00/28	Withus
+F8:8A:3C:A0:00:00/28	Protos	Protos GmbH
+F8:8A:3C:B0:00:00/28	FaraAs	Fara As
+F8:8A:3C:C0:00:00/28	ExcetopT	Excetop Technology (Beijing) Co., Ltd.
+F8:8A:3C:D0:00:00/28	Thk	THK Co.,LTD.
+F8:8A:3C:E0:00:00/28	Avateq	Avateq Corp.
+F8:B5:68:00:00:00/28	Lifeprin	LifePrint Products, Inc.
+F8:B5:68:10:00:00/28	PtEyroDi	PT. Eyro Digital Teknologi
+F8:B5:68:20:00:00/28	Shenzhen	Shenzhen New-Bund Technology Co., Ltd.
+F8:B5:68:30:00:00/28	DongwooE	Dongwoo Engineering Co.,Ltd
+F8:B5:68:40:00:00/28	Combiwin	Combiwins Technology Co.,Limited
+F8:B5:68:50:00:00/28	Etectrx
+F8:B5:68:60:00:00/28	PackageG	Package Guard, Inc
+F8:B5:68:70:00:00/28	Cloudmin	CloudMinds (Shenzhen) Holdings Co., Ltd
+F8:B5:68:80:00:00/28	MavenWir	Maven Wireless AB
+F8:B5:68:90:00:00/28	BeijingW	Beijing Wanji Techonology Co., Ltd.
+F8:B5:68:A0:00:00/28	Sinepuls	SinePulse GmbH
+F8:B5:68:B0:00:00/28	Whizpace	Whizpace Pte. Ltd.
+F8:B5:68:C0:00:00/28	3SiSecur	3SI Security Systems, Inc
+F8:B5:68:D0:00:00/28	Solarius
+F8:B5:68:E0:00:00/28	Zao&Quot	ZAO &quot;RADIUS Avtomatika&quot;
+FC:A4:7A:00:00:00/28	Broadcom	Broadcom Inc.
+FC:A4:7A:10:00:00/28	Shenzhen	Shenzhen VMAX New Energy Co., Ltd.
+FC:A4:7A:20:00:00/28	AntFinan	Ant Financial（Hang Zhou）Network Technology Co.,Ltd.
+FC:A4:7A:30:00:00/28	Cliptech	Cliptech Industria e Comercio Ltda
+FC:A4:7A:40:00:00/28	Hooc	Hooc Ag
+FC:A4:7A:50:00:00/28	Syfer
+FC:A4:7A:60:00:00/28	Token
+FC:A4:7A:70:00:00/28	Innovati	Innovative Advantage
+FC:A4:7A:80:00:00/28	KarryCom	Karry Communication Limited
+FC:A4:7A:90:00:00/28	OberixGr	Oberix Group Pty Ltd
+FC:A4:7A:A0:00:00/28	Shenzhen	Shenzhen Elebao Technology Co., Ltd
+FC:A4:7A:B0:00:00/28	Shenzhen	Shenzhen Nokelock Technology Co, Ltd.
+FC:A4:7A:C0:00:00/28	Shenzhen	Shenzhen ALFEYE Technology CO.,Ltd
+FC:A4:7A:D0:00:00/28	Shenzhen	Shenzhen Kuku Technology Co.,Ltd
+FC:A4:7A:E0:00:00/28	HefeiFei	Hefei Feier Smart Science&Technology Co. Ltd
+FC:D2:B6:00:00:00/28	CgPowerA	Cg Power And Industrial Solutions Ltd
+FC:D2:B6:10:00:00/28	LinkFar-	Link (Far-East) Corporation
+FC:D2:B6:20:00:00/28	Soma	Soma GmbH
+FC:D2:B6:30:00:00/28	CoetCost	Coet Costruzioni Elettrotecniche
+FC:D2:B6:40:00:00/28	ShenZhen	Shen Zhen Xin Hao Yuan Precision Technology Co.,L Td
+FC:D2:B6:50:00:00/28	Grandway	Grandway Technology (Shenzhen) Limited
+FC:D2:B6:60:00:00/28	CirqueAu	Cirque Audio Technology Co.,Ltd
+FC:D2:B6:70:00:00/28	TeamlyDi	Teamly Digital
+FC:D2:B6:80:00:00/28	OvissLab	Oviss Labs Inc.
+FC:D2:B6:90:00:00/28	Winglet	Winglet Systems Inc.
+FC:D2:B6:A0:00:00/28	NrealTec	Nreal Technology Limited
+FC:D2:B6:B0:00:00/28	TChipDig	T Chip Digital Technology Co.Ltd
+FC:D2:B6:C0:00:00/28	SiliconS	Silicon (Shenzhen) Electronic Technology Co.,Ltd.
+FC:D2:B6:D0:00:00/28	BeeSmart	Bee Smart(Changzhou) Information Technology Co., Ltd
+FC:D2:B6:E0:00:00/28	UniverSP	Univer S.p.A.
